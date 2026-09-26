@@ -331,6 +331,8 @@ def main():
     all_articles = get_all_articles()
     if not all_articles:
         print("Aucun article trouvé via sitemap/RSS. Vérifie l'URL ou la structure du site.")
+        state["last_run"] = datetime.now(timezone.utc).isoformat()
+        save_state(state)
         return
 
     new_articles = [a for a in all_articles if a["url"] not in seen]
