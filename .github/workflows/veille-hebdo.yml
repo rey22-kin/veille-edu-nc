@@ -1,0 +1,32 @@
+name: Rapport hebdomadaire veille edu-nc.gouv.cd
+
+on:
+  schedule:
+    # Chaque lundi à 6h UTC (= 7h à Kinshasa)
+    - cron: "0 6 * * 1"
+  workflow_dispatch: {}
+
+jobs:
+  rapport-hebdo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les dépendances
+        run: pip install requests beautifulsoup4
+
+      - name: Générer et envoyer le rapport hebdomadaire
+        env:
+          SITE_URL: "https://edu-nc.gouv.cd"
+          SMTP_HOST: "smtp.gmail.com"
+          SMTP_PORT: "587"
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          ALERT_EMAIL_TO: ${{ secrets.ALERT_EMAIL_TO }}
+        run: python scan_site.py weekly
