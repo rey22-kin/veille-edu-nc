@@ -6,12 +6,13 @@ Veille automatique pour edu-nc.gouv.cd
 - Vérifie l'orthographe/grammaire (via l'API LanguageTool, gratuite)
 - Vérifie les liens cassés et images sans texte alternatif
 - Vérifie les métadonnées manquantes (titre, description, date, auteur)
-- Compte les articles publiés dans les 7 derniers jours
-- Envoie un rapport par email
+- Envoie une alerte email à chaque nouvelle publication
+- Envoie un rapport hebdomadaire (lundi au dimanche) chaque lundi matin
 """
 
 import os
 import re
+import sys
 import json
 import time
 import smtplib
@@ -39,7 +40,6 @@ ALERT_EMAIL_TO = os.environ.get("ALERT_EMAIL_TO", SMTP_USER)
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; VeilleEduNC/1.0)"}
 REQUEST_TIMEOUT = 15
 
-# Page qui liste les actualités du site
 LISTING_PATHS = ["/actualites"]
 ARTICLE_PATH_PATTERN = re.compile(r"^/actualites/[a-z0-9\-]+/?$")
 
@@ -52,12 +52,23 @@ DATE_PATTERN = re.compile(
     r"(\d{1,2})\s+(" + "|".join(MOIS_FR.keys()) + r")\s+(\d{4})", re.IGNORECASE
 )
 
+# Traduction des catégories LanguageTool en français simple
+CATEGORY_LABELS = {
+    "TYPOS": "Faute d'orthographe",
+    "GRAMMAR": "Faute de grammaire",
+    "PUNCTUATION": "Ponctuation",
+    "CASING": "Majuscule/minuscule",
+    "STYLE": "Style",
+    "REDUNDANCY": "Répétition",
+    "CONFUSED_WORDS": "Mot confondu",
+    "TYPOGRAPHY": "Typographie",
+}
+
 # ---------------------------------------------------------------------------
 # 1. TROUVER LES ARTICLES
 # ---------------------------------------------------------------------------
 
 def parse_french_date(text):
-    """Cherche une date du type '24 septembre 2026' dans un texte."""
     if not text:
         return None
     m = DATE_PATTERN.search(text)
@@ -75,7 +86,6 @@ def parse_french_date(text):
 
 
 def scan_listing_pages():
-    """Scanne les pages de listing (ex: /actualites) pour trouver les liens d'articles."""
     articles = {}
     for path in LISTING_PATHS:
         url = urljoin(SITE_URL, path)
@@ -97,7 +107,6 @@ def scan_listing_pages():
             if full_url in articles:
                 continue
 
-            # Cherche une date dans les environs du lien (carte de l'article)
             lastmod = None
             node = a
             for _ in range(5):
@@ -170,19 +179,14 @@ def parse_rss(content):
 
 def get_all_articles():
     all_articles = {}
-
-    # Priorité : la page de listing (fiable pour ce site)
     for a in scan_listing_pages():
         all_articles[a["url"]] = a
-
-    # Repli / complément : sitemap ou RSS si disponibles
     for url, content in find_sitemap_urls():
         parsed = parse_rss(content) if ("rss" in url or "feed" in url) else parse_sitemap_xml(content)
         for a in parsed:
             path = urlparse(a["url"]).path
             if path and path not in ("/", "") and a["url"] not in all_articles:
                 all_articles[a["url"]] = a
-
     return list(all_articles.values())
 
 
@@ -200,6 +204,7 @@ def fetch_page(url):
 
 
 def check_spelling(text):
+    """Retourne une liste de fautes claires : type, passage concerné, explication, correction."""
     if not text or len(text.strip()) < 20:
         return []
     text = text[:15000]
@@ -210,11 +215,18 @@ def check_spelling(text):
         resp.raise_for_status()
         matches = resp.json().get("matches", [])
         errors = []
-        for m in matches[:30]:
+        for m in matches[:40]:
             context = m["context"]["text"]
+            offset = m["context"]["offset"]
+            length = m["context"]["length"]
+            mot_fautif = context[offset:offset + length]
+            category_id = m.get("rule", {}).get("category", {}).get("id", "")
+            category_label = CATEGORY_LABELS.get(category_id, "Erreur linguistique")
             errors.append({
-                "message": m["message"],
-                "context": context,
+                "type": category_label,
+                "passage": context,
+                "mot_fautif": mot_fautif,
+                "explication": m["message"],
                 "suggestions": [r["value"] for r in m.get("replacements", [])[:3]],
             })
         return errors
@@ -290,7 +302,7 @@ def load_state():
     if os.path.exists(STATE_FILE):
         with open(STATE_FILE, "r", encoding="utf-8") as f:
             return json.load(f)
-    return {"seen_urls": [], "last_run": None}
+    return {"seen_urls": [], "last_run": None, "articles": {}}
 
 
 def save_state(state):
@@ -298,56 +310,142 @@ def save_state(state):
         json.dump(state, f, ensure_ascii=False, indent=2)
 
 
+def record_article(state, article, analysis):
+    """Sauvegarde le résultat d'analyse d'un article pour le rapport hebdomadaire."""
+    state.setdefault("articles", {})
+    state["articles"][article["url"]] = {
+        "title": analysis.get("title", article["url"]),
+        "url": article["url"],
+        "lastmod": article.get("lastmod"),
+        "analyzed_at": datetime.now(timezone.utc).isoformat(),
+        "spelling_errors": analysis.get("spelling_errors", []),
+        "broken_links": analysis.get("broken_links", []),
+        "missing_alt_images": analysis.get("missing_alt_images", []),
+        "missing_metadata": analysis.get("missing_metadata", []),
+        "error": analysis.get("error"),
+    }
+
+
 # ---------------------------------------------------------------------------
-# 4. RAPPORT + EMAIL
+# 4. FORMATAGE DU RAPPORT (fautes claires et explicites)
 # ---------------------------------------------------------------------------
 
-def build_report(new_articles_analysis, weekly_count):
+def format_article_block(art):
     lines = []
-    lines.append(f"RAPPORT DE VEILLE — {SITE_URL}")
-    lines.append(f"Généré le {datetime.now().strftime('%d/%m/%Y à %H:%M')}")
-    lines.append("=" * 60)
-    lines.append(f"\nArticles publiés durant les 7 derniers jours : {weekly_count}")
-    lines.append(f"Nouveaux articles détectés à ce scan : {len(new_articles_analysis)}\n")
+    lines.append("=" * 70)
+    lines.append(f"📰 ARTICLE : {art.get('title', art['url'])}")
+    lines.append(f"🔗 Lien : {art['url']}")
+    if art.get("lastmod"):
+        try:
+            d = datetime.fromisoformat(art["lastmod"].replace("Z", "+00:00"))
+            lines.append(f"📅 Publié le : {d.strftime('%d/%m/%Y')}")
+        except (ValueError, TypeError):
+            pass
+    lines.append("")
 
-    if not new_articles_analysis:
-        lines.append("Aucun nouvel article depuis le dernier scan.")
+    if art.get("error"):
+        lines.append(f"⚠️  Problème : {art['error']}")
         return "\n".join(lines)
 
-    for art in new_articles_analysis:
-        lines.append("-" * 60)
-        lines.append(f"ARTICLE : {art.get('title', art['url'])}")
-        lines.append(f"URL : {art['url']}")
-
-        if art.get("error"):
-            lines.append(f"  ⚠️ {art['error']}")
-            continue
-
-        errs = art["spelling_errors"]
-        lines.append(f"\n  Fautes d'orthographe/grammaire détectées : {len(errs)}")
-        for e in errs[:10]:
-            lines.append(f"    - {e['message']}")
-            lines.append(f"      Contexte : \"{e['context']}\"")
+    errs = art.get("spelling_errors", [])
+    lines.append(f"✏️  FAUTES DÉTECTÉES : {len(errs)}")
+    if errs:
+        lines.append("")
+        for i, e in enumerate(errs, 1):
+            lines.append(f"  {i}. [{e['type']}]")
+            lines.append(f"     Passage concerné : \"...{e['passage']}...\"")
+            lines.append(f"     Mot/expression visé : « {e['mot_fautif']} »")
+            lines.append(f"     Explication : {e['explication']}")
             if e["suggestions"]:
-                lines.append(f"      Suggestions : {', '.join(e['suggestions'])}")
+                lines.append(f"     Correction suggérée : {' / '.join(e['suggestions'])}")
+            lines.append("")
+    else:
+        lines.append("     Aucune faute détectée.")
+        lines.append("")
 
-        if art["broken_links"]:
-            lines.append(f"\n  Liens cassés/inaccessibles ({len(art['broken_links'])}) :")
-            for link, code in art["broken_links"]:
-                lines.append(f"    - {link} (statut: {code})")
+    if art.get("broken_links"):
+        lines.append(f"🔗 LIENS CASSÉS : {len(art['broken_links'])}")
+        for link, code in art["broken_links"]:
+            lines.append(f"     - {link} (statut : {code})")
+        lines.append("")
 
-        if art["missing_alt_images"]:
-            lines.append(f"\n  Images sans texte alternatif ({len(art['missing_alt_images'])}) :")
-            for src in art["missing_alt_images"][:5]:
-                lines.append(f"    - {src}")
+    if art.get("missing_alt_images"):
+        lines.append(f"🖼️  IMAGES SANS DESCRIPTION (texte alternatif) : {len(art['missing_alt_images'])}")
+        for src in art["missing_alt_images"][:5]:
+            lines.append(f"     - {src}")
+        lines.append("")
 
-        if art["missing_metadata"]:
-            lines.append(f"\n  Métadonnées manquantes : {', '.join(art['missing_metadata'])}")
-
+    if art.get("missing_metadata"):
+        lines.append(f"📋 INFORMATIONS MANQUANTES : {', '.join(art['missing_metadata'])}")
         lines.append("")
 
     return "\n".join(lines)
 
+
+def build_alert_report(new_articles_analysis):
+    """Rapport envoyé immédiatement à chaque nouvelle publication."""
+    lines = []
+    lines.append(f"🔔 NOUVELLE PUBLICATION — {SITE_URL}")
+    lines.append(f"Détecté le {datetime.now().strftime('%d/%m/%Y à %H:%M')}")
+    lines.append("")
+    for art in new_articles_analysis:
+        lines.append(format_article_block(art))
+    return "\n".join(lines)
+
+
+def build_weekly_report(state):
+    """Rapport hebdomadaire : tous les articles publiés du lundi au dimanche précédent."""
+    now = datetime.now(timezone.utc)
+    start_of_this_week = (now - timedelta(days=now.weekday())).replace(
+        hour=0, minute=0, second=0, microsecond=0
+    )
+    period_end = start_of_this_week
+    period_start = period_end - timedelta(days=7)
+
+    articles = list(state.get("articles", {}).values())
+    week_articles = []
+    for art in articles:
+        if not art.get("lastmod"):
+            continue
+        try:
+            d = datetime.fromisoformat(art["lastmod"].replace("Z", "+00:00"))
+        except (ValueError, TypeError):
+            continue
+        if period_start <= d < period_end:
+            week_articles.append(art)
+
+    week_articles.sort(key=lambda a: a.get("lastmod") or "")
+
+    total_fautes = sum(len(a.get("spelling_errors", [])) for a in week_articles)
+    total_liens_casses = sum(len(a.get("broken_links", [])) for a in week_articles)
+
+    lines = []
+    lines.append("#" * 70)
+    lines.append(f"📊 RAPPORT HEBDOMADAIRE DE VEILLE — {SITE_URL}")
+    lines.append(f"Semaine du {period_start.strftime('%d/%m/%Y')} au {(period_end - timedelta(days=1)).strftime('%d/%m/%Y')}")
+    lines.append("#" * 70)
+    lines.append("")
+    lines.append("RÉSUMÉ")
+    lines.append(f"  • Articles publiés cette semaine : {len(week_articles)}")
+    lines.append(f"  • Total de fautes détectées : {total_fautes}")
+    lines.append(f"  • Total de liens cassés détectés : {total_liens_casses}")
+    lines.append("")
+
+    if not week_articles:
+        lines.append("Aucun article publié cette semaine.")
+        return "\n".join(lines)
+
+    lines.append("DÉTAIL PAR ARTICLE")
+    lines.append("")
+    for art in week_articles:
+        lines.append(format_article_block(art))
+
+    return "\n".join(lines)
+
+
+# ---------------------------------------------------------------------------
+# 5. EMAIL
+# ---------------------------------------------------------------------------
 
 def send_email(subject, body):
     if not SMTP_USER or not SMTP_PASSWORD:
@@ -368,10 +466,11 @@ def send_email(subject, body):
 
 
 # ---------------------------------------------------------------------------
-# 5. PROGRAMME PRINCIPAL
+# 6. PROGRAMMES PRINCIPAUX
 # ---------------------------------------------------------------------------
 
-def main():
+def run_scan():
+    """Scan normal : détecte les nouveaux articles et alerte immédiatement."""
     state = load_state()
     seen = set(state.get("seen_urls", []))
 
@@ -384,32 +483,33 @@ def main():
 
     new_articles = [a for a in all_articles if a["url"] not in seen]
 
-    one_week_ago = datetime.now(timezone.utc) - timedelta(days=7)
-    weekly_count = 0
-    for a in all_articles:
-        if a.get("lastmod"):
-            try:
-                d = datetime.fromisoformat(a["lastmod"].replace("Z", "+00:00"))
-                if d.tzinfo is None:
-                    d = d.replace(tzinfo=timezone.utc)
-                if d >= one_week_ago:
-                    weekly_count += 1
-            except ValueError:
-                pass
-
     analyses = []
     for a in new_articles:
         print(f"Analyse de {a['url']} ...")
-        analyses.append(analyze_article(a["url"]))
+        analysis = analyze_article(a["url"])
+        analyses.append(analysis)
+        record_article(state, a, analysis)
         time.sleep(1)
 
-    report = build_report(analyses, weekly_count)
-    send_email(f"[Veille edu-nc.gouv.cd] {len(new_articles)} nouvel(aux) article(s)", report)
+    if analyses:
+        report = build_alert_report(analyses)
+        send_email(f"🔔 [Veille edu-nc.gouv.cd] {len(new_articles)} nouvel(aux) article(s)", report)
 
     state["seen_urls"] = list(seen | {a["url"] for a in all_articles})
     state["last_run"] = datetime.now(timezone.utc).isoformat()
     save_state(state)
 
 
+def run_weekly_report():
+    """Génère et envoie le rapport hebdomadaire (à lancer le lundi matin)."""
+    state = load_state()
+    report = build_weekly_report(state)
+    send_email(f"📊 [Veille edu-nc.gouv.cd] Rapport hebdomadaire", report)
+    save_state(state)
+
+
 if __name__ == "__main__":
-    main()
+    if len(sys.argv) > 1 and sys.argv[1] == "weekly":
+        run_weekly_report()
+    else:
+        run_scan()
