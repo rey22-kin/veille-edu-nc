@@ -2,18 +2,16 @@
 """
 Veille automatique pour edu-nc.gouv.cd
 ----------------------------------------
-- Repère les nouveaux articles publiés (via sitemap.xml ou flux RSS)
+- Repère les nouveaux articles publiés (page /actualites, avec repli sur sitemap/RSS)
 - Vérifie l'orthographe/grammaire (via l'API LanguageTool, gratuite)
 - Vérifie les liens cassés et images sans texte alternatif
 - Vérifie les métadonnées manquantes (titre, description, date, auteur)
 - Compte les articles publiés dans les 7 derniers jours
 - Envoie un rapport par email
-
-Configuration : voir les variables d'environnement en bas du fichier
-(à définir en secrets GitHub Actions, ou dans un fichier .env local).
 """
 
 import os
+import re
 import json
 import time
 import smtplib
@@ -34,26 +32,91 @@ LANG = "fr"
 
 SMTP_HOST = os.environ.get("SMTP_HOST", "smtp.gmail.com")
 SMTP_PORT = int(os.environ.get("SMTP_PORT", "587"))
-SMTP_USER = os.environ.get("SMTP_USER")          # ex: toncompte@gmail.com
-SMTP_PASSWORD = os.environ.get("SMTP_PASSWORD")  # mot de passe d'application
+SMTP_USER = os.environ.get("SMTP_USER")
+SMTP_PASSWORD = os.environ.get("SMTP_PASSWORD")
 ALERT_EMAIL_TO = os.environ.get("ALERT_EMAIL_TO", SMTP_USER)
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; VeilleEduNC/1.0)"}
 REQUEST_TIMEOUT = 15
 
+# Page qui liste les actualités du site
+LISTING_PATHS = ["/actualites"]
+ARTICLE_PATH_PATTERN = re.compile(r"^/actualites/[a-z0-9\-]+/?$")
+
+MOIS_FR = {
+    "janvier": 1, "février": 2, "mars": 3, "avril": 4, "mai": 5, "juin": 6,
+    "juillet": 7, "août": 8, "septembre": 9, "octobre": 10,
+    "novembre": 11, "décembre": 12,
+}
+DATE_PATTERN = re.compile(
+    r"(\d{1,2})\s+(" + "|".join(MOIS_FR.keys()) + r")\s+(\d{4})", re.IGNORECASE
+)
+
 # ---------------------------------------------------------------------------
-# 1. TROUVER LES ARTICLES (sitemap ou RSS)
+# 1. TROUVER LES ARTICLES
 # ---------------------------------------------------------------------------
 
+def parse_french_date(text):
+    """Cherche une date du type '24 septembre 2026' dans un texte."""
+    if not text:
+        return None
+    m = DATE_PATTERN.search(text)
+    if not m:
+        return None
+    day, month_name, year = m.groups()
+    month = MOIS_FR.get(month_name.lower())
+    if not month:
+        return None
+    try:
+        d = datetime(int(year), month, int(day), tzinfo=timezone.utc)
+        return d.isoformat()
+    except ValueError:
+        return None
+
+
+def scan_listing_pages():
+    """Scanne les pages de listing (ex: /actualites) pour trouver les liens d'articles."""
+    articles = {}
+    for path in LISTING_PATHS:
+        url = urljoin(SITE_URL, path)
+        try:
+            r = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+            r.raise_for_status()
+        except requests.RequestException:
+            continue
+
+        soup = BeautifulSoup(r.text, "html.parser")
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+            parsed = urlparse(href)
+            article_path = parsed.path
+            if not ARTICLE_PATH_PATTERN.match(article_path):
+                continue
+
+            full_url = urljoin(SITE_URL, article_path)
+            if full_url in articles:
+                continue
+
+            # Cherche une date dans les environs du lien (carte de l'article)
+            lastmod = None
+            node = a
+            for _ in range(5):
+                if node is None:
+                    break
+                lastmod = parse_french_date(node.get_text(" ", strip=True))
+                if lastmod:
+                    break
+                node = node.parent
+
+            articles[full_url] = {"url": full_url, "lastmod": lastmod}
+
+    return list(articles.values())
+
+
 def find_sitemap_urls():
-    """Essaie plusieurs emplacements courants de sitemap."""
     candidates = [
-        "/sitemap.xml",
-        "/sitemap_index.xml",
-        "/wp-sitemap.xml",
-        "/sitemap-articles.xml",
-        "/feed/",
-        "/rss.xml",
+        "/sitemap.xml", "/sitemap_index.xml", "/wp-sitemap.xml",
+        "/sitemap-articles.xml", "/feed/", "/rss.xml",
     ]
     found = []
     for path in candidates:
@@ -68,13 +131,11 @@ def find_sitemap_urls():
 
 
 def parse_sitemap_xml(content):
-    """Extrait les URLs (et lastmod si dispo) d'un sitemap XML."""
     articles = []
     try:
         root = ET.fromstring(content)
     except ET.ParseError:
         return articles
-
     ns = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
     for url_el in root.findall(".//sm:url", ns) or root.findall(".//url"):
         loc = url_el.find("sm:loc", ns)
@@ -83,8 +144,6 @@ def parse_sitemap_xml(content):
         lastmod = lastmod.text if lastmod is not None else url_el.findtext("lastmod")
         if loc:
             articles.append({"url": loc.strip(), "lastmod": lastmod})
-
-    # Si c'est un sitemap-index, aller chercher les sous-sitemaps
     for sm_el in root.findall(".//sm:sitemap/sm:loc", ns) or root.findall(".//sitemap/loc"):
         try:
             r = requests.get(sm_el.text.strip(), headers=HEADERS, timeout=REQUEST_TIMEOUT)
@@ -92,7 +151,6 @@ def parse_sitemap_xml(content):
                 articles.extend(parse_sitemap_xml(r.content))
         except requests.RequestException:
             continue
-
     return articles
 
 
@@ -112,21 +170,24 @@ def parse_rss(content):
 
 def get_all_articles():
     all_articles = {}
+
+    # Priorité : la page de listing (fiable pour ce site)
+    for a in scan_listing_pages():
+        all_articles[a["url"]] = a
+
+    # Repli / complément : sitemap ou RSS si disponibles
     for url, content in find_sitemap_urls():
-        if "rss" in url or "feed" in url:
-            parsed = parse_rss(content)
-        else:
-            parsed = parse_sitemap_xml(content)
+        parsed = parse_rss(content) if ("rss" in url or "feed" in url) else parse_sitemap_xml(content)
         for a in parsed:
-            # On ne garde que les pages qui ressemblent à des articles
             path = urlparse(a["url"]).path
-            if path and path not in ("/", ""):
+            if path and path not in ("/", "") and a["url"] not in all_articles:
                 all_articles[a["url"]] = a
+
     return list(all_articles.values())
 
 
 # ---------------------------------------------------------------------------
-# 2. ANALYSER UN ARTICLE (orthographe, bugs, métadonnées)
+# 2. ANALYSER UN ARTICLE
 # ---------------------------------------------------------------------------
 
 def fetch_page(url):
@@ -134,26 +195,22 @@ def fetch_page(url):
         r = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
         r.raise_for_status()
         return r
-    except requests.RequestException as e:
+    except requests.RequestException:
         return None
 
 
 def check_spelling(text):
-    """Envoie le texte à LanguageTool et retourne la liste des fautes."""
     if not text or len(text.strip()) < 20:
         return []
-    # LanguageTool limite la taille des requêtes ; on tronque si besoin
     text = text[:15000]
     try:
         resp = requests.post(
-            LANGUAGETOOL_API,
-            data={"text": text, "language": LANG},
-            timeout=30,
+            LANGUAGETOOL_API, data={"text": text, "language": LANG}, timeout=30,
         )
         resp.raise_for_status()
         matches = resp.json().get("matches", [])
         errors = []
-        for m in matches[:30]:  # on limite pour ne pas noyer le rapport
+        for m in matches[:30]:
             context = m["context"]["text"]
             errors.append({
                 "message": m["message"],
@@ -168,18 +225,14 @@ def check_spelling(text):
 def check_links_and_images(soup, base_url):
     broken_links = []
     missing_alt = []
-
-    # Images sans texte alternatif
     for img in soup.find_all("img"):
         if not img.get("alt", "").strip():
-            src = img.get("src", "inconnu")
-            missing_alt.append(src)
+            missing_alt.append(img.get("src", "inconnu"))
 
-    # Liens (on vérifie seulement un échantillon pour rester rapide)
     links = [a.get("href") for a in soup.find_all("a") if a.get("href")]
     checked = 0
     for href in links:
-        if checked >= 15:  # limite pour éviter les scans trop longs
+        if checked >= 15:
             break
         full_url = urljoin(base_url, href)
         if not full_url.startswith("http"):
@@ -214,29 +267,23 @@ def analyze_article(url):
         return {"url": url, "error": "page inaccessible"}
 
     soup = BeautifulSoup(resp.text, "html.parser")
-
-    # Texte principal (heuristique simple : paragraphes)
     paragraphs = [p.get_text(" ", strip=True) for p in soup.find_all("p")]
     full_text = " ".join(paragraphs)
 
     spelling_errors = check_spelling(full_text)
     broken_links, missing_alt = check_links_and_images(soup, url)
     missing_meta = check_missing_metadata(soup)
-
     title = soup.title.text.strip() if soup.title else url
 
     return {
-        "url": url,
-        "title": title,
-        "spelling_errors": spelling_errors,
-        "broken_links": broken_links,
-        "missing_alt_images": missing_alt,
+        "url": url, "title": title, "spelling_errors": spelling_errors,
+        "broken_links": broken_links, "missing_alt_images": missing_alt,
         "missing_metadata": missing_meta,
     }
 
 
 # ---------------------------------------------------------------------------
-# 3. ÉTAT (mémoriser les articles déjà vus)
+# 3. ÉTAT
 # ---------------------------------------------------------------------------
 
 def load_state():
@@ -330,20 +377,21 @@ def main():
 
     all_articles = get_all_articles()
     if not all_articles:
-        print("Aucun article trouvé via sitemap/RSS. Vérifie l'URL ou la structure du site.")
+        print("Aucun article trouvé sur /actualites ni via sitemap/RSS.")
         state["last_run"] = datetime.now(timezone.utc).isoformat()
         save_state(state)
         return
 
     new_articles = [a for a in all_articles if a["url"] not in seen]
 
-    # Compter les articles de la semaine (si lastmod disponible)
     one_week_ago = datetime.now(timezone.utc) - timedelta(days=7)
     weekly_count = 0
     for a in all_articles:
         if a.get("lastmod"):
             try:
                 d = datetime.fromisoformat(a["lastmod"].replace("Z", "+00:00"))
+                if d.tzinfo is None:
+                    d = d.replace(tzinfo=timezone.utc)
                 if d >= one_week_ago:
                     weekly_count += 1
             except ValueError:
@@ -353,12 +401,11 @@ def main():
     for a in new_articles:
         print(f"Analyse de {a['url']} ...")
         analyses.append(analyze_article(a["url"]))
-        time.sleep(1)  # pour ne pas surcharger l'API LanguageTool
+        time.sleep(1)
 
     report = build_report(analyses, weekly_count)
     send_email(f"[Veille edu-nc.gouv.cd] {len(new_articles)} nouvel(aux) article(s)", report)
 
-    # Mettre à jour l'état
     state["seen_urls"] = list(seen | {a["url"] for a in all_articles})
     state["last_run"] = datetime.now(timezone.utc).isoformat()
     save_state(state)
