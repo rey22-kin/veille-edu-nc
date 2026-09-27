@@ -1,13 +1,284 @@
 {
   "seen_urls": [
+    "https://edu-nc.gouv.cd/actualites/lycee-mgr-shaumba-felix-tshisekedi-concretise-son-engagement-avec-deux-bus-et-une-centaine-d-ordinateurs",
+    "https://edu-nc.gouv.cd/actualites/peqip-les-experts-evaluent-l-etat-d-avancement-des-chantiers-scolaires-et-d-ouvrages-wash-au-kasai-oriental",
     "https://edu-nc.gouv.cd/actualites/kasai-central-et-kasai-oriental-le-gouvernement-renforce-la-mise-en-uvre-des-cantines-scolaires-pilotes",
+    "https://edu-nc.gouv.cd/actualites/kasai-central-le-paaf-sensibilise-les-autorites-politico-administratives-et-les-leaders-communautaires-a-l-education-et-l-autonomisation-des-filles",
+    "https://edu-nc.gouv.cd/actualites/rentree-scolaire-a-kintambo-la-sous-division-rappelle-aux-chefs-d-etablissements-leurs-responsabilites",
     "https://edu-nc.gouv.cd/actualites/paaf-debut-de-la-campagne-de-recrutement-de-2-500-enseignantes-du-secondaire-fondee-sur-le-merite-et-la-promotion-de-la-representation-feminine",
     "https://edu-nc.gouv.cd/actualites/haut-katanga-1-lancement-des-clubs-de-veille-citoyenne-a-likasi-1",
-    "https://edu-nc.gouv.cd/actualites/rentree-scolaire-a-kintambo-la-sous-division-rappelle-aux-chefs-d-etablissements-leurs-responsabilites",
-    "https://edu-nc.gouv.cd/actualites/peqip-les-experts-evaluent-l-etat-d-avancement-des-chantiers-scolaires-et-d-ouvrages-wash-au-kasai-oriental",
-    "https://edu-nc.gouv.cd/actualites/kalemie-le-secretaire-general-juvenal-sanga-kaubo-a-officiellement-lance-la-distribution-des-fournitures-et-kits-scolaires-aux-eleves-du-tanganyika",
-    "https://edu-nc.gouv.cd/actualites/lycee-mgr-shaumba-felix-tshisekedi-concretise-son-engagement-avec-deux-bus-et-une-centaine-d-ordinateurs",
-    "https://edu-nc.gouv.cd/actualites/kasai-central-le-paaf-sensibilise-les-autorites-politico-administratives-et-les-leaders-communautaires-a-l-education-et-l-autonomisation-des-filles"
+    "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative",
+    "https://edu-nc.gouv.cd/actualites/kalemie-le-secretaire-general-juvenal-sanga-kaubo-a-officiellement-lance-la-distribution-des-fournitures-et-kits-scolaires-aux-eleves-du-tanganyika"
   ],
-  "last_run": "2026-09-26T18:04:20.793799+00:00"
+  "last_run": "2026-09-27T00:05:49.940069+00:00",
+  "articles": {
+    "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative": {
+      "title": "MINEDU-NC - ONU : de l’accès à l’école à la qualité des apprentissages, la RDC poursuit sa transformation éducative",
+      "url": "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative",
+      "lastmod": "2026-09-26T00:00:00+00:00",
+      "analyzed_at": "2026-09-27T00:05:47.605700+00:00",
+      "spelling_errors": [
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ariat général Système éducatif Épreuves certificatives Système éducatif Épreuves certificative...",
+          "mot_fautif": "certificatives",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "certificat ives"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ertificatives Système éducatif Épreuves certificatives À la tribune de la 81ᵉ Assemblée généra...",
+          "mot_fautif": "certificatives",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "certificat ives"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...épublique démocratique du Congo, Judith Suminwa Tuluka, a mis en avant les avancées enr...",
+          "mot_fautif": "Suminwa",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Rumina",
+            "Suinta",
+            "Surina"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...e démocratique du Congo, Judith Suminwa Tuluka, a mis en avant les avancées enregistré...",
+          "mot_fautif": "Tuluka",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "T'ulula",
+            "Luka",
+            "Tulsa"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...rimaire dans les établissements publics.  Dans son discours, la Cheffe du Gouverne...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...tre 14,7 millions quatre ans auparavant.  « Au cours de l’année scolaire 2023-2024...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...imaire, contre 14,7 millions quatre ans auparavant. Cette progression traduit l’élargissem...",
+          "mot_fautif": "auparavant",
+          "explication": "Ce mot apparaît déjà dans l’une des phrases précédant immédiatement celle-ci. Utilisez un synonyme pour apporter plus de variété à votre texte, excepté si la répétition est intentionnelle.",
+          "suggestions": [
+            "autrefois",
+            "jadis",
+            "précédemment"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...catif plus inclusif », a déclaré Judith Suminwa.  Au-delà de l’accès à l’école, le Gouv...",
+          "mot_fautif": "Suminwa",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Rumina",
+            "Suinta",
+            "Surina"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...us inclusif », a déclaré Judith Suminwa.  Au-delà de l’accès à l’école, le Gouvern...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Majuscule/minuscule",
+          "passage": "...sages, conformément aux orientations du Président de la République. Cette ambition est portée au niveau se...",
+          "mot_fautif": "Président de la République",
+          "explication": "Un usage différent des majuscules et des minuscules est recommandé.",
+          "suggestions": [
+            "président de la République"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...tionale et Nouvelle Citoyenneté, Raïssa Malu, à travers les différentes réformes eng...",
+          "mot_fautif": "Malu",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Ma lu",
+            "Mal",
+            "Mâle"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...tes réformes engagées par son ministère.  Ces réformes portent notamment sur l’amé...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...isant un système éducatif plus inclusif.  Le Gouvernement poursuit également le dé...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...réquentation et la rétention des élèves.  « L’accès à l’école ne suffit pas. Chaqu...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...emps », a souligné la Première ministre.  Une attention particulière est par aille...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "... enfants en situation de vulnérabilité, notamment les filles, les enfants vivant avec han...",
+          "mot_fautif": "notamment",
+          "explication": "Ce mot apparaît déjà dans l’une des phrases précédant immédiatement celle-ci. Utilisez un synonyme pour apporter plus de variété à votre texte, excepté si la répétition est intentionnelle.",
+          "suggestions": [
+            "particulièrement",
+            "spécialement",
+            "singulièrement"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...ns les zones affectées par les conflits.  À travers cette intervention à l’ONU, le...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...onsacrée à l’amélioration de la qualité.  Sous la conduite de Raïssa Malu, le mini...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...la qualité.  Sous la conduite de Raïssa Malu, le ministère de l’Éducation nationale ...",
+          "mot_fautif": "Malu",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Ma lu",
+            "Mal",
+            "Mâle"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "... plus performant, inclusif et équitable.  Ivan Honoré Mudiangombé Filtrez par stru...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...nt, inclusif et équitable.  Ivan Honoré Mudiangombé Filtrez par structure ou par type de do...",
+          "mot_fautif": "Mudiangombé",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": []
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "... et équitable.  Ivan Honoré Mudiangombé Filtrez par structure ou par type de document p...",
+          "mot_fautif": "Filtrez",
+          "explication": "Conjugaison erronée. Accord avec “Ivan”. Le verbe devrait être à la 3ᵉ personne du singulier.",
+          "suggestions": [
+            "Filtre"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...8 02, Avenue des Ambassadeurs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministèr...",
+          "mot_fautif": "Gombe",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Tombe",
+            "Bombe",
+            "Tombé"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...venue des Ambassadeurs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de...",
+          "mot_fautif": "RD",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "CD",
+            "RDA",
+            "RN"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...rs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de l’Éducation National...",
+          "mot_fautif": "KIN",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "FIN",
+            "VIN",
+            "MIN"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...nshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de l’Éducation Nationale et N...",
+          "mot_fautif": "DGC",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "DUC",
+            "DEC",
+            "DG"
+          ]
+        }
+      ],
+      "broken_links": [],
+      "missing_alt_images": [],
+      "missing_metadata": [
+        "auteur"
+      ],
+      "error": null
+    }
+  }
 }
