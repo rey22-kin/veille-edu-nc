@@ -1,18 +1,20 @@
 {
   "seen_urls": [
-    "https://edu-nc.gouv.cd/actualites/kasai-central-le-paaf-sensibilise-les-autorites-politico-administratives-et-les-leaders-communautaires-a-l-education-et-l-autonomisation-des-filles",
-    "https://edu-nc.gouv.cd/actualites/tshangu-lancement-de-la-campagne-pilote-de-recrutement-des-enseignantes-du-secondaire",
-    "https://edu-nc.gouv.cd/actualites/kasai-central-et-kasai-oriental-le-gouvernement-renforce-la-mise-en-uvre-des-cantines-scolaires-pilotes",
-    "https://edu-nc.gouv.cd/actualites/paaf-debut-de-la-campagne-de-recrutement-de-2-500-enseignantes-du-secondaire-fondee-sur-le-merite-et-la-promotion-de-la-representation-feminine",
     "https://edu-nc.gouv.cd/actualites/haut-katanga-1-lancement-des-clubs-de-veille-citoyenne-a-likasi-1",
-    "https://edu-nc.gouv.cd/actualites/peqip-les-experts-evaluent-l-etat-d-avancement-des-chantiers-scolaires-et-d-ouvrages-wash-au-kasai-oriental",
-    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026",
+    "https://edu-nc.gouv.cd/actualites/kasai-central-et-kasai-oriental-le-gouvernement-renforce-la-mise-en-uvre-des-cantines-scolaires-pilotes",
+    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026-le-reajustement-de-la-prime-de-gratuite-pour-plusieurs-milliers-d-enseignants-parmi-les-realisations-semestrielles",
+    "https://edu-nc.gouv.cd/actualites/kalemie-le-secretaire-general-juvenal-sanga-kaubo-a-officiellement-lance-la-distribution-des-fournitures-et-kits-scolaires-aux-eleves-du-tanganyika",
     "https://edu-nc.gouv.cd/actualites/lycee-mgr-shaumba-felix-tshisekedi-concretise-son-engagement-avec-deux-bus-et-une-centaine-d-ordinateurs",
+    "https://edu-nc.gouv.cd/actualites/kasai-central-le-paaf-sensibilise-les-autorites-politico-administratives-et-les-leaders-communautaires-a-l-education-et-l-autonomisation-des-filles",
+    "https://edu-nc.gouv.cd/actualites/peqip-les-experts-evaluent-l-etat-d-avancement-des-chantiers-scolaires-et-d-ouvrages-wash-au-kasai-oriental",
+    "https://edu-nc.gouv.cd/actualites/perse-les-eleves-et-enseignants-de-l-ecole-primaire-st-georges-a-kintambo-sensibilises-aux-violences-basees-sur-le-genre",
+    "https://edu-nc.gouv.cd/actualites/paaf-debut-de-la-campagne-de-recrutement-de-2-500-enseignantes-du-secondaire-fondee-sur-le-merite-et-la-promotion-de-la-representation-feminine",
+    "https://edu-nc.gouv.cd/actualites/tshangu-lancement-de-la-campagne-pilote-de-recrutement-des-enseignantes-du-secondaire",
+    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026",
     "https://edu-nc.gouv.cd/actualites/rentree-scolaire-a-kintambo-la-sous-division-rappelle-aux-chefs-d-etablissements-leurs-responsabilites",
-    "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative",
-    "https://edu-nc.gouv.cd/actualites/kalemie-le-secretaire-general-juvenal-sanga-kaubo-a-officiellement-lance-la-distribution-des-fournitures-et-kits-scolaires-aux-eleves-du-tanganyika"
+    "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative"
   ],
-  "last_run": "2026-09-29T12:05:59.474545+00:00",
+  "last_run": "2026-09-29T18:06:58.572440+00:00",
   "articles": {
     "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative": {
       "title": "MINEDU-NC - ONU : de l’accès à l’école à la qualité des apprentissages, la RDC poursuit sa transformation éducative",
@@ -729,6 +731,456 @@
             "janvier — juin",
             "janvier-juin"
           ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...8 02, Avenue des Ambassadeurs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministèr...",
+          "mot_fautif": "Gombe",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Tombe",
+            "Bombe",
+            "Tombé"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...venue des Ambassadeurs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de...",
+          "mot_fautif": "RD",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "CD",
+            "RDA",
+            "RN"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...rs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de l’Éducation National...",
+          "mot_fautif": "KIN",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "FIN",
+            "VIN",
+            "MIN"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...nshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de l’Éducation Nationale et N...",
+          "mot_fautif": "DGC",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "DUC",
+            "DEC",
+            "DG"
+          ]
+        }
+      ],
+      "broken_links": [],
+      "missing_alt_images": [],
+      "missing_metadata": [
+        "auteur"
+      ],
+      "error": null
+    },
+    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026-le-reajustement-de-la-prime-de-gratuite-pour-plusieurs-milliers-d-enseignants-parmi-les-realisations-semestrielles": {
+      "title": "MINEDU-NC - Rapport semestriel de redevabilité Janvier-Juin 2026 : le réajustement de la prime de gratuité pour plusieurs milliers d'enseignants parmi les réalisations semestrielles",
+      "url": "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026-le-reajustement-de-la-prime-de-gratuite-pour-plusieurs-milliers-d-enseignants-parmi-les-realisations-semestrielles",
+      "lastmod": "2026-09-29T00:00:00+00:00",
+      "analyzed_at": "2026-09-29T18:06:43.325198+00:00",
+      "spelling_errors": [
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ariat général Système éducatif Épreuves certificatives Système éducatif Épreuves certificative...",
+          "mot_fautif": "certificatives",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "certificat ives"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ertificatives Système éducatif Épreuves certificatives Le Ministère de l’Éducation nationale e...",
+          "mot_fautif": "certificatives",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "certificat ives"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...vrant la période de janvier à juin 2026.  Le document fait le point sur les princi...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...age en République démocratique du Congo.  Au cours de ce premier semestre, plusieu...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...remière tranche de bourses scolaires au Kasaï, le lancement des travaux dans 56 école...",
+          "mot_fautif": "Kasaï",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Passai",
+            "Basai",
+            "Casai"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...iement de 78 cantines scolaires pilotes.  Dans le domaine de la gestion des enseig...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...nts de formation des enseignants figure également parmi les avancées du semestre, dans le...",
+          "mot_fautif": "également",
+          "explication": "Ce mot apparaît déjà dans l’une des phrases précédant immédiatement celle-ci. Utilisez un synonyme pour apporter plus de variété à votre texte, excepté si la répétition est intentionnelle.",
+          "suggestions": [
+            "aussi",
+            "par ailleurs",
+            "ainsi"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...ration de la qualité des apprentissages.  Le rapport revient par ailleurs sur les ...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...dans les zones affectées par les crises.  Cette démarche s’inscrit dans le cadre d...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...e les avancées réalisées sur le terrain.  Pour la Ministre d’État, il s’agit de « ...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...s et préciser les décisions à prendre ».  À travers ce rapport, le ministère enten...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...tés pour l’avenir de l’école congolaise.  Michaelle Kiasungwa Filtrez par structur...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...s pour l’avenir de l’école congolaise.  Michaelle Kiasungwa Filtrez par structure ou par ...",
+          "mot_fautif": "Michaelle",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Michelle",
+            "Michaëla",
+            "Michael le"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...venir de l’école congolaise.  Michaelle Kiasungwa Filtrez par structure ou par type de do...",
+          "mot_fautif": "Kiasungwa",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": []
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...8 02, Avenue des Ambassadeurs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministèr...",
+          "mot_fautif": "Gombe",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Tombe",
+            "Bombe",
+            "Tombé"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...venue des Ambassadeurs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de...",
+          "mot_fautif": "RD",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "CD",
+            "RDA",
+            "RN"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...rs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de l’Éducation National...",
+          "mot_fautif": "KIN",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "FIN",
+            "VIN",
+            "MIN"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...nshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de l’Éducation Nationale et N...",
+          "mot_fautif": "DGC",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "DUC",
+            "DEC",
+            "DG"
+          ]
+        }
+      ],
+      "broken_links": [],
+      "missing_alt_images": [],
+      "missing_metadata": [
+        "auteur"
+      ],
+      "error": null
+    },
+    "https://edu-nc.gouv.cd/actualites/perse-les-eleves-et-enseignants-de-l-ecole-primaire-st-georges-a-kintambo-sensibilises-aux-violences-basees-sur-le-genre": {
+      "title": "MINEDU-NC - Perse : les élèves et enseignants de l’École primaire St Georges à Kintambo sensibilisés aux violences basées sur le genre",
+      "url": "https://edu-nc.gouv.cd/actualites/perse-les-eleves-et-enseignants-de-l-ecole-primaire-st-georges-a-kintambo-sensibilises-aux-violences-basees-sur-le-genre",
+      "lastmod": "2026-09-29T00:00:00+00:00",
+      "analyzed_at": "2026-09-29T18:06:56.196508+00:00",
+      "spelling_errors": [
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ariat général Système éducatif Épreuves certificatives Système éducatif Épreuves certificative...",
+          "mot_fautif": "certificatives",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "certificat ives"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ertificatives Système éducatif Épreuves certificatives Les élèves et le personnel enseignant d...",
+          "mot_fautif": "certificatives",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "certificat ives"
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...ersonnel enseignant de l’École primaire St Georges, dans la sous-division de Kintambo à Ki...",
+          "mot_fautif": "St Georges",
+          "explication": "Il manque un trait d’union s’il s’agit d’une église, d’une cité, d’une communauté, d’un lieu… S’il s’agit d’une personne, écrivez “saint” ou “sainte” sans majuscule, sans trait d’union.",
+          "suggestions": [
+            "St-Georges"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...re St Georges, dans la sous-division de Kintambo à Kinshasa, ont été sensibilisés vendre...",
+          "mot_fautif": "Kintambo",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Mirambeau",
+            "Ingambe",
+            "Pintâmes"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "... formes de violences en milieu scolaire.  Parmi les violences récurrentes en milie...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...dignité et à la sécurité des apprenants.  Selon Patrick Lompole, sous-Proved de Ki...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...sécurité des apprenants.  Selon Patrick Lompole, sous-Proved de Kintambo, dénoncer tout...",
+          "mot_fautif": "Lompole",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Le Moule",
+            "Composé",
+            "Compose"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...pprenants.  Selon Patrick Lompole, sous-Proved de Kintambo, dénoncer tout acte de viol...",
+          "mot_fautif": "Proved",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Projet",
+            "Privé",
+            "Privée"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...  Selon Patrick Lompole, sous-Proved de Kintambo, dénoncer tout acte de violence dont un...",
+          "mot_fautif": "Kintambo",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Mirambeau",
+            "Ingambe",
+            "Pintâmes"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...aintenir la sécurité en milieu scolaire.  « Si vous êtes témoin ou victime d’une v...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...violence, il faut la dénoncer », a-t-il notamment rappelé, invitant les apprenants à fair...",
+          "mot_fautif": "notamment",
+          "explication": "Ce mot apparaît déjà dans l’une des phrases précédant immédiatement celle-ci. Utilisez un synonyme pour apporter plus de variété à votre texte, excepté si la répétition est intentionnelle.",
+          "suggestions": [
+            "particulièrement",
+            "spécialement",
+            "singulièrement"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...motion de la culture de la dénonciation.  Dans le même cadre, une boîte à plaintes...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...lée dans l’enceinte de l’école primaire Saint George, pour permettre aux élèves de signaler,...",
+          "mot_fautif": "Saint George",
+          "explication": "Il manque un trait d’union s’il s’agit d’une église, d’une cité, d’une communauté, d’un lieu… S’il s’agit d’une personne, écrivez “saint” sans majuscule, sans trait d’union.",
+          "suggestions": [
+            "Saint-George",
+            "saint George"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...xquelles ils pourraient être confrontés.  Cette initiative rejoint les objectifs d...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...basées sur le genre en milieu scolaire, notamment à travers la sensibilisation des acteur...",
+          "mot_fautif": "notamment",
+          "explication": "Ce mot apparaît déjà dans l’une des phrases précédant immédiatement celle-ci. Utilisez un synonyme pour apporter plus de variété à votre texte, excepté si la répétition est intentionnelle.",
+          "suggestions": [
+            "particulièrement",
+            "spécialement",
+            "singulièrement"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...nt scolaire protecteur pour les enfants.  En outre, le ministère de l’Éducation na...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...tion nationale et nouvelle citoyenneté (EDU-NC) de la République démocratique du Co...",
+          "mot_fautif": "EDU",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "DU",
+            "ÉLU",
+            "DÛ"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "... nationale et nouvelle citoyenneté (EDU-NC) de la République démocratique du Congo...",
+          "mot_fautif": "NC",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "nC",
+            "NE",
+            "NÉ"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...mauvais comportement en milieu scolaire.  Serge Kimbila Mwanantumi Filtrez par str...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...comportement en milieu scolaire.  Serge Kimbila Mwanantumi Filtrez par structure ou par...",
+          "mot_fautif": "Kimbila",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Kim bila"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ment en milieu scolaire.  Serge Kimbila Mwanantumi Filtrez par structure ou par type de do...",
+          "mot_fautif": "Mwanantumi",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": []
         },
         {
           "type": "Faute d'orthographe",
