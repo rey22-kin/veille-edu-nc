@@ -1,20 +1,21 @@
 {
   "seen_urls": [
-    "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative",
-    "https://edu-nc.gouv.cd/actualites/paaf-debut-de-la-campagne-de-recrutement-de-2-500-enseignantes-du-secondaire-fondee-sur-le-merite-et-la-promotion-de-la-representation-feminine",
-    "https://edu-nc.gouv.cd/actualites/kasai-central-et-kasai-oriental-le-gouvernement-renforce-la-mise-en-uvre-des-cantines-scolaires-pilotes",
+    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026-le-reajustement-de-la-prime-de-gratuite-pour-plusieurs-milliers-d-enseignants-parmi-les-realisations-semestrielles",
+    "https://edu-nc.gouv.cd/actualites/haut-katanga-1-lancement-des-clubs-de-veille-citoyenne-a-likasi-1",
+    "https://edu-nc.gouv.cd/actualites/sankuru-2-la-dinacope-renforce-les-capacites-de-ses-equipes-sur-le-controle-physique-digitalise",
     "https://edu-nc.gouv.cd/actualites/rentree-scolaire-a-kintambo-la-sous-division-rappelle-aux-chefs-d-etablissements-leurs-responsabilites",
     "https://edu-nc.gouv.cd/actualites/peqip-les-experts-evaluent-l-etat-d-avancement-des-chantiers-scolaires-et-d-ouvrages-wash-au-kasai-oriental",
-    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026",
-    "https://edu-nc.gouv.cd/actualites/perse-les-eleves-et-enseignants-de-l-ecole-primaire-st-georges-a-kintambo-sensibilises-aux-violences-basees-sur-le-genre",
-    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026-le-reajustement-de-la-prime-de-gratuite-pour-plusieurs-milliers-d-enseignants-parmi-les-realisations-semestrielles",
-    "https://edu-nc.gouv.cd/actualites/kalemie-le-secretaire-general-juvenal-sanga-kaubo-a-officiellement-lance-la-distribution-des-fournitures-et-kits-scolaires-aux-eleves-du-tanganyika",
-    "https://edu-nc.gouv.cd/actualites/kasai-central-le-paaf-sensibilise-les-autorites-politico-administratives-et-les-leaders-communautaires-a-l-education-et-l-autonomisation-des-filles",
-    "https://edu-nc.gouv.cd/actualites/tshangu-lancement-de-la-campagne-pilote-de-recrutement-des-enseignantes-du-secondaire",
     "https://edu-nc.gouv.cd/actualites/lycee-mgr-shaumba-felix-tshisekedi-concretise-son-engagement-avec-deux-bus-et-une-centaine-d-ordinateurs",
-    "https://edu-nc.gouv.cd/actualites/haut-katanga-1-lancement-des-clubs-de-veille-citoyenne-a-likasi-1"
+    "https://edu-nc.gouv.cd/actualites/tshangu-lancement-de-la-campagne-pilote-de-recrutement-des-enseignantes-du-secondaire",
+    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026",
+    "https://edu-nc.gouv.cd/actualites/kasai-central-le-paaf-sensibilise-les-autorites-politico-administratives-et-les-leaders-communautaires-a-l-education-et-l-autonomisation-des-filles",
+    "https://edu-nc.gouv.cd/actualites/kalemie-le-secretaire-general-juvenal-sanga-kaubo-a-officiellement-lance-la-distribution-des-fournitures-et-kits-scolaires-aux-eleves-du-tanganyika",
+    "https://edu-nc.gouv.cd/actualites/perse-les-eleves-et-enseignants-de-l-ecole-primaire-st-georges-a-kintambo-sensibilises-aux-violences-basees-sur-le-genre",
+    "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative",
+    "https://edu-nc.gouv.cd/actualites/kasai-central-et-kasai-oriental-le-gouvernement-renforce-la-mise-en-uvre-des-cantines-scolaires-pilotes",
+    "https://edu-nc.gouv.cd/actualites/paaf-debut-de-la-campagne-de-recrutement-de-2-500-enseignantes-du-secondaire-fondee-sur-le-merite-et-la-promotion-de-la-representation-feminine"
   ],
-  "last_run": "2026-10-03T06:10:57.827028+00:00",
+  "last_run": "2026-10-03T14:52:22.891255+00:00",
   "articles": {
     "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative": {
       "title": "MINEDU-NC - ONU : de l’accès à l’école à la qualité des apprentissages, la RDC poursuit sa transformation éducative",
@@ -1181,6 +1182,329 @@
           "mot_fautif": "Mwanantumi",
           "explication": "Faute de frappe possible trouvée.",
           "suggestions": []
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...8 02, Avenue des Ambassadeurs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministèr...",
+          "mot_fautif": "Gombe",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Tombe",
+            "Bombe",
+            "Tombé"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...venue des Ambassadeurs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de...",
+          "mot_fautif": "RD",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "CD",
+            "RDA",
+            "RN"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...rs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de l’Éducation National...",
+          "mot_fautif": "KIN",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "FIN",
+            "VIN",
+            "MIN"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...nshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de l’Éducation Nationale et N...",
+          "mot_fautif": "DGC",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "DUC",
+            "DEC",
+            "DG"
+          ]
+        }
+      ],
+      "broken_links": [],
+      "missing_alt_images": [],
+      "missing_metadata": [
+        "auteur"
+      ],
+      "error": null
+    },
+    "https://edu-nc.gouv.cd/actualites/sankuru-2-la-dinacope-renforce-les-capacites-de-ses-equipes-sur-le-controle-physique-digitalise": {
+      "title": "MINEDU-NC - Sankuru 2 : la Dinacope renforce les capacités de ses équipes sur le contrôle physique digitalisé",
+      "url": "https://edu-nc.gouv.cd/actualites/sankuru-2-la-dinacope-renforce-les-capacites-de-ses-equipes-sur-le-controle-physique-digitalise",
+      "lastmod": "2026-10-03T00:00:00+00:00",
+      "analyzed_at": "2026-10-03T14:52:20.838135+00:00",
+      "spelling_errors": [
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ariat général Système éducatif Épreuves certificatives Système éducatif Épreuves certificative...",
+          "mot_fautif": "certificatives",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "certificat ives"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ertificatives Système éducatif Épreuves certificatives La Direction provinciale de la Directio...",
+          "mot_fautif": "certificatives",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "certificat ives"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...maîtrise des effectifs des enseignants (DINACOPE) Sankuru 2 a renforcé les capacités de ...",
+          "mot_fautif": "DINACOPE",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "DIACODE",
+            "DIASCOPE"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...es effectifs des enseignants (DINACOPE) Sankuru 2 a renforcé les capacités de ses équip...",
+          "mot_fautif": "Sankuru",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Sakura",
+            "Sankara"
+          ]
+        },
+        {
+          "type": "Majuscule/minuscule",
+          "passage": "...mensuel des agents du secteur éducatif. ouverte mercredi 30 septembre à Lusambo, l'acti...",
+          "mot_fautif": "ouverte",
+          "explication": "Cette phrase ne commence pas par une majuscule.",
+          "suggestions": [
+            "Ouverte"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ucatif. ouverte mercredi 30 septembre à Lusambo, l'activité a pris fin ce vendredi 2 oc...",
+          "mot_fautif": "Lusambo",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Lu sambo"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...é a pris fin ce vendredi 2 octobre 2026.  Au total, 213 participants, notamment le...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...et des nouvelles procédures de contrôle.  À l’ouverture, le gouverneur de la provi...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...re, le gouverneur de la province, Jules Lodi Emongo, a appelé à une utilisation appr...",
+          "mot_fautif": "Lodi",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Loi",
+            "Loti",
+            "Lods"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...e gouverneur de la province, Jules Lodi Emongo, a appelé à une utilisation appropriée ...",
+          "mot_fautif": "Emongo",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Congo",
+            "Mongol",
+            "Mono"
+          ]
+        },
+        {
+          "type": "Style",
+          "passage": "...la remise symbolique de 38 tablettes et 4 ordinateurs aux chefs d’antenne.  À cet...",
+          "mot_fautif": "4",
+          "explication": "Les chiffres s’écrivent généralement en lettres.",
+          "suggestions": [
+            "quatre"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...es et 4 ordinateurs aux chefs d’antenne.  À cette occasion, le ministre provincial...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...incial en charge de l’Éducation, Pierre Djongandeke, a réaffirmé l’engagement de son minist...",
+          "mot_fautif": "Djongandeke",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": []
+        },
+        {
+          "type": "Typographie",
+          "passage": "...on du secteur éducatif dans la province.  Pour sa part, le directeur provincial de...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "... sa part, le directeur provincial de la Dinacope Sankuru 2, Fabien Nkelani Malembanganzi...",
+          "mot_fautif": "Dinacope",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Diacode",
+            "Diascope"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "... le directeur provincial de la Dinacope Sankuru 2, Fabien Nkelani Malembanganzi, a insi...",
+          "mot_fautif": "Sankuru",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Sakura",
+            "Sankara"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...incial de la Dinacope Sankuru 2, Fabien Nkelani Malembanganzi, a insisté sur l’apport d...",
+          "mot_fautif": "Nkelani",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Niellai",
+            "Niellant"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...e la Dinacope Sankuru 2, Fabien Nkelani Malembanganzi, a insisté sur l’apport du numérique da...",
+          "mot_fautif": "Malembanganzi",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": []
+        },
+        {
+          "type": "Typographie",
+          "passage": "...du contrôle et de la gestion des agents.  Prenant la parole, le Directeur provinci...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...t la parole, le Directeur provincial de Sankuru 2 ( PROVED), Tara Mungoma Deogratias a ...",
+          "mot_fautif": "Sankuru",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Sakura",
+            "Sankara"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...e, le Directeur provincial de Sankuru 2 ( PROVED), Tara Mungoma Deogratias a appel...",
+          "mot_fautif": "( ",
+          "explication": "Ne placez pas d’espace après une parenthèse ouvrante.",
+          "suggestions": [
+            "("
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "... le Directeur provincial de Sankuru 2 ( PROVED), Tara Mungoma Deogratias a appelé les ...",
+          "mot_fautif": "PROVED",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "PROJET",
+            "PRIVÉ",
+            "PRIVÉE"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...provincial de Sankuru 2 ( PROVED), Tara Mungoma Deogratias a appelé les chefs d’antenne...",
+          "mot_fautif": "Mungoma",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "M'engomma",
+            "Mangeota"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...al de Sankuru 2 ( PROVED), Tara Mungoma Deogratias a appelé les chefs d’antennes à plus de...",
+          "mot_fautif": "Deogratias",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Décoratifs",
+            "Démocraties",
+            "Démocratisa"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "... respect des procédures administratives.  Cette activité est en phase avec le cinq...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ecteur du Plan quinquennal 2024-2029 du MINEDUNC, consacré à l’intégration des Technolog...",
+          "mot_fautif": "MINEDUNC",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "MINEURS",
+            "MINEUR",
+            "MINEURE"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "... Communication dans le système éducatif.  Marie-France Pala Filtrez par structure ...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...le système éducatif.  Marie-France Pala Filtrez par structure ou par type de document p...",
+          "mot_fautif": "Filtrez",
+          "explication": "Conjugaison erronée. Accord avec “Marie-France”. Le verbe devrait être à la 3ᵉ personne du singulier.",
+          "suggestions": [
+            "Filtre"
+          ]
         },
         {
           "type": "Faute d'orthographe",
