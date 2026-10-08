@@ -1,21 +1,22 @@
 {
   "seen_urls": [
-    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026",
-    "https://edu-nc.gouv.cd/actualites/tshangu-lancement-de-la-campagne-pilote-de-recrutement-des-enseignantes-du-secondaire",
-    "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative",
-    "https://edu-nc.gouv.cd/actualites/perse-les-eleves-et-enseignants-de-l-ecole-primaire-st-georges-a-kintambo-sensibilises-aux-violences-basees-sur-le-genre",
-    "https://edu-nc.gouv.cd/actualites/peqip-les-experts-evaluent-l-etat-d-avancement-des-chantiers-scolaires-et-d-ouvrages-wash-au-kasai-oriental",
-    "https://edu-nc.gouv.cd/actualites/haut-katanga-1-lancement-des-clubs-de-veille-citoyenne-a-likasi-1",
-    "https://edu-nc.gouv.cd/actualites/paaf-debut-de-la-campagne-de-recrutement-de-2-500-enseignantes-du-secondaire-fondee-sur-le-merite-et-la-promotion-de-la-representation-feminine",
     "https://edu-nc.gouv.cd/actualites/sankuru-2-la-dinacope-renforce-les-capacites-de-ses-equipes-sur-le-controle-physique-digitalise",
-    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026-le-reajustement-de-la-prime-de-gratuite-pour-plusieurs-milliers-d-enseignants-parmi-les-realisations-semestrielles",
-    "https://edu-nc.gouv.cd/actualites/kasai-central-et-kasai-oriental-le-gouvernement-renforce-la-mise-en-uvre-des-cantines-scolaires-pilotes",
-    "https://edu-nc.gouv.cd/actualites/kasai-central-le-paaf-sensibilise-les-autorites-politico-administratives-et-les-leaders-communautaires-a-l-education-et-l-autonomisation-des-filles",
+    "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative",
     "https://edu-nc.gouv.cd/actualites/kalemie-le-secretaire-general-juvenal-sanga-kaubo-a-officiellement-lance-la-distribution-des-fournitures-et-kits-scolaires-aux-eleves-du-tanganyika",
+    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026",
+    "https://edu-nc.gouv.cd/actualites/kwilu-2-elections-et-installation-des-comites-des-clubs-de-veille-citoyenne-dans-des-etablissements-scolaires",
+    "https://edu-nc.gouv.cd/actualites/peqip-les-experts-evaluent-l-etat-d-avancement-des-chantiers-scolaires-et-d-ouvrages-wash-au-kasai-oriental",
+    "https://edu-nc.gouv.cd/actualites/rentree-scolaire-a-kintambo-la-sous-division-rappelle-aux-chefs-d-etablissements-leurs-responsabilites",
     "https://edu-nc.gouv.cd/actualites/lycee-mgr-shaumba-felix-tshisekedi-concretise-son-engagement-avec-deux-bus-et-une-centaine-d-ordinateurs",
-    "https://edu-nc.gouv.cd/actualites/rentree-scolaire-a-kintambo-la-sous-division-rappelle-aux-chefs-d-etablissements-leurs-responsabilites"
+    "https://edu-nc.gouv.cd/actualites/kasai-central-le-paaf-sensibilise-les-autorites-politico-administratives-et-les-leaders-communautaires-a-l-education-et-l-autonomisation-des-filles",
+    "https://edu-nc.gouv.cd/actualites/haut-katanga-1-lancement-des-clubs-de-veille-citoyenne-a-likasi-1",
+    "https://edu-nc.gouv.cd/actualites/tshangu-lancement-de-la-campagne-pilote-de-recrutement-des-enseignantes-du-secondaire",
+    "https://edu-nc.gouv.cd/actualites/perse-les-eleves-et-enseignants-de-l-ecole-primaire-st-georges-a-kintambo-sensibilises-aux-violences-basees-sur-le-genre",
+    "https://edu-nc.gouv.cd/actualites/paaf-debut-de-la-campagne-de-recrutement-de-2-500-enseignantes-du-secondaire-fondee-sur-le-merite-et-la-promotion-de-la-representation-feminine",
+    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026-le-reajustement-de-la-prime-de-gratuite-pour-plusieurs-milliers-d-enseignants-parmi-les-realisations-semestrielles",
+    "https://edu-nc.gouv.cd/actualites/kasai-central-et-kasai-oriental-le-gouvernement-renforce-la-mise-en-uvre-des-cantines-scolaires-pilotes"
   ],
-  "last_run": "2026-10-08T06:08:44.124761+00:00",
+  "last_run": "2026-10-08T12:07:28.473558+00:00",
   "articles": {
     "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative": {
       "title": "MINEDU-NC - ONU : de l’accès à l’école à la qualité des apprentissages, la RDC poursuit sa transformation éducative",
@@ -1505,6 +1506,375 @@
           "suggestions": [
             "Filtre"
           ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...8 02, Avenue des Ambassadeurs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministèr...",
+          "mot_fautif": "Gombe",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Tombe",
+            "Bombe",
+            "Tombé"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...venue des Ambassadeurs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de...",
+          "mot_fautif": "RD",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "CD",
+            "RDA",
+            "RN"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...rs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de l’Éducation National...",
+          "mot_fautif": "KIN",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "FIN",
+            "VIN",
+            "MIN"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...nshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de l’Éducation Nationale et N...",
+          "mot_fautif": "DGC",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "DUC",
+            "DEC",
+            "DG"
+          ]
+        }
+      ],
+      "broken_links": [],
+      "missing_alt_images": [],
+      "missing_metadata": [
+        "auteur"
+      ],
+      "error": null
+    },
+    "https://edu-nc.gouv.cd/actualites/kwilu-2-elections-et-installation-des-comites-des-clubs-de-veille-citoyenne-dans-des-etablissements-scolaires": {
+      "title": "MINEDU-NC - Kwilu 2 : élections et installation des comités des « Clubs de Veille Citoyenne » dans des établissements scolaires",
+      "url": "https://edu-nc.gouv.cd/actualites/kwilu-2-elections-et-installation-des-comites-des-clubs-de-veille-citoyenne-dans-des-etablissements-scolaires",
+      "lastmod": "2026-10-08T00:00:00+00:00",
+      "analyzed_at": "2026-10-08T12:07:25.740900+00:00",
+      "spelling_errors": [
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ariat général Système éducatif Épreuves certificatives Système éducatif Épreuves certificative...",
+          "mot_fautif": "certificatives",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "certificat ives"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ertificatives Système éducatif Épreuves certificatives Le ministère de l’Éducation nationale e...",
+          "mot_fautif": "certificatives",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "certificat ives"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...Kikwit, dans la province éducationnelle Kwilu 2.  Lundi 5 octobre 2026, le directeur ...",
+          "mot_fautif": "Kwilu",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Kilo",
+            "Poilu",
+            "Kilt"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...dans la province éducationnelle Kwilu 2.  Lundi 5 octobre 2026, le directeur provi...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "... directeur provincial de l’Éducation de Kwilu 2, Jean-Pierre Yoy Bokete, a personnell...",
+          "mot_fautif": "Kwilu",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Kilo",
+            "Poilu",
+            "Kilt"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "... de l’Éducation de Kwilu 2, Jean-Pierre Yoy Bokete, a personnellement supervisé les...",
+          "mot_fautif": "Yoy",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Boy",
+            "Jouy",
+            "Gouy"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...l’Éducation de Kwilu 2, Jean-Pierre Yoy Bokete, a personnellement supervisé les électi...",
+          "mot_fautif": "Bokete",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Boëte",
+            "Bouette"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...é de l’inspecteur principal provincial (IPP), Jacques Djuma, ainsi que du représent...",
+          "mot_fautif": "IPP",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "IP",
+            "APP",
+            "IOP"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...eur principal provincial (IPP), Jacques Djuma, ainsi que du représentant de la DINACO...",
+          "mot_fautif": "Djuma",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Douma"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "... Djuma, ainsi que du représentant de la DINACOPE.  Parmi les écoles visitées figurent le...",
+          "mot_fautif": "DINACOPE",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "DIACODE",
+            "DIASCOPE"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...insi que du représentant de la DINACOPE.  Parmi les écoles visitées figurent le Ly...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...la DINACOPE.  Parmi les écoles visitées figurent le Lycée Siama, le Collège Sadisana, l’...",
+          "mot_fautif": "figurent",
+          "explication": "Le verbe devrait être à la 3ᵉ personne du pluriel.",
+          "suggestions": [
+            "figure"
+          ]
+        },
+        {
+          "type": "Majuscule/minuscule",
+          "passage": "...  Parmi les écoles visitées figurent le Lycée Siama, le Collège Sadisana, l’Institut ...",
+          "mot_fautif": "Lycée",
+          "explication": "Un usage différent des majuscules et des minuscules est recommandé.",
+          "suggestions": [
+            "lycée"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...i les écoles visitées figurent le Lycée Siama, le Collège Sadisana, l’Institut Luzolo...",
+          "mot_fautif": "Siama",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "S'aima",
+            "Siam",
+            "Sigma"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ées figurent le Lycée Siama, le Collège Sadisana, l’Institut Luzolo, le Collège Saint-Fr...",
+          "mot_fautif": "Sadisana",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Salissant",
+            "Adisant"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "... Siama, le Collège Sadisana, l’Institut Luzolo, le Collège Saint-François, le Complexe...",
+          "mot_fautif": "Luzolo",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Luzule",
+            "Lolo",
+            "Luzillé"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ge Saint-François, le Complexe scolaire Moyë et l’Institut Sansabana.  Dans toutes c...",
+          "mot_fautif": "Moyë",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Moyé",
+            "Moye",
+            "M'oie"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...le Complexe scolaire Moyë et l’Institut Sansabana.  Dans toutes ces écoles visitées, les ...",
+          "mot_fautif": "Sansabana",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Santa Ana"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...e scolaire Moyë et l’Institut Sansabana.  Dans toutes ces écoles visitées, les tro...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...iotique, à lutter activement contre les antivaleurs, telles que le harcèlement, la fraude e...",
+          "mot_fautif": "antivaleurs",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": []
+        },
+        {
+          "type": "Typographie",
+          "passage": "...rotéger le patrimoine commun de l’école.  À cela s’ajoute la mission d’assurer une...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...t sportive des établissements scolaires.  Les nouveaux présidents des comités d’él...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...ires et ont prêté le serment de citoyen.  Par cet acte fort, la province éducation...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...t acte fort, la province éducationnelle Kwilu 2 confirme son engagement à façonner un...",
+          "mot_fautif": "Kwilu",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Kilo",
+            "Poilu",
+            "Kilt"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...rnés vers le développement de la nation.  Il sied de signaler que la création, l’o...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...fficialisés par l’arrêté ministériel n° MINEDU-NC/CABMINETAT/0059/2026 du 17 mars 2026...",
+          "mot_fautif": "MINEDU",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "MINE DU"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...isés par l’arrêté ministériel n° MINEDU-NC/CABMINETAT/0059/2026 du 17 mars 2026, s...",
+          "mot_fautif": "NC",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "nC",
+            "NE",
+            "NÉ"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...s par l’arrêté ministériel n° MINEDU-NC/CABMINETAT/0059/2026 du 17 mars 2026, signé par la...",
+          "mot_fautif": "CABMINETAT",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "CABINET",
+            "CABINETS",
+            "CASTINETA"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...6, signé par la ministre d’État, Raïssa Malu. Cette initiative s’inscrit dans le cad...",
+          "mot_fautif": "Malu",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Ma lu",
+            "Mal",
+            "Mâle"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "... dédié à la promotion de la citoyenneté.  Deleine Diazolakana Filtrez par structur...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...édié à la promotion de la citoyenneté.  Deleine Diazolakana Filtrez par structure ou pa...",
+          "mot_fautif": "Deleine",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "D'élève",
+            "D'ébène",
+            "D'Elaine"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...a promotion de la citoyenneté.  Deleine Diazolakana Filtrez par structure ou par type de do...",
+          "mot_fautif": "Diazolakana",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": []
         },
         {
           "type": "Faute d'orthographe",
