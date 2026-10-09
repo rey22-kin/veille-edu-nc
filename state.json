@@ -1,22 +1,23 @@
 {
   "seen_urls": [
-    "https://edu-nc.gouv.cd/actualites/rentree-scolaire-a-kintambo-la-sous-division-rappelle-aux-chefs-d-etablissements-leurs-responsabilites",
-    "https://edu-nc.gouv.cd/actualites/sankuru-2-la-dinacope-renforce-les-capacites-de-ses-equipes-sur-le-controle-physique-digitalise",
-    "https://edu-nc.gouv.cd/actualites/perse-les-eleves-et-enseignants-de-l-ecole-primaire-st-georges-a-kintambo-sensibilises-aux-violences-basees-sur-le-genre",
     "https://edu-nc.gouv.cd/actualites/lycee-mgr-shaumba-felix-tshisekedi-concretise-son-engagement-avec-deux-bus-et-une-centaine-d-ordinateurs",
-    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026-le-reajustement-de-la-prime-de-gratuite-pour-plusieurs-milliers-d-enseignants-parmi-les-realisations-semestrielles",
-    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026",
-    "https://edu-nc.gouv.cd/actualites/tshangu-lancement-de-la-campagne-pilote-de-recrutement-des-enseignantes-du-secondaire",
-    "https://edu-nc.gouv.cd/actualites/paaf-debut-de-la-campagne-de-recrutement-de-2-500-enseignantes-du-secondaire-fondee-sur-le-merite-et-la-promotion-de-la-representation-feminine",
-    "https://edu-nc.gouv.cd/actualites/kwilu-2-elections-et-installation-des-comites-des-clubs-de-veille-citoyenne-dans-des-etablissements-scolaires",
-    "https://edu-nc.gouv.cd/actualites/haut-katanga-1-lancement-des-clubs-de-veille-citoyenne-a-likasi-1",
-    "https://edu-nc.gouv.cd/actualites/peqip-les-experts-evaluent-l-etat-d-avancement-des-chantiers-scolaires-et-d-ouvrages-wash-au-kasai-oriental",
     "https://edu-nc.gouv.cd/actualites/kalemie-le-secretaire-general-juvenal-sanga-kaubo-a-officiellement-lance-la-distribution-des-fournitures-et-kits-scolaires-aux-eleves-du-tanganyika",
-    "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative",
+    "https://edu-nc.gouv.cd/actualites/kongo-central-1-le-diprocope-presente-le-numerique-comme-un-levier-de-la-maitrise-des-effectifs-et-de-la-securisation-de-la-paie-des-enseignants",
+    "https://edu-nc.gouv.cd/actualites/perse-les-eleves-et-enseignants-de-l-ecole-primaire-st-georges-a-kintambo-sensibilises-aux-violences-basees-sur-le-genre",
+    "https://edu-nc.gouv.cd/actualites/peqip-les-experts-evaluent-l-etat-d-avancement-des-chantiers-scolaires-et-d-ouvrages-wash-au-kasai-oriental",
     "https://edu-nc.gouv.cd/actualites/kasai-central-le-paaf-sensibilise-les-autorites-politico-administratives-et-les-leaders-communautaires-a-l-education-et-l-autonomisation-des-filles",
-    "https://edu-nc.gouv.cd/actualites/kasai-central-et-kasai-oriental-le-gouvernement-renforce-la-mise-en-uvre-des-cantines-scolaires-pilotes"
+    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026",
+    "https://edu-nc.gouv.cd/actualites/haut-katanga-1-lancement-des-clubs-de-veille-citoyenne-a-likasi-1",
+    "https://edu-nc.gouv.cd/actualites/kwilu-2-elections-et-installation-des-comites-des-clubs-de-veille-citoyenne-dans-des-etablissements-scolaires",
+    "https://edu-nc.gouv.cd/actualites/kasai-central-et-kasai-oriental-le-gouvernement-renforce-la-mise-en-uvre-des-cantines-scolaires-pilotes",
+    "https://edu-nc.gouv.cd/actualites/rentree-scolaire-a-kintambo-la-sous-division-rappelle-aux-chefs-d-etablissements-leurs-responsabilites",
+    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026-le-reajustement-de-la-prime-de-gratuite-pour-plusieurs-milliers-d-enseignants-parmi-les-realisations-semestrielles",
+    "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative",
+    "https://edu-nc.gouv.cd/actualites/tshangu-lancement-de-la-campagne-pilote-de-recrutement-des-enseignantes-du-secondaire",
+    "https://edu-nc.gouv.cd/actualites/sankuru-2-la-dinacope-renforce-les-capacites-de-ses-equipes-sur-le-controle-physique-digitalise",
+    "https://edu-nc.gouv.cd/actualites/paaf-debut-de-la-campagne-de-recrutement-de-2-500-enseignantes-du-secondaire-fondee-sur-le-merite-et-la-promotion-de-la-representation-feminine"
   ],
-  "last_run": "2026-10-09T06:07:23.568934+00:00",
+  "last_run": "2026-10-09T12:07:08.551933+00:00",
   "articles": {
     "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative": {
       "title": "MINEDU-NC - ONU : de l’accès à l’école à la qualité des apprentissages, la RDC poursuit sa transformation éducative",
@@ -1873,6 +1874,327 @@
           "type": "Faute d'orthographe",
           "passage": "...a promotion de la citoyenneté.  Deleine Diazolakana Filtrez par structure ou par type de do...",
           "mot_fautif": "Diazolakana",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": []
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...8 02, Avenue des Ambassadeurs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministèr...",
+          "mot_fautif": "Gombe",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Tombe",
+            "Bombe",
+            "Tombé"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...venue des Ambassadeurs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de...",
+          "mot_fautif": "RD",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "CD",
+            "RDA",
+            "RN"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...rs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de l’Éducation National...",
+          "mot_fautif": "KIN",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "FIN",
+            "VIN",
+            "MIN"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...nshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de l’Éducation Nationale et N...",
+          "mot_fautif": "DGC",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "DUC",
+            "DEC",
+            "DG"
+          ]
+        }
+      ],
+      "broken_links": [],
+      "missing_alt_images": [],
+      "missing_metadata": [
+        "auteur"
+      ],
+      "error": null
+    },
+    "https://edu-nc.gouv.cd/actualites/kongo-central-1-le-diprocope-presente-le-numerique-comme-un-levier-de-la-maitrise-des-effectifs-et-de-la-securisation-de-la-paie-des-enseignants": {
+      "title": "MINEDU-NC - Kongo central 1 : le Diprocope présente le numérique comme un levier de la maîtrise des effectifs et de la sécurisation de la paie des enseignants",
+      "url": "https://edu-nc.gouv.cd/actualites/kongo-central-1-le-diprocope-presente-le-numerique-comme-un-levier-de-la-maitrise-des-effectifs-et-de-la-securisation-de-la-paie-des-enseignants",
+      "lastmod": "2026-10-09T00:00:00+00:00",
+      "analyzed_at": "2026-10-09T12:07:05.401196+00:00",
+      "spelling_errors": [
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ariat général Système éducatif Épreuves certificatives Système éducatif Épreuves certificative...",
+          "mot_fautif": "certificatives",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "certificat ives"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ertificatives Système éducatif Épreuves certificatives Le Directeur provincial de la Direction...",
+          "mot_fautif": "certificatives",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "certificat ives"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...éparation et de l’exécution de la paie (DINACOPE) du Kongo Central 1, Felly Lange, a pro...",
+          "mot_fautif": "DINACOPE",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "DIACODE",
+            "DIASCOPE"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...de l’exécution de la paie (DINACOPE) du Kongo Central 1, Felly Lange, a procédé à la ...",
+          "mot_fautif": "Kongo",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Congo",
+            "Kong",
+            "Nounou"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "... la paie (DINACOPE) du Kongo Central 1, Felly Lange, a procédé à la restitution d’un ...",
+          "mot_fautif": "Felly",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Kelly",
+            "Nelly",
+            "Fêlé"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...mation des directeurs provinciaux de la DINACOPE, tenu à Kinshasa au mois d’août dernier...",
+          "mot_fautif": "DINACOPE",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "DIACODE",
+            "DIASCOPE"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "... tenu à Kinshasa au mois d’août dernier.  Devant les cadres et agents de sa provin...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...e des effectifs du personnel enseignant.  Dans sa présentation, Felly Lange a parc...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...nnel enseignant.  Dans sa présentation, Felly Lange a parcouru les trois grands axes ...",
+          "mot_fautif": "Felly",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Kelly",
+            "Nelly",
+            "Fêlé"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...i constituent les champs d’action de la DINACOPE Kongo Central 1, à savoir l’axe Bas-Fle...",
+          "mot_fautif": "DINACOPE",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "DIACODE",
+            "DIASCOPE"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...uent les champs d’action de la DINACOPE Kongo Central 1, à savoir l’axe Bas-Fleuve, l...",
+          "mot_fautif": "Kongo",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Congo",
+            "Kong",
+            "Nounou"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ral 1, à savoir l’axe Bas-Fleuve, l’axe Muanda et l’axe Matadi, couvrant les différent...",
+          "mot_fautif": "Muanda",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Luanda",
+            "Manda",
+            "Ruanda"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...l’axe Bas-Fleuve, l’axe Muanda et l’axe Matadi, couvrant les différentes entités relev...",
+          "mot_fautif": "Matadi",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Matai",
+            "Mâtai"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...relevant de cette direction provinciale.  L’objectif poursuivi est notamment de re...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...able des informations issues du terrain.  Parmi les grandes innovations mises en a...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...andes innovations mises en avant figure notamment l’identification biométrique des enseig...",
+          "mot_fautif": "notamment",
+          "explication": "Ce mot apparaît déjà dans l’une des phrases précédant immédiatement celle-ci. Utilisez un synonyme pour apporter plus de variété à votre texte, excepté si la répétition est intentionnelle.",
+          "suggestions": [
+            "particulièrement",
+            "spécialement",
+            "singulièrement"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...s irrégularités dans le fichier de paie.  À cela s’ajoute la mise en perspective d...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...s à puce multifonctionnelles, destinées notamment à renforcer la sécurisation des opérati...",
+          "mot_fautif": "notamment",
+          "explication": "Ce mot apparaît déjà dans l’une des phrases précédant immédiatement celle-ci. Utilisez un synonyme pour apporter plus de variété à votre texte, excepté si la répétition est intentionnelle.",
+          "suggestions": [
+            "particulièrement",
+            "spécialement",
+            "singulièrement"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...risation des opérations liées à la paie.  La transition numérique doit également ê...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...smission des informations en temps réel.  La maîtrise des effectifs, l’assainissem...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "... la gouvernance du personnel enseignant.  Depuis 2024, le ministère de l’Éducation...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...tion nationale et nouvelle citoyenneté (EDU-NC) s’est doté du plan quinquennal pour...",
+          "mot_fautif": "EDU",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "DU",
+            "ÉLU",
+            "DÛ"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "... nationale et nouvelle citoyenneté (EDU-NC) s’est doté du plan quinquennal pour ar...",
+          "mot_fautif": "NC",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "nC",
+            "NE",
+            "NÉ"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...de l’information et de la communication.  Intégrer le numérique dans la gestion du...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...r améliorer la gestion administrative ».  Serge Kimbila Mwanantumi Filtrez par str...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...rer la gestion administrative ».  Serge Kimbila Mwanantumi Filtrez par structure ou par...",
+          "mot_fautif": "Kimbila",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Kim bila"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...estion administrative ».  Serge Kimbila Mwanantumi Filtrez par structure ou par type de do...",
+          "mot_fautif": "Mwanantumi",
           "explication": "Faute de frappe possible trouvée.",
           "suggestions": []
         },
