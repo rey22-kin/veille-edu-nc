@@ -1,23 +1,24 @@
 {
   "seen_urls": [
-    "https://edu-nc.gouv.cd/actualites/kasai-central-le-paaf-sensibilise-les-autorites-politico-administratives-et-les-leaders-communautaires-a-l-education-et-l-autonomisation-des-filles",
-    "https://edu-nc.gouv.cd/actualites/sankuru-2-la-dinacope-renforce-les-capacites-de-ses-equipes-sur-le-controle-physique-digitalise",
-    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026-le-reajustement-de-la-prime-de-gratuite-pour-plusieurs-milliers-d-enseignants-parmi-les-realisations-semestrielles",
-    "https://edu-nc.gouv.cd/actualites/perse-les-eleves-et-enseignants-de-l-ecole-primaire-st-georges-a-kintambo-sensibilises-aux-violences-basees-sur-le-genre",
-    "https://edu-nc.gouv.cd/actualites/haut-katanga-1-lancement-des-clubs-de-veille-citoyenne-a-likasi-1",
-    "https://edu-nc.gouv.cd/actualites/kwilu-2-elections-et-installation-des-comites-des-clubs-de-veille-citoyenne-dans-des-etablissements-scolaires",
-    "https://edu-nc.gouv.cd/actualites/paaf-debut-de-la-campagne-de-recrutement-de-2-500-enseignantes-du-secondaire-fondee-sur-le-merite-et-la-promotion-de-la-representation-feminine",
-    "https://edu-nc.gouv.cd/actualites/kongo-central-1-le-diprocope-presente-le-numerique-comme-un-levier-de-la-maitrise-des-effectifs-et-de-la-securisation-de-la-paie-des-enseignants",
-    "https://edu-nc.gouv.cd/actualites/rentree-scolaire-a-kintambo-la-sous-division-rappelle-aux-chefs-d-etablissements-leurs-responsabilites",
-    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026",
-    "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative",
     "https://edu-nc.gouv.cd/actualites/kalemie-le-secretaire-general-juvenal-sanga-kaubo-a-officiellement-lance-la-distribution-des-fournitures-et-kits-scolaires-aux-eleves-du-tanganyika",
     "https://edu-nc.gouv.cd/actualites/kasai-central-et-kasai-oriental-le-gouvernement-renforce-la-mise-en-uvre-des-cantines-scolaires-pilotes",
+    "https://edu-nc.gouv.cd/actualites/kongo-central-1-le-diprocope-presente-le-numerique-comme-un-levier-de-la-maitrise-des-effectifs-et-de-la-securisation-de-la-paie-des-enseignants",
+    "https://edu-nc.gouv.cd/actualites/kwilu-2-elections-et-installation-des-comites-des-clubs-de-veille-citoyenne-dans-des-etablissements-scolaires",
     "https://edu-nc.gouv.cd/actualites/lycee-mgr-shaumba-felix-tshisekedi-concretise-son-engagement-avec-deux-bus-et-une-centaine-d-ordinateurs",
     "https://edu-nc.gouv.cd/actualites/tshangu-lancement-de-la-campagne-pilote-de-recrutement-des-enseignantes-du-secondaire",
+    "https://edu-nc.gouv.cd/actualites/paaf-debut-de-la-campagne-de-recrutement-de-2-500-enseignantes-du-secondaire-fondee-sur-le-merite-et-la-promotion-de-la-representation-feminine",
+    "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative",
+    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026-le-reajustement-de-la-prime-de-gratuite-pour-plusieurs-milliers-d-enseignants-parmi-les-realisations-semestrielles",
+    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026",
+    "https://edu-nc.gouv.cd/actualites/haut-katanga-1-lancement-des-clubs-de-veille-citoyenne-a-likasi-1",
+    "https://edu-nc.gouv.cd/actualites/kasai-central-le-paaf-sensibilise-les-autorites-politico-administratives-et-les-leaders-communautaires-a-l-education-et-l-autonomisation-des-filles",
+    "https://edu-nc.gouv.cd/actualites/rentree-scolaire-a-kintambo-la-sous-division-rappelle-aux-chefs-d-etablissements-leurs-responsabilites",
+    "https://edu-nc.gouv.cd/actualites/rdc-le-minedu-nc-mobilise-ses-cadres-autour-de-l-appropriation-institutionnelle-de-l-application-educ-app",
+    "https://edu-nc.gouv.cd/actualites/sankuru-2-la-dinacope-renforce-les-capacites-de-ses-equipes-sur-le-controle-physique-digitalise",
+    "https://edu-nc.gouv.cd/actualites/perse-les-eleves-et-enseignants-de-l-ecole-primaire-st-georges-a-kintambo-sensibilises-aux-violences-basees-sur-le-genre",
     "https://edu-nc.gouv.cd/actualites/peqip-les-experts-evaluent-l-etat-d-avancement-des-chantiers-scolaires-et-d-ouvrages-wash-au-kasai-oriental"
   ],
-  "last_run": "2026-10-09T18:06:02.424805+00:00",
+  "last_run": "2026-10-10T00:06:28.848951+00:00",
   "articles": {
     "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative": {
       "title": "MINEDU-NC - ONU : de l’accès à l’école à la qualité des apprentissages, la RDC poursuit sa transformation éducative",
@@ -2197,6 +2198,369 @@
           "mot_fautif": "Mwanantumi",
           "explication": "Faute de frappe possible trouvée.",
           "suggestions": []
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...8 02, Avenue des Ambassadeurs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministèr...",
+          "mot_fautif": "Gombe",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Tombe",
+            "Bombe",
+            "Tombé"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...venue des Ambassadeurs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de...",
+          "mot_fautif": "RD",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "CD",
+            "RDA",
+            "RN"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...rs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de l’Éducation National...",
+          "mot_fautif": "KIN",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "FIN",
+            "VIN",
+            "MIN"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...nshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de l’Éducation Nationale et N...",
+          "mot_fautif": "DGC",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "DUC",
+            "DEC",
+            "DG"
+          ]
+        }
+      ],
+      "broken_links": [],
+      "missing_alt_images": [],
+      "missing_metadata": [
+        "auteur"
+      ],
+      "error": null
+    },
+    "https://edu-nc.gouv.cd/actualites/rdc-le-minedu-nc-mobilise-ses-cadres-autour-de-l-appropriation-institutionnelle-de-l-application-educ-app": {
+      "title": "MINEDU-NC - RDC : le MINEDU-NC mobilise ses cadres autour de l’appropriation institutionnelle de l’application «Educ-APP»",
+      "url": "https://edu-nc.gouv.cd/actualites/rdc-le-minedu-nc-mobilise-ses-cadres-autour-de-l-appropriation-institutionnelle-de-l-application-educ-app",
+      "lastmod": "2026-10-09T00:00:00+00:00",
+      "analyzed_at": "2026-10-10T00:06:26.726120+00:00",
+      "spelling_errors": [
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ariat général Système éducatif Épreuves certificatives Système éducatif Épreuves certificative...",
+          "mot_fautif": "certificatives",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "certificat ives"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ertificatives Système éducatif Épreuves certificatives Un atelier d’appropriation institutionn...",
+          "mot_fautif": "certificatives",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "certificat ives"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ation institutionnelle de l’application Educ-APP a été organisé ce vendredi 9 octobr...",
+          "mot_fautif": "Educ",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Duc",
+            "Éduqué",
+            "Éduque"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...on de gestion de la communication (DGC).  Ont pris part à cette rencontre des dire...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "... de gestion de la communication (DGC).  Ont pris part à cette rencontre des directe...",
+          "mot_fautif": "Ont",
+          "explication": "Une phrase doit commencer par un sujet.",
+          "suggestions": [
+            "On",
+            "Ils ont"
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...).  Ont pris part à cette rencontre des directeurs-chefs de service, des directeurs provinciaux,...",
+          "mot_fautif": "directeurs-chefs",
+          "explication": "Vérifiez l’absence de trait d’union et l’accord entre ces mots.",
+          "suggestions": [
+            "directeurs chefs",
+            "directeur-chefs",
+            "directeurs-chef"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...ation nationale et Nouvelle Citoyenneté.  La cérémonie a été présidée par Mme Jack...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "... cérémonie a été présidée par Mme Jacky Basolwa Mena, directrice-cheffe de service à la...",
+          "mot_fautif": "Basolwa",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Bassora",
+            "Bagoula"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...ionale et Nouvelle Citoyenneté, empêché.  Dans son allocution, elle a souligné que...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "... de la République démocratique du Congo.  De son côté, le directeur-chef de servic...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...irecteur-chef de service à la DGC, Jean Jeef Mwanza, a rappelé qu’Educ-APP est née d...",
+          "mot_fautif": "Jeef",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Jeff",
+            "Jeep"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "... la DGC, Jean Jeef Mwanza, a rappelé qu’Educ-APP est née d’une préoccupation quotidi...",
+          "mot_fautif": "Educ",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Duc",
+            "Éduqué",
+            "Éduque"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "... les réalités du secteur de l’éducation.  Structurée autour d’un écosystème comple...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...tour d’un écosystème complet comprenant Educ-APP École, Educ-APP Administration et E...",
+          "mot_fautif": "Educ",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Duc",
+            "Éduqué",
+            "Éduque"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...tème complet comprenant Educ-APP École, Educ-APP Administration et Educ-APP Mobile, ...",
+          "mot_fautif": "Educ",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Duc",
+            "Éduqué",
+            "Éduque"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...c-APP École, Educ-APP Administration et Educ-APP Mobile, l’application couvre notamm...",
+          "mot_fautif": "Educ",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Duc",
+            "Éduqué",
+            "Éduque"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...gique ainsi que la formation à distance.  À cette occasion, Jean Jeef Mwanza a lan...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ion à distance.  À cette occasion, Jean Jeef Mwanza a lancé un appel à la mobilisati...",
+          "mot_fautif": "Jeef",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Jeff",
+            "Jeep"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "... contribuer à son amélioration continue.  « Faisons de la transformation numérique...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...mant et plus inclusif », a-t-il déclaré.  Educ-APP entend ainsi répondre à plusieu...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...nt et plus inclusif », a-t-il déclaré.  Educ-APP entend ainsi répondre à plusieurs p...",
+          "mot_fautif": "Educ",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Duc",
+            "Éduqué",
+            "Éduque"
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...pondre à plusieurs préoccupations liées notamment aux statistiques des élèves, à leurs co...",
+          "mot_fautif": "notamment",
+          "explication": "Ce mot apparaît déjà dans l’une des phrases précédant immédiatement celle-ci. Utilisez un synonyme pour apporter plus de variété à votre texte, excepté si la répétition est intentionnelle.",
+          "suggestions": [
+            "particulièrement",
+            "spécialement",
+            "singulièrement"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...s et les sous-divisions éducationnelles.  La mise en place de cette application vi...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...tion nationale et Nouvelle Citoyenneté (MINEDU-NC), consacré à l’intégration des techn...",
+          "mot_fautif": "MINEDU",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "MINE DU"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...tionale et Nouvelle Citoyenneté (MINEDU-NC), consacré à l’intégration des technolo...",
+          "mot_fautif": "NC",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "nC",
+            "NE",
+            "NÉ"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...nication (TIC) dans le système éducatif.  Cette initiative vise notamment à amélio...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...ystème éducatif.  Cette initiative vise notamment à améliorer la gestion administrative d...",
+          "mot_fautif": "notamment",
+          "explication": "Ce mot apparaît déjà dans l’une des phrases précédant immédiatement celle-ci. Utilisez un synonyme pour apporter plus de variété à votre texte, excepté si la répétition est intentionnelle.",
+          "suggestions": [
+            "particulièrement",
+            "spécialement",
+            "singulièrement"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...et à favoriser l’innovation pédagogique.  Deleine Diazolakana et Thierry Mbebangu ...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "... à favoriser l’innovation pédagogique.  Deleine Diazolakana et Thierry Mbebangu Filtrez...",
+          "mot_fautif": "Deleine",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "D'élève",
+            "D'ébène",
+            "D'Elaine"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...iser l’innovation pédagogique.  Deleine Diazolakana et Thierry Mbebangu Filtrez par structu...",
+          "mot_fautif": "Diazolakana",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": []
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ogique.  Deleine Diazolakana et Thierry Mbebangu Filtrez par structure ou par type de do...",
+          "mot_fautif": "Mbebangu",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Mélange",
+            "Meeting",
+            "Mélangé"
+          ]
         },
         {
           "type": "Faute d'orthographe",
