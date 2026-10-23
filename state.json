@@ -1,32 +1,33 @@
 {
   "seen_urls": [
-    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026",
-    "https://edu-nc.gouv.cd/actualites/paaf-lancement-du-concours-de-recrutement-de-2500-enseignantes-du-secondaire",
-    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026-le-reajustement-de-la-prime-de-gratuite-pour-plusieurs-milliers-d-enseignants-parmi-les-realisations-semestrielles",
-    "https://edu-nc.gouv.cd/actualites/gouvernement-scolaire-elue-premiere-ministre-a-lestonac-mobokoli-clarissa-siazo-est-l-illustration-parfaite-du-leadership-feminin-a-l-ecole",
-    "https://edu-nc.gouv.cd/actualites/kwilu-2-elections-et-installation-des-comites-des-clubs-de-veille-citoyenne-dans-des-etablissements-scolaires",
-    "https://edu-nc.gouv.cd/actualites/tshangu-lancement-de-la-campagne-pilote-de-recrutement-des-enseignantes-du-secondaire",
-    "https://edu-nc.gouv.cd/actualites/rdc-le-minedu-nc-mobilise-ses-cadres-autour-de-l-appropriation-institutionnelle-de-l-application-educ-app",
-    "https://edu-nc.gouv.cd/actualites/peqip-les-experts-evaluent-l-etat-d-avancement-des-chantiers-scolaires-et-d-ouvrages-wash-au-kasai-oriental",
-    "https://edu-nc.gouv.cd/actualites/kasai-central-le-paaf-sensibilise-les-autorites-politico-administratives-et-les-leaders-communautaires-a-l-education-et-l-autonomisation-des-filles",
-    "https://edu-nc.gouv.cd/actualites/haut-katanga-1-lancement-des-clubs-de-veille-citoyenne-a-likasi-1",
-    "https://edu-nc.gouv.cd/actualites/lycee-mgr-shaumba-felix-tshisekedi-concretise-son-engagement-avec-deux-bus-et-une-centaine-d-ordinateurs",
-    "https://edu-nc.gouv.cd/actualites/journee-mondiale-de-l-alimentation-la-rdc-entend-etendre-le-programme-de-cantines-scolaires-sur-l-ensemble-du-territoire-d-ici-2029",
     "https://edu-nc.gouv.cd/actualites/prescolaire-validation-technique-du-referentiel-des-competences-des-enseignants",
-    "https://edu-nc.gouv.cd/actualites/kisantu-lancement-des-travaux-de-l-elaboration-de-la-strategie-nationale-de-l-enseignement-technique-et-professionnel-2027-2036",
     "https://edu-nc.gouv.cd/actualites/kasai-central-et-kasai-oriental-le-gouvernement-renforce-la-mise-en-uvre-des-cantines-scolaires-pilotes",
-    "https://edu-nc.gouv.cd/actualites/rentree-scolaire-a-kintambo-la-sous-division-rappelle-aux-chefs-d-etablissements-leurs-responsabilites",
-    "https://edu-nc.gouv.cd/actualites/perse-les-eleves-et-enseignants-de-l-ecole-primaire-st-georges-a-kintambo-sensibilises-aux-violences-basees-sur-le-genre",
-    "https://edu-nc.gouv.cd/actualites/paaf-debut-de-la-campagne-de-recrutement-de-2-500-enseignantes-du-secondaire-fondee-sur-le-merite-et-la-promotion-de-la-representation-feminine",
-    "https://edu-nc.gouv.cd/actualites/sankuru-2-la-dinacope-renforce-les-capacites-de-ses-equipes-sur-le-controle-physique-digitalise",
+    "https://edu-nc.gouv.cd/actualites/haut-katanga-1-lancement-des-clubs-de-veille-citoyenne-a-likasi-1",
     "https://edu-nc.gouv.cd/actualites/rdc-a-mbanza-ngungu-les-experts-et-acteurs-du-livre-scolaire-reunis-pour-actualiser-la-politique-nationale-des-manuels-scolaires",
-    "https://edu-nc.gouv.cd/actualites/kongo-central-1-le-diprocope-presente-le-numerique-comme-un-levier-de-la-maitrise-des-effectifs-et-de-la-securisation-de-la-paie-des-enseignants",
-    "https://edu-nc.gouv.cd/actualites/bonne-gouvernance-le-secretaire-general-mobilise-les-chefs-des-services-centraux-sur-la-gestion-axee-sur-les-resultats",
+    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026-le-reajustement-de-la-prime-de-gratuite-pour-plusieurs-milliers-d-enseignants-parmi-les-realisations-semestrielles",
     "https://edu-nc.gouv.cd/actualites/kalemie-le-secretaire-general-juvenal-sanga-kaubo-a-officiellement-lance-la-distribution-des-fournitures-et-kits-scolaires-aux-eleves-du-tanganyika",
-    "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative",
-    "https://edu-nc.gouv.cd/actualites/rdc-le-peqip-deploie-le-mecanisme-de-gestion-des-plaintes-au-kasai"
+    "https://edu-nc.gouv.cd/actualites/paaf-debut-de-la-campagne-de-recrutement-de-2-500-enseignantes-du-secondaire-fondee-sur-le-merite-et-la-promotion-de-la-representation-feminine",
+    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026",
+    "https://edu-nc.gouv.cd/actualites/kisantu-lancement-des-travaux-de-l-elaboration-de-la-strategie-nationale-de-l-enseignement-technique-et-professionnel-2027-2036",
+    "https://edu-nc.gouv.cd/actualites/journee-mondiale-de-l-alimentation-la-rdc-entend-etendre-le-programme-de-cantines-scolaires-sur-l-ensemble-du-territoire-d-ici-2029",
+    "https://edu-nc.gouv.cd/actualites/rdc-le-minedu-nc-mobilise-ses-cadres-autour-de-l-appropriation-institutionnelle-de-l-application-educ-app",
+    "https://edu-nc.gouv.cd/actualites/paaf-lancement-du-concours-de-recrutement-de-2500-enseignantes-du-secondaire",
+    "https://edu-nc.gouv.cd/actualites/rentree-scolaire-a-kintambo-la-sous-division-rappelle-aux-chefs-d-etablissements-leurs-responsabilites",
+    "https://edu-nc.gouv.cd/actualites/kongo-central-1-le-diprocope-presente-le-numerique-comme-un-levier-de-la-maitrise-des-effectifs-et-de-la-securisation-de-la-paie-des-enseignants",
+    "https://edu-nc.gouv.cd/actualites/perse-les-eleves-et-enseignants-de-l-ecole-primaire-st-georges-a-kintambo-sensibilises-aux-violences-basees-sur-le-genre",
+    "https://edu-nc.gouv.cd/actualites/sankuru-2-la-dinacope-renforce-les-capacites-de-ses-equipes-sur-le-controle-physique-digitalise",
+    "https://edu-nc.gouv.cd/actualites/kwilu-2-elections-et-installation-des-comites-des-clubs-de-veille-citoyenne-dans-des-etablissements-scolaires",
+    "https://edu-nc.gouv.cd/actualites/lycee-mgr-shaumba-felix-tshisekedi-concretise-son-engagement-avec-deux-bus-et-une-centaine-d-ordinateurs",
+    "https://edu-nc.gouv.cd/actualites/kasai-les-autorites-et-les-leaders-communautaires-mobilises-pour-la-reussite-du-projet-paaf",
+    "https://edu-nc.gouv.cd/actualites/bonne-gouvernance-le-secretaire-general-mobilise-les-chefs-des-services-centraux-sur-la-gestion-axee-sur-les-resultats",
+    "https://edu-nc.gouv.cd/actualites/rdc-le-peqip-deploie-le-mecanisme-de-gestion-des-plaintes-au-kasai",
+    "https://edu-nc.gouv.cd/actualites/kasai-central-le-paaf-sensibilise-les-autorites-politico-administratives-et-les-leaders-communautaires-a-l-education-et-l-autonomisation-des-filles",
+    "https://edu-nc.gouv.cd/actualites/peqip-les-experts-evaluent-l-etat-d-avancement-des-chantiers-scolaires-et-d-ouvrages-wash-au-kasai-oriental",
+    "https://edu-nc.gouv.cd/actualites/tshangu-lancement-de-la-campagne-pilote-de-recrutement-des-enseignantes-du-secondaire",
+    "https://edu-nc.gouv.cd/actualites/gouvernement-scolaire-elue-premiere-ministre-a-lestonac-mobokoli-clarissa-siazo-est-l-illustration-parfaite-du-leadership-feminin-a-l-ecole",
+    "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative"
   ],
-  "last_run": "2026-10-23T12:15:53.330017+00:00",
+  "last_run": "2026-10-23T18:17:20.555836+00:00",
   "articles": {
     "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative": {
       "title": "MINEDU-NC - ONU : de l’accès à l’école à la qualité des apprentissages, la RDC poursuit sa transformation éducative",
@@ -5177,6 +5178,409 @@
             "DUC",
             "DEC",
             "DG"
+          ]
+        }
+      ],
+      "broken_links": [],
+      "missing_alt_images": [],
+      "missing_metadata": [
+        "auteur"
+      ],
+      "error": null
+    },
+    "https://edu-nc.gouv.cd/actualites/kasai-les-autorites-et-les-leaders-communautaires-mobilises-pour-la-reussite-du-projet-paaf": {
+      "title": "MINEDU-NC - Kasaï : les autorités et les leaders communautaires mobilisés pour la réussite du projet PAAF",
+      "url": "https://edu-nc.gouv.cd/actualites/kasai-les-autorites-et-les-leaders-communautaires-mobilises-pour-la-reussite-du-projet-paaf",
+      "lastmod": "2026-10-23T00:00:00+00:00",
+      "analyzed_at": "2026-10-23T18:17:17.881291+00:00",
+      "spelling_errors": [
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ariat général Système éducatif Épreuves certificatives Système éducatif Épreuves certificative...",
+          "mot_fautif": "certificatives",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "certificat ives"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ertificatives Système éducatif Épreuves certificatives Les autorités politico-administratives ...",
+          "mot_fautif": "certificatives",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "certificat ives"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...eaders communautaires de la province du Kasaï sont appelés à s’impliquer activement d...",
+          "mot_fautif": "Kasaï",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Passai",
+            "Basai",
+            "Casai"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...tissage et d’autonomisation des filles (PAAF), une initiative du Gouvernement de la ...",
+          "mot_fautif": "PAAF",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "RAAF",
+            "MAAF",
+            "PIAF"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...pprentissage dans les provinces ciblées.  Cet appel a été lancé à l’occasion d’un ...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...ncernés par la promotion de l’éducation.  Les autorités provinciales appelées à ac...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "... provinciales appelées à accompagner le PAAF  La cérémonie d’ouverture a été présidé...",
+          "mot_fautif": "PAAF",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "RAAF",
+            "MAAF",
+            "PIAF"
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...vinciales appelées à accompagner le PAAF  La cérémonie d’ouverture a été présidée ...",
+          "mot_fautif": "  ",
+          "explication": "Il semblerait qu’une espace surnuméraire s’est glissée entre ces deux mots.",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "... été présidée par le vice-gouverneur du Kasaï, Djoley Bokele, représentant le gouvern...",
+          "mot_fautif": "Kasaï",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Passai",
+            "Basai",
+            "Casai"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ésidée par le vice-gouverneur du Kasaï, Djoley Bokele, représentant le gouverneur de p...",
+          "mot_fautif": "Djoley",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Dole-y",
+            "Drôle",
+            "Dole"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...par le vice-gouverneur du Kasaï, Djoley Bokele, représentant le gouverneur de province...",
+          "mot_fautif": "Bokele",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Boxe-le",
+            "Beauzelle"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...ntant le gouverneur de province empêché.  Dans son intervention, il a salué cette ...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ouvernement pour assurer la réussite du PAAF dans la province.  Cette mobilisation d...",
+          "mot_fautif": "PAAF",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "RAAF",
+            "MAAF",
+            "PIAF"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...er la réussite du PAAF dans la province.  Cette mobilisation des autorités et des ...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...tif en faveur de l’éducation des filles.  Alice Mutambay précise la nature gouvern...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...aveur de l’éducation des filles.  Alice Mutambay précise la nature gouvernementale du PA...",
+          "mot_fautif": "Mutambay",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Muhammad",
+            "Mumbai",
+            "Mamba"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ay précise la nature gouvernementale du PAAF  Prenant la parole avant le représentan...",
+          "mot_fautif": "PAAF",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "RAAF",
+            "MAAF",
+            "PIAF"
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...récise la nature gouvernementale du PAAF  Prenant la parole avant le représentant ...",
+          "mot_fautif": "  ",
+          "explication": "Il semblerait qu’une espace surnuméraire s’est glissée entre ces deux mots.",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ationale et Nouvelle Citoyenneté, Alice Mutambay, coordonnatrice du PAAF, a présenté les...",
+          "mot_fautif": "Mutambay",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Muhammad",
+            "Mumbai",
+            "Mamba"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...neté, Alice Mutambay, coordonnatrice du PAAF, a présenté les objectifs et l’importan...",
+          "mot_fautif": "PAAF",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "RAAF",
+            "MAAF",
+            "PIAF"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...formation du système éducatif congolais.  Elle a notamment souligné que le PAAF ne...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...lais.  Elle a notamment souligné que le PAAF ne constitue pas une organisation non g...",
+          "mot_fautif": "PAAF",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "RAAF",
+            "MAAF",
+            "PIAF"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...nneté et financé par la Banque mondiale.  Cette clarification vise à permettre aux...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...tifs et leur rôle dans sa mise en œuvre.  La coordonnatrice a rappelé que le PAAF ...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...re.  La coordonnatrice a rappelé que le PAAF poursuit deux objectifs principaux : am...",
+          "mot_fautif": "PAAF",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "RAAF",
+            "MAAF",
+            "PIAF"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...ge pour tous dans les provinces ciblées.  Elle a également exprimé sa reconnaissan...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ce envers les autorités provinciales du Kasaï pour leur accueil et leur soutien aux i...",
+          "mot_fautif": "Kasaï",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Passai",
+            "Basai",
+            "Casai"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...e pour atteindre les résultats attendus.  L’éducation des filles, une priorité str...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...ratégique pour le développement national  Intervenant au nom du Secrétaire général...",
+          "mot_fautif": "  ",
+          "explication": "Il semblerait qu’une espace surnuméraire s’est glissée entre ces deux mots.",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...nationale et Nouvelle Citoyenneté, Jean Jeef Mwanza, Directeur-Chef de Service à la ...",
+          "mot_fautif": "Jeef",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Jeff",
+            "Jeep"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "... de la République démocratique du Congo.  Il a rappelé que le système éducatif con...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Majuscule/minuscule",
+          "passage": "...eignement primaire, sous l’impulsion du Président de la République, Félix-Antoine Tshisekedi Tshilombo, et...",
+          "mot_fautif": "Président de la République",
+          "explication": "Un usage différent des majuscules et des minuscules est recommandé.",
+          "suggestions": [
+            "président de la République"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ésident de la République, Félix-Antoine Tshisekedi Tshilombo, et conformément aux orientat...",
+          "mot_fautif": "Tshisekedi",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": []
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...la République, Félix-Antoine Tshisekedi Tshilombo, et conformément aux orientations de la...",
+          "mot_fautif": "Tshilombo",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Shilom",
+            "Shiloms"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...tionale et Nouvelle Citoyenneté, Raïssa Malu.  Pour le représentant du Secrétaire gé...",
+          "mot_fautif": "Malu",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Ma lu",
+            "Mal",
+            "Mâle"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...le et Nouvelle Citoyenneté, Raïssa Malu.  Pour le représentant du Secrétaire génér...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...ement stratégique pour l’avenir du pays.  « L’éducation d’une fille n’est pas simp...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...eloppement économique », a-t-il déclaré.  Il a également souligné la portée transf...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...té et bâtir la citoyenneté congolaise. »  Une réforme inscrite dans les priorités ...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...inscrite dans les priorités du ministère  Jean Jeef Mwanza a par ailleurs souligné...",
+          "mot_fautif": "  ",
+          "explication": "Il semblerait qu’une espace surnuméraire s’est glissée entre ces deux mots.",
+          "suggestions": [
+            " "
           ]
         }
       ],
