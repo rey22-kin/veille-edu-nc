@@ -1,42 +1,44 @@
 {
   "seen_urls": [
-    "https://edu-nc.gouv.cd/actualites/kongo-central-1-le-diprocope-presente-le-numerique-comme-un-levier-de-la-maitrise-des-effectifs-et-de-la-securisation-de-la-paie-des-enseignants",
-    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026-le-reajustement-de-la-prime-de-gratuite-pour-plusieurs-milliers-d-enseignants-parmi-les-realisations-semestrielles",
-    "https://edu-nc.gouv.cd/actualites/kasai-central-le-paaf-sensibilise-les-autorites-politico-administratives-et-les-leaders-communautaires-a-l-education-et-l-autonomisation-des-filles",
-    "https://edu-nc.gouv.cd/actualites/partenariat-le-ministere-de-l-education-nationale-et-l-afd-accelerent-leurs-projets-educatifs-en-vue-d-obtenir-les-resultats-escomptes",
-    "https://edu-nc.gouv.cd/actualites/peqip-deploiement-des-formateurs-nationaux-pour-la-formation-de-31-650-acteurs-educatifs-en-prelude-a-la-distribution-des-manuels-scolaires",
-    "https://edu-nc.gouv.cd/actualites/rdc-le-minedu-nc-mobilise-ses-cadres-autour-de-l-appropriation-institutionnelle-de-l-application-educ-app",
-    "https://edu-nc.gouv.cd/actualites/sankuru-2-la-dinacope-renforce-les-capacites-de-ses-equipes-sur-le-controle-physique-digitalise",
-    "https://edu-nc.gouv.cd/actualites/rdc-le-peqip-deploie-le-mecanisme-de-gestion-des-plaintes-au-kasai",
-    "https://edu-nc.gouv.cd/actualites/mathematiques-au-feminin-le-vice-ministre-theodore-kazadi-remet-50-bourses-d-etudes-aux-laureates-de-la-3-edition",
-    "https://edu-nc.gouv.cd/actualites/journee-mondiale-de-l-alimentation-la-rdc-entend-etendre-le-programme-de-cantines-scolaires-sur-l-ensemble-du-territoire-d-ici-2029",
-    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026",
-    "https://edu-nc.gouv.cd/actualites/rdc-raissa-malu-lance-la-reflexion-strategique-sur-la-mise-en-place-des-instituts-de-formation-aux-metiers-de-l-enseignement",
-    "https://edu-nc.gouv.cd/actualites/gouvernement-scolaire-elue-premiere-ministre-a-lestonac-mobokoli-clarissa-siazo-est-l-illustration-parfaite-du-leadership-feminin-a-l-ecole",
-    "https://edu-nc.gouv.cd/actualites/paaf-debut-de-la-campagne-de-recrutement-de-2-500-enseignantes-du-secondaire-fondee-sur-le-merite-et-la-promotion-de-la-representation-feminine",
-    "https://edu-nc.gouv.cd/actualites/modernisation-de-l-administration-le-sg-juvenal-sanga-kaubo-lance-la-revision-des-descriptifs-de-postes-des-bureaux-gestionnaires",
-    "https://edu-nc.gouv.cd/actualites/kalemie-le-secretaire-general-juvenal-sanga-kaubo-a-officiellement-lance-la-distribution-des-fournitures-et-kits-scolaires-aux-eleves-du-tanganyika",
-    "https://edu-nc.gouv.cd/actualites/rentree-scolaire-a-kintambo-la-sous-division-rappelle-aux-chefs-d-etablissements-leurs-responsabilites",
-    "https://edu-nc.gouv.cd/actualites/perse-les-eleves-et-enseignants-de-l-ecole-primaire-st-georges-a-kintambo-sensibilises-aux-violences-basees-sur-le-genre",
     "https://edu-nc.gouv.cd/actualites/paaf-lancement-du-concours-de-recrutement-de-2500-enseignantes-du-secondaire",
     "https://edu-nc.gouv.cd/actualites/bonne-gouvernance-le-secretaire-general-mobilise-les-chefs-des-services-centraux-sur-la-gestion-axee-sur-les-resultats",
-    "https://edu-nc.gouv.cd/actualites/rdc-a-mbanza-ngungu-les-experts-et-acteurs-du-livre-scolaire-reunis-pour-actualiser-la-politique-nationale-des-manuels-scolaires",
-    "https://edu-nc.gouv.cd/actualites/lycee-mgr-shaumba-felix-tshisekedi-concretise-son-engagement-avec-deux-bus-et-une-centaine-d-ordinateurs",
-    "https://edu-nc.gouv.cd/actualites/projet-de-loi-des-finances-le-gouvernement-prevoit-d-etendre-la-gratuite-de-l-enseignement-aux-7e-et-8e-annees-des-2027-2028",
-    "https://edu-nc.gouv.cd/actualites/haut-katanga-1-lancement-des-clubs-de-veille-citoyenne-a-likasi-1",
-    "https://edu-nc.gouv.cd/actualites/ituri-1-des-etablissements-scolaires-dotes-des-dispositifs-de-lavage-des-mains-pour-lutter-contre-ebola",
-    "https://edu-nc.gouv.cd/actualites/prescolaire-validation-technique-du-referentiel-des-competences-des-enseignants",
-    "https://edu-nc.gouv.cd/actualites/agora-conference-2026-raissa-malu-mise-sur-le-lien-entre-education-electricite-et-transformation-numerique",
-    "https://edu-nc.gouv.cd/actualites/kasai-les-autorites-et-les-leaders-communautaires-mobilises-pour-la-reussite-du-projet-paaf",
-    "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative",
-    "https://edu-nc.gouv.cd/actualites/kasai-central-et-kasai-oriental-le-gouvernement-renforce-la-mise-en-uvre-des-cantines-scolaires-pilotes",
-    "https://edu-nc.gouv.cd/actualites/education-en-situation-de-crise-a-geneve-raissa-malu-portera-la-voix-des-enfants-affectes-par-les-conflits",
+    "https://edu-nc.gouv.cd/actualites/rdc-le-peqip-deploie-le-mecanisme-de-gestion-des-plaintes-au-kasai",
+    "https://edu-nc.gouv.cd/actualites/rentree-scolaire-a-kintambo-la-sous-division-rappelle-aux-chefs-d-etablissements-leurs-responsabilites",
     "https://edu-nc.gouv.cd/actualites/kisantu-lancement-des-travaux-de-l-elaboration-de-la-strategie-nationale-de-l-enseignement-technique-et-professionnel-2027-2036",
+    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026",
+    "https://edu-nc.gouv.cd/actualites/rdc-a-mbanza-ngungu-les-experts-et-acteurs-du-livre-scolaire-reunis-pour-actualiser-la-politique-nationale-des-manuels-scolaires",
+    "https://edu-nc.gouv.cd/actualites/peqip-deploiement-des-formateurs-nationaux-pour-la-formation-de-31-650-acteurs-educatifs-en-prelude-a-la-distribution-des-manuels-scolaires",
+    "https://edu-nc.gouv.cd/actualites/lycee-mgr-shaumba-felix-tshisekedi-concretise-son-engagement-avec-deux-bus-et-une-centaine-d-ordinateurs",
+    "https://edu-nc.gouv.cd/actualites/perse-les-eleves-et-enseignants-de-l-ecole-primaire-st-georges-a-kintambo-sensibilises-aux-violences-basees-sur-le-genre",
+    "https://edu-nc.gouv.cd/actualites/gouvernement-scolaire-elue-premiere-ministre-a-lestonac-mobokoli-clarissa-siazo-est-l-illustration-parfaite-du-leadership-feminin-a-l-ecole",
+    "https://edu-nc.gouv.cd/actualites/rdc-raissa-malu-lance-la-reflexion-strategique-sur-la-mise-en-place-des-instituts-de-formation-aux-metiers-de-l-enseignement",
+    "https://edu-nc.gouv.cd/actualites/kasai-central-le-paaf-sensibilise-les-autorites-politico-administratives-et-les-leaders-communautaires-a-l-education-et-l-autonomisation-des-filles",
+    "https://edu-nc.gouv.cd/actualites/kwilu-2-elections-et-installation-des-comites-des-clubs-de-veille-citoyenne-dans-des-etablissements-scolaires",
+    "https://edu-nc.gouv.cd/actualites/projet-de-loi-des-finances-le-gouvernement-prevoit-d-etendre-la-gratuite-de-l-enseignement-aux-7e-et-8e-annees-des-2027-2028",
+    "https://edu-nc.gouv.cd/actualites/kalemie-le-secretaire-general-juvenal-sanga-kaubo-a-officiellement-lance-la-distribution-des-fournitures-et-kits-scolaires-aux-eleves-du-tanganyika",
+    "https://edu-nc.gouv.cd/actualites/prescolaire-validation-technique-du-referentiel-des-competences-des-enseignants",
+    "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026-le-reajustement-de-la-prime-de-gratuite-pour-plusieurs-milliers-d-enseignants-parmi-les-realisations-semestrielles",
+    "https://edu-nc.gouv.cd/actualites/haut-katanga-1-lancement-des-clubs-de-veille-citoyenne-a-likasi-1",
+    "https://edu-nc.gouv.cd/actualites/education-en-situation-de-crise-a-geneve-raissa-malu-portera-la-voix-des-enfants-affectes-par-les-conflits",
+    "https://edu-nc.gouv.cd/actualites/modernisation-de-l-administration-le-sg-juvenal-sanga-kaubo-lance-la-revision-des-descriptifs-de-postes-des-bureaux-gestionnaires",
+    "https://edu-nc.gouv.cd/actualites/semaine-du-climat-le-vice-ministre-theodore-kazadi-renforce-l-engagement-des-eleves-pour-la-protection-de-l-environnement",
+    "https://edu-nc.gouv.cd/actualites/paaf-debut-de-la-campagne-de-recrutement-de-2-500-enseignantes-du-secondaire-fondee-sur-le-merite-et-la-promotion-de-la-representation-feminine",
+    "https://edu-nc.gouv.cd/actualites/agora-conference-2026-raissa-malu-mise-sur-le-lien-entre-education-electricite-et-transformation-numerique",
     "https://edu-nc.gouv.cd/actualites/tshangu-lancement-de-la-campagne-pilote-de-recrutement-des-enseignantes-du-secondaire",
+    "https://edu-nc.gouv.cd/actualites/mise-a-la-retraite-des-enseignants-juvenal-sanga-kaubo-fixe-des-orientations-pour-accelerer-le-processus",
+    "https://edu-nc.gouv.cd/actualites/kasai-les-autorites-et-les-leaders-communautaires-mobilises-pour-la-reussite-du-projet-paaf",
+    "https://edu-nc.gouv.cd/actualites/kasai-central-et-kasai-oriental-le-gouvernement-renforce-la-mise-en-uvre-des-cantines-scolaires-pilotes",
+    "https://edu-nc.gouv.cd/actualites/partenariat-le-ministere-de-l-education-nationale-et-l-afd-accelerent-leurs-projets-educatifs-en-vue-d-obtenir-les-resultats-escomptes",
+    "https://edu-nc.gouv.cd/actualites/mathematiques-au-feminin-le-vice-ministre-theodore-kazadi-remet-50-bourses-d-etudes-aux-laureates-de-la-3-edition",
     "https://edu-nc.gouv.cd/actualites/peqip-les-experts-evaluent-l-etat-d-avancement-des-chantiers-scolaires-et-d-ouvrages-wash-au-kasai-oriental",
-    "https://edu-nc.gouv.cd/actualites/kwilu-2-elections-et-installation-des-comites-des-clubs-de-veille-citoyenne-dans-des-etablissements-scolaires"
+    "https://edu-nc.gouv.cd/actualites/journee-mondiale-de-l-alimentation-la-rdc-entend-etendre-le-programme-de-cantines-scolaires-sur-l-ensemble-du-territoire-d-ici-2029",
+    "https://edu-nc.gouv.cd/actualites/sankuru-2-la-dinacope-renforce-les-capacites-de-ses-equipes-sur-le-controle-physique-digitalise",
+    "https://edu-nc.gouv.cd/actualites/rdc-le-minedu-nc-mobilise-ses-cadres-autour-de-l-appropriation-institutionnelle-de-l-application-educ-app",
+    "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative",
+    "https://edu-nc.gouv.cd/actualites/ituri-1-des-etablissements-scolaires-dotes-des-dispositifs-de-lavage-des-mains-pour-lutter-contre-ebola",
+    "https://edu-nc.gouv.cd/actualites/kongo-central-1-le-diprocope-presente-le-numerique-comme-un-levier-de-la-maitrise-des-effectifs-et-de-la-securisation-de-la-paie-des-enseignants"
   ],
-  "last_run": "2026-11-05T04:13:49.755234+00:00",
+  "last_run": "2026-11-05T13:43:49.557596+00:00",
   "articles": {
     "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative": {
       "title": "MINEDU-NC - ONU : de l’accès à l’école à la qualité des apprentissages, la RDC poursuit sa transformation éducative",
@@ -8062,6 +8064,586 @@
           "suggestions": [
             "OTTO",
             "POTTO"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...8 02, Avenue des Ambassadeurs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministèr...",
+          "mot_fautif": "Gombe",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Tombe",
+            "Bombe",
+            "Tombé"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...venue des Ambassadeurs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de...",
+          "mot_fautif": "RD",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "CD",
+            "RDA",
+            "RN"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...rs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de l’Éducation National...",
+          "mot_fautif": "KIN",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "FIN",
+            "VIN",
+            "MIN"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...nshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de l’Éducation Nationale et N...",
+          "mot_fautif": "DGC",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "DUC",
+            "DEC",
+            "DG"
+          ]
+        }
+      ],
+      "broken_links": [],
+      "missing_alt_images": [],
+      "missing_metadata": [
+        "auteur"
+      ],
+      "error": null
+    },
+    "https://edu-nc.gouv.cd/actualites/mise-a-la-retraite-des-enseignants-juvenal-sanga-kaubo-fixe-des-orientations-pour-accelerer-le-processus": {
+      "title": "MINEDU-NC - Mise à la retraite des enseignants : Juvénal Sanga Kaubo fixe des orientations pour accélérer le processus",
+      "url": "https://edu-nc.gouv.cd/actualites/mise-a-la-retraite-des-enseignants-juvenal-sanga-kaubo-fixe-des-orientations-pour-accelerer-le-processus",
+      "lastmod": "2026-11-05T00:00:00+00:00",
+      "analyzed_at": "2026-11-05T13:43:33.299830+00:00",
+      "spelling_errors": [
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ariat général Système éducatif Épreuves certificatives Système éducatif Épreuves certificative...",
+          "mot_fautif": "certificatives",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "certificat ives"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ertificatives Système éducatif Épreuves certificatives Le Secrétariat général à l’Éducation na...",
+          "mot_fautif": "certificatives",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "certificat ives"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...tion nationale et Nouvelle Citoyenneté (EDU-NC), a présidé ce mercredi 4 novembre 2...",
+          "mot_fautif": "EDU",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "DU",
+            "ÉLU",
+            "DÛ"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "... nationale et Nouvelle Citoyenneté (EDU-NC), a présidé ce mercredi 4 novembre 2026...",
+          "mot_fautif": "NC",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "nC",
+            "NE",
+            "NÉ"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "... République démocratique du Congo (RDC).  L’objectif de la séance était d’identifi...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...ndre effective cette mise à la retraite.  Cette rencontre a réuni les responsables...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...de contrôle de la paie des enseignants (DINACOPE), la Direction des ressources humaines ...",
+          "mot_fautif": "DINACOPE",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "DIACODE",
+            "DIASCOPE"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...on de l’administration et des finances (DAF), ainsi que les experts et partenaires ...",
+          "mot_fautif": "DAF",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "daF",
+            "D'aF",
+            "CAF"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ans l’accompagnement du processus, dont ECP EFFICACE.  Ils ont échangé autour de l’...",
+          "mot_fautif": "ECP",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "ÉCU",
+            "ERP",
+            "CCP"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...gnement du processus, dont ECP EFFICACE.  Ils ont échangé autour de l’harmonisatio...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...e Partenariat mondial pour l’éducation (GPE), ainsi que la levée des contraintes qu...",
+          "mot_fautif": "GPE",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "GRÉ",
+            "GPL",
+            "GPS"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...core l’aboutissement de cette opération.  Le Secrétaire général Juvénal Sanga Kaub...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ération.  Le Secrétaire général Juvénal Sanga Kaubo a fixé plusieurs orientations opé...",
+          "mot_fautif": "Sanga",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Sang",
+            "Manga",
+            "Saga"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...n.  Le Secrétaire général Juvénal Sanga Kaubo a fixé plusieurs orientations opération...",
+          "mot_fautif": "Kaubo",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Kobe",
+            "Koto",
+            "Bobo"
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...r le traitement des dossiers. Il s’agit notamment de la mise en place immédiate d’un noya...",
+          "mot_fautif": "notamment",
+          "explication": "Ce mot apparaît déjà dans l’une des phrases précédant immédiatement celle-ci. Utilisez un synonyme pour apporter plus de variété à votre texte, excepté si la répétition est intentionnelle.",
+          "suggestions": [
+            "particulièrement",
+            "spécialement",
+            "singulièrement"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "..., ainsi que la saisine officielle de la CNSAPP afin d’obtenir la clarification et la t...",
+          "mot_fautif": "CNSAPP",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "CNSA"
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "... que la saisine officielle de la CNSAPP afin d’obtenir la clarification et la transmiss...",
+          "mot_fautif": "afin d’",
+          "explication": "Dans un contexte formel, d’autres structures peuvent être utilisées pour enrichir votre style.",
+          "suggestions": [
+            "pour ",
+            "dans le but d'"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...ansmission de son fichier des retraités.  A cela s’ajoute, l’accélération des déma...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...smission de son fichier des retraités.  A cela s’ajoute, l’accélération des démar...",
+          "mot_fautif": "A",
+          "explication": "Cette préposition comporte un accent.",
+          "suggestions": [
+            "À"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...arrêté de mise à la retraite déjà signé.  Pour le patron de l’administration, la m...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...acré leur vie au service de l’éducation.  Il faut préciser que la mise à la retrai...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...tifiée comme éligible à cette opération.  Ivan Honoré Mudiangombé Filtrez par stru...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ligible à cette opération.  Ivan Honoré Mudiangombé Filtrez par structure ou par type de do...",
+          "mot_fautif": "Mudiangombé",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": []
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...tte opération.  Ivan Honoré Mudiangombé Filtrez par structure ou par type de document p...",
+          "mot_fautif": "Filtrez",
+          "explication": "Conjugaison erronée. Accord avec “Ivan”. Le verbe devrait être à la 3ᵉ personne du singulier.",
+          "suggestions": [
+            "Filtre"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...8 02, Avenue des Ambassadeurs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministèr...",
+          "mot_fautif": "Gombe",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Tombe",
+            "Bombe",
+            "Tombé"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...venue des Ambassadeurs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de...",
+          "mot_fautif": "RD",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "CD",
+            "RDA",
+            "RN"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...rs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de l’Éducation National...",
+          "mot_fautif": "KIN",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "FIN",
+            "VIN",
+            "MIN"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...nshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de l’Éducation Nationale et N...",
+          "mot_fautif": "DGC",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "DUC",
+            "DEC",
+            "DG"
+          ]
+        }
+      ],
+      "broken_links": [],
+      "missing_alt_images": [],
+      "missing_metadata": [
+        "auteur"
+      ],
+      "error": null
+    },
+    "https://edu-nc.gouv.cd/actualites/semaine-du-climat-le-vice-ministre-theodore-kazadi-renforce-l-engagement-des-eleves-pour-la-protection-de-l-environnement": {
+      "title": "MINEDU-NC - Semaine du climat : le Vice-ministre Théodore Kazadi renforce l’engagement des élèves pour la protection de l’environnement",
+      "url": "https://edu-nc.gouv.cd/actualites/semaine-du-climat-le-vice-ministre-theodore-kazadi-renforce-l-engagement-des-eleves-pour-la-protection-de-l-environnement",
+      "lastmod": "2026-11-05T00:00:00+00:00",
+      "analyzed_at": "2026-11-05T13:43:47.244210+00:00",
+      "spelling_errors": [
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ariat général Système éducatif Épreuves certificatives Système éducatif Épreuves certificative...",
+          "mot_fautif": "certificatives",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "certificat ives"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ertificatives Système éducatif Épreuves certificatives Le ministère de l’Education Nationale e...",
+          "mot_fautif": "certificatives",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "certificat ives"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...reuves certificatives Le ministère de l’Education Nationale et Nouvelle Citoyenneté, fait...",
+          "mot_fautif": "Education",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Éducation",
+            "Éducations"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...stre de l'Éducation nationale, Théodore Kazadi Muayila, lors de sa participation à la ...",
+          "mot_fautif": "Kazadi",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Kazan",
+            "Kazakh",
+            "Gazai"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "... l'Éducation nationale, Théodore Kazadi Muayila, lors de sa participation à la journée ...",
+          "mot_fautif": "Muayila",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Mutila",
+            "Murailla"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ans le cadre de la Semaine du climat, à Silikin Village de Kinshasa.  Sous la tutelle d...",
+          "mot_fautif": "Silikin",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Silique",
+            "Siliques"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...u climat, à Silikin Village de Kinshasa.  Sous la tutelle du ministère délégué aup...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...estion et la valorisation des déchets ».  Elle a connu la participation de la mini...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "... la Culture, Art et Patrimoine, Yolande Elebe Ma Ndebo, et de la vice-ministre délégu...",
+          "mot_fautif": "Elebe",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Élevé",
+            "Élève",
+            "Plèbe"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...re, Art et Patrimoine, Yolande Elebe Ma Ndebo, et de la vice-ministre déléguée auprès...",
+          "mot_fautif": "Ndebo",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Démo",
+            "Déco",
+            "Néo"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...la nouvelle économie du climat, Arlette Bahati Tito.  Dans son intervention, Théodore ...",
+          "mot_fautif": "Bahati",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Baha'i",
+            "Bahaï",
+            "Baha’i"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...elle économie du climat, Arlette Bahati Tito.  Dans son intervention, Théodore Kazad...",
+          "mot_fautif": "Tito",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Tino",
+            "Titi",
+            "Toto"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...économie du climat, Arlette Bahati Tito.  Dans son intervention, Théodore Kazadi M...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "... Tito.  Dans son intervention, Théodore Kazadi Muayila a souligné que la sensibilisati...",
+          "mot_fautif": "Kazadi",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Kazan",
+            "Kazakh",
+            "Gazai"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "... Dans son intervention, Théodore Kazadi Muayila a souligné que la sensibilisation envir...",
+          "mot_fautif": "Muayila",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Mutila",
+            "Murailla"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "... de la République démocratique du Congo.  « L’éducation ne se limite pas à l’acqui...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...établissements scolaires de la capitale.  Profitant de l’occasion, Théodore Kazadi...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ale.  Profitant de l’occasion, Théodore Kazadi a présenté aux élèves la campagne éduca...",
+          "mot_fautif": "Kazadi",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Kazan",
+            "Kazakh",
+            "Gazai"
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...té et de protection de l'environnement, ce avant de les sensibiliser sur la gestio...",
+          "mot_fautif": "ce",
+          "explication": "Devant une voyelle ou une voyelle précédée d’un « H » muet, il convient d’utiliser « cet ».",
+          "suggestions": [
+            "cet"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "... dans les écoles et les espaces publics.  « Ces trois gestes n'exigent rien, mais ...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...avorisent les maladies », a-t-il insisté  Par ailleurs, le Vice-ministre à l'Éduca...",
+          "mot_fautif": "  ",
+          "explication": "Il semblerait qu’une espace surnuméraire s’est glissée entre ces deux mots.",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "... leurs familles et de leurs communautés.  Ivan Honoré Mudiangombé Filtrez par stru...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...s et de leurs communautés.  Ivan Honoré Mudiangombé Filtrez par structure ou par type de do...",
+          "mot_fautif": "Mudiangombé",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": []
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...s communautés.  Ivan Honoré Mudiangombé Filtrez par structure ou par type de document p...",
+          "mot_fautif": "Filtrez",
+          "explication": "Conjugaison erronée. Accord avec “Ivan”. Le verbe devrait être à la 3ᵉ personne du singulier.",
+          "suggestions": [
+            "Filtre"
           ]
         },
         {
