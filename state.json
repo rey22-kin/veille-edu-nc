@@ -1,44 +1,45 @@
 {
   "seen_urls": [
-    "https://edu-nc.gouv.cd/actualites/kongo-central-1-le-diprocope-presente-le-numerique-comme-un-levier-de-la-maitrise-des-effectifs-et-de-la-securisation-de-la-paie-des-enseignants",
-    "https://edu-nc.gouv.cd/actualites/gouvernement-scolaire-elue-premiere-ministre-a-lestonac-mobokoli-clarissa-siazo-est-l-illustration-parfaite-du-leadership-feminin-a-l-ecole",
-    "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative",
-    "https://edu-nc.gouv.cd/actualites/haut-katanga-1-lancement-des-clubs-de-veille-citoyenne-a-likasi-1",
-    "https://edu-nc.gouv.cd/actualites/rdc-raissa-malu-lance-la-reflexion-strategique-sur-la-mise-en-place-des-instituts-de-formation-aux-metiers-de-l-enseignement",
-    "https://edu-nc.gouv.cd/actualites/rdc-le-peqip-deploie-le-mecanisme-de-gestion-des-plaintes-au-kasai",
-    "https://edu-nc.gouv.cd/actualites/peqip-deploiement-des-formateurs-nationaux-pour-la-formation-de-31-650-acteurs-educatifs-en-prelude-a-la-distribution-des-manuels-scolaires",
-    "https://edu-nc.gouv.cd/actualites/kasai-les-autorites-et-les-leaders-communautaires-mobilises-pour-la-reussite-du-projet-paaf",
-    "https://edu-nc.gouv.cd/actualites/projet-de-loi-des-finances-le-gouvernement-prevoit-d-etendre-la-gratuite-de-l-enseignement-aux-7e-et-8e-annees-des-2027-2028",
-    "https://edu-nc.gouv.cd/actualites/agora-conference-2026-raissa-malu-mise-sur-le-lien-entre-education-electricite-et-transformation-numerique",
-    "https://edu-nc.gouv.cd/actualites/mise-a-la-retraite-des-enseignants-juvenal-sanga-kaubo-fixe-des-orientations-pour-accelerer-le-processus",
+    "https://edu-nc.gouv.cd/actualites/paaf-debut-de-la-campagne-de-recrutement-de-2-500-enseignantes-du-secondaire-fondee-sur-le-merite-et-la-promotion-de-la-representation-feminine",
     "https://edu-nc.gouv.cd/actualites/perse-les-eleves-et-enseignants-de-l-ecole-primaire-st-georges-a-kintambo-sensibilises-aux-violences-basees-sur-le-genre",
-    "https://edu-nc.gouv.cd/actualites/lycee-mgr-shaumba-felix-tshisekedi-concretise-son-engagement-avec-deux-bus-et-une-centaine-d-ordinateurs",
-    "https://edu-nc.gouv.cd/actualites/ituri-1-des-etablissements-scolaires-dotes-des-dispositifs-de-lavage-des-mains-pour-lutter-contre-ebola",
-    "https://edu-nc.gouv.cd/actualites/kasai-central-le-paaf-sensibilise-les-autorites-politico-administratives-et-les-leaders-communautaires-a-l-education-et-l-autonomisation-des-filles",
+    "https://edu-nc.gouv.cd/actualites/peqip-deploiement-des-formateurs-nationaux-pour-la-formation-de-31-650-acteurs-educatifs-en-prelude-a-la-distribution-des-manuels-scolaires",
+    "https://edu-nc.gouv.cd/actualites/rdc-le-peqip-deploie-le-mecanisme-de-gestion-des-plaintes-au-kasai",
     "https://edu-nc.gouv.cd/actualites/kisantu-lancement-des-travaux-de-l-elaboration-de-la-strategie-nationale-de-l-enseignement-technique-et-professionnel-2027-2036",
-    "https://edu-nc.gouv.cd/actualites/mathematiques-au-feminin-le-vice-ministre-theodore-kazadi-remet-50-bourses-d-etudes-aux-laureates-de-la-3-edition",
-    "https://edu-nc.gouv.cd/actualites/journee-mondiale-de-l-alimentation-la-rdc-entend-etendre-le-programme-de-cantines-scolaires-sur-l-ensemble-du-territoire-d-ici-2029",
-    "https://edu-nc.gouv.cd/actualites/education-en-situation-de-crise-a-geneve-raissa-malu-portera-la-voix-des-enfants-affectes-par-les-conflits",
     "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026-le-reajustement-de-la-prime-de-gratuite-pour-plusieurs-milliers-d-enseignants-parmi-les-realisations-semestrielles",
     "https://edu-nc.gouv.cd/actualites/kasai-central-et-kasai-oriental-le-gouvernement-renforce-la-mise-en-uvre-des-cantines-scolaires-pilotes",
-    "https://edu-nc.gouv.cd/actualites/rentree-scolaire-a-kintambo-la-sous-division-rappelle-aux-chefs-d-etablissements-leurs-responsabilites",
+    "https://edu-nc.gouv.cd/actualites/tshangu-lancement-de-la-campagne-pilote-de-recrutement-des-enseignantes-du-secondaire",
+    "https://edu-nc.gouv.cd/actualites/kongo-central-1-le-diprocope-presente-le-numerique-comme-un-levier-de-la-maitrise-des-effectifs-et-de-la-securisation-de-la-paie-des-enseignants",
+    "https://edu-nc.gouv.cd/actualites/journee-mondiale-de-l-alimentation-la-rdc-entend-etendre-le-programme-de-cantines-scolaires-sur-l-ensemble-du-territoire-d-ici-2029",
     "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026",
-    "https://edu-nc.gouv.cd/actualites/prescolaire-validation-technique-du-referentiel-des-competences-des-enseignants",
-    "https://edu-nc.gouv.cd/actualites/partenariat-le-ministere-de-l-education-nationale-et-l-afd-accelerent-leurs-projets-educatifs-en-vue-d-obtenir-les-resultats-escomptes",
     "https://edu-nc.gouv.cd/actualites/bonne-gouvernance-le-secretaire-general-mobilise-les-chefs-des-services-centraux-sur-la-gestion-axee-sur-les-resultats",
-    "https://edu-nc.gouv.cd/actualites/sankuru-2-la-dinacope-renforce-les-capacites-de-ses-equipes-sur-le-controle-physique-digitalise",
-    "https://edu-nc.gouv.cd/actualites/rdc-a-mbanza-ngungu-les-experts-et-acteurs-du-livre-scolaire-reunis-pour-actualiser-la-politique-nationale-des-manuels-scolaires",
+    "https://edu-nc.gouv.cd/actualites/ituri-1-des-etablissements-scolaires-dotes-des-dispositifs-de-lavage-des-mains-pour-lutter-contre-ebola",
+    "https://edu-nc.gouv.cd/actualites/ecw-2026-raissa-malu-defend-une-approche-integree-pour-garantir-la-continuite-de-l-education-en-situation-de-crise",
+    "https://edu-nc.gouv.cd/actualites/gouvernement-scolaire-elue-premiere-ministre-a-lestonac-mobokoli-clarissa-siazo-est-l-illustration-parfaite-du-leadership-feminin-a-l-ecole",
+    "https://edu-nc.gouv.cd/actualites/rentree-scolaire-a-kintambo-la-sous-division-rappelle-aux-chefs-d-etablissements-leurs-responsabilites",
+    "https://edu-nc.gouv.cd/actualites/kasai-les-autorites-et-les-leaders-communautaires-mobilises-pour-la-reussite-du-projet-paaf",
     "https://edu-nc.gouv.cd/actualites/paaf-lancement-du-concours-de-recrutement-de-2500-enseignantes-du-secondaire",
-    "https://edu-nc.gouv.cd/actualites/kalemie-le-secretaire-general-juvenal-sanga-kaubo-a-officiellement-lance-la-distribution-des-fournitures-et-kits-scolaires-aux-eleves-du-tanganyika",
     "https://edu-nc.gouv.cd/actualites/modernisation-de-l-administration-le-sg-juvenal-sanga-kaubo-lance-la-revision-des-descriptifs-de-postes-des-bureaux-gestionnaires",
+    "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative",
+    "https://edu-nc.gouv.cd/actualites/rdc-raissa-malu-lance-la-reflexion-strategique-sur-la-mise-en-place-des-instituts-de-formation-aux-metiers-de-l-enseignement",
+    "https://edu-nc.gouv.cd/actualites/mathematiques-au-feminin-le-vice-ministre-theodore-kazadi-remet-50-bourses-d-etudes-aux-laureates-de-la-3-edition",
     "https://edu-nc.gouv.cd/actualites/rdc-le-minedu-nc-mobilise-ses-cadres-autour-de-l-appropriation-institutionnelle-de-l-application-educ-app",
-    "https://edu-nc.gouv.cd/actualites/paaf-debut-de-la-campagne-de-recrutement-de-2-500-enseignantes-du-secondaire-fondee-sur-le-merite-et-la-promotion-de-la-representation-feminine",
-    "https://edu-nc.gouv.cd/actualites/semaine-du-climat-le-vice-ministre-theodore-kazadi-renforce-l-engagement-des-eleves-pour-la-protection-de-l-environnement",
-    "https://edu-nc.gouv.cd/actualites/peqip-les-experts-evaluent-l-etat-d-avancement-des-chantiers-scolaires-et-d-ouvrages-wash-au-kasai-oriental",
+    "https://edu-nc.gouv.cd/actualites/projet-de-loi-des-finances-le-gouvernement-prevoit-d-etendre-la-gratuite-de-l-enseignement-aux-7e-et-8e-annees-des-2027-2028",
     "https://edu-nc.gouv.cd/actualites/kwilu-2-elections-et-installation-des-comites-des-clubs-de-veille-citoyenne-dans-des-etablissements-scolaires",
-    "https://edu-nc.gouv.cd/actualites/tshangu-lancement-de-la-campagne-pilote-de-recrutement-des-enseignantes-du-secondaire"
+    "https://edu-nc.gouv.cd/actualites/kalemie-le-secretaire-general-juvenal-sanga-kaubo-a-officiellement-lance-la-distribution-des-fournitures-et-kits-scolaires-aux-eleves-du-tanganyika",
+    "https://edu-nc.gouv.cd/actualites/mise-a-la-retraite-des-enseignants-juvenal-sanga-kaubo-fixe-des-orientations-pour-accelerer-le-processus",
+    "https://edu-nc.gouv.cd/actualites/rdc-a-mbanza-ngungu-les-experts-et-acteurs-du-livre-scolaire-reunis-pour-actualiser-la-politique-nationale-des-manuels-scolaires",
+    "https://edu-nc.gouv.cd/actualites/peqip-les-experts-evaluent-l-etat-d-avancement-des-chantiers-scolaires-et-d-ouvrages-wash-au-kasai-oriental",
+    "https://edu-nc.gouv.cd/actualites/education-en-situation-de-crise-a-geneve-raissa-malu-portera-la-voix-des-enfants-affectes-par-les-conflits",
+    "https://edu-nc.gouv.cd/actualites/kasai-central-le-paaf-sensibilise-les-autorites-politico-administratives-et-les-leaders-communautaires-a-l-education-et-l-autonomisation-des-filles",
+    "https://edu-nc.gouv.cd/actualites/partenariat-le-ministere-de-l-education-nationale-et-l-afd-accelerent-leurs-projets-educatifs-en-vue-d-obtenir-les-resultats-escomptes",
+    "https://edu-nc.gouv.cd/actualites/sankuru-2-la-dinacope-renforce-les-capacites-de-ses-equipes-sur-le-controle-physique-digitalise",
+    "https://edu-nc.gouv.cd/actualites/semaine-du-climat-le-vice-ministre-theodore-kazadi-renforce-l-engagement-des-eleves-pour-la-protection-de-l-environnement",
+    "https://edu-nc.gouv.cd/actualites/haut-katanga-1-lancement-des-clubs-de-veille-citoyenne-a-likasi-1",
+    "https://edu-nc.gouv.cd/actualites/agora-conference-2026-raissa-malu-mise-sur-le-lien-entre-education-electricite-et-transformation-numerique",
+    "https://edu-nc.gouv.cd/actualites/lycee-mgr-shaumba-felix-tshisekedi-concretise-son-engagement-avec-deux-bus-et-une-centaine-d-ordinateurs",
+    "https://edu-nc.gouv.cd/actualites/prescolaire-validation-technique-du-referentiel-des-competences-des-enseignants"
   ],
-  "last_run": "2026-11-08T12:26:24.818985+00:00",
+  "last_run": "2026-11-08T21:29:03.841860+00:00",
   "articles": {
     "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative": {
       "title": "MINEDU-NC - ONU : de l’accès à l’école à la qualité des apprentissages, la RDC poursuit sa transformation éducative",
@@ -8688,6 +8689,406 @@
             "DUC",
             "DEC",
             "DG"
+          ]
+        }
+      ],
+      "broken_links": [],
+      "missing_alt_images": [],
+      "missing_metadata": [
+        "auteur"
+      ],
+      "error": null
+    },
+    "https://edu-nc.gouv.cd/actualites/ecw-2026-raissa-malu-defend-une-approche-integree-pour-garantir-la-continuite-de-l-education-en-situation-de-crise": {
+      "title": "MINEDU-NC - ECW 2026 : Raïssa Malu défend une approche intégrée pour garantir la continuité de l’éducation en situation de crise",
+      "url": "https://edu-nc.gouv.cd/actualites/ecw-2026-raissa-malu-defend-une-approche-integree-pour-garantir-la-continuite-de-l-education-en-situation-de-crise",
+      "lastmod": "2026-11-08T00:00:00+00:00",
+      "analyzed_at": "2026-11-08T21:29:01.208879+00:00",
+      "spelling_errors": [
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ariat général Système éducatif Épreuves certificatives Système éducatif Épreuves certificative...",
+          "mot_fautif": "certificatives",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "certificat ives"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ertificatives Système éducatif Épreuves certificatives À Genève, lors du premier panel de la C...",
+          "mot_fautif": "certificatives",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "certificat ives"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...de haut niveau d’Education Cannot Wait (ECW), la ministre d’État en charge de l’Édu...",
+          "mot_fautif": "ECW",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "ÉCU",
+            "ECS",
+            "EC"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "... prévisibles et rapidement mobilisables.  La République démocratique du Congo ente...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...de populations et aux crises sanitaires.  C’est le message porté par la ministre d...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...tionale et Nouvelle Citoyenneté, Raïssa Malu, au premier panel de la Conférence de h...",
+          "mot_fautif": "Malu",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Ma lu",
+            "Mal",
+            "Mâle"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...de haut niveau d’Education Cannot Wait (ECW), organisée ce jeudi 5 novembre 2026 à ...",
+          "mot_fautif": "ECW",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "ÉCU",
+            "ECS",
+            "EC"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...constitution des ressources financières.  Devant les partenaires internationaux, l...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...par les crises, particulièrement dans l’Est du pays.  Pour Raïssa Malu, l’enjeu dép...",
+          "mot_fautif": "Est",
+          "explication": "Employez une minuscule pour ces points cardinaux.",
+          "suggestions": [
+            "est"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...es, particulièrement dans l’Est du pays.  Pour Raïssa Malu, l’enjeu dépasse la sim...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...rement dans l’Est du pays.  Pour Raïssa Malu, l’enjeu dépasse la simple réouverture ...",
+          "mot_fautif": "Malu",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Ma lu",
+            "Mal",
+            "Mâle"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...l’insécurité et les déplacements forcés.  « Nous pensons qu’il ne suffit pas simpl...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...ements forcés.  « Nous pensons qu’il ne suffit pas simplement de maintenir les écoles ouvertes. L’ess...",
+          "mot_fautif": "suffit pas simplement",
+          "explication": "« Suffire simplement » est un pléonasme.",
+          "suggestions": [
+            "suffit"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...émique des enfants », a-t-elle souligné.  Cette orientation s’inscrit dans la Stra...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...de la formation en situation d’urgence (SEFSU) 2025-2029, portée par le ministère dan...",
+          "mot_fautif": "SEFSU",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "SENSU"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...cadre de son Plan quinquennal 2024-2029.  Son financement global est estimé à 824,...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...onsolider les interventions engagées en Ituri, au Nord-Kivu et au Tanganyika.  Une ré...",
+          "mot_fautif": "Ituri",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Iouri"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...s engagées en Ituri, au Nord-Kivu et au Tanganyika.  Une réponse intégrée centrée sur les ...",
+          "mot_fautif": "Tanganyika",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Tanganil"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...en Ituri, au Nord-Kivu et au Tanganyika.  Une réponse intégrée centrée sur les bes...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...grée centrée sur les besoins de l’enfant  La ministre a insisté sur la nécessité d...",
+          "mot_fautif": "  ",
+          "explication": "Il semblerait qu’une espace surnuméraire s’est glissée entre ces deux mots.",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...nts sont confrontés en période de crise.  Le Gouvernement travaille notamment avec...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...de de crise.  Le Gouvernement travaille notamment avec des partenaires comme ECW à la mis...",
+          "mot_fautif": "notamment",
+          "explication": "Ce mot apparaît déjà dans l’une des phrases précédant immédiatement celle-ci. Utilisez un synonyme pour apporter plus de variété à votre texte, excepté si la répétition est intentionnelle.",
+          "suggestions": [
+            "particulièrement",
+            "spécialement",
+            "singulièrement"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...le notamment avec des partenaires comme ECW à la mise en place d’espaces temporaire...",
+          "mot_fautif": "ECW",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "ÉCU",
+            "ECS",
+            "EC"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "... charge des traumatismes psychologiques.  « Un enfant qui a faim ne peut pas étudi...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...ne peut pas étudier », a rappelé Raïssa Malu, défendant une approche qui associe édu...",
+          "mot_fautif": "Malu",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Ma lu",
+            "Mal",
+            "Mâle"
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "...de résilience pluriannuels soutenus par ECW en RDC, qui combinent notamment espaces...",
+          "mot_fautif": "ECW",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "ÉCU",
+            "ECS",
+            "EC"
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "... soutenus par ECW en RDC, qui combinent notamment espaces d’apprentissage sécurisés, nutr...",
+          "mot_fautif": "notamment",
+          "explication": "Ce mot apparaît déjà dans l’une des phrases précédant immédiatement celle-ci. Utilisez un synonyme pour apporter plus de variété à votre texte, excepté si la répétition est intentionnelle.",
+          "suggestions": [
+            "particulièrement",
+            "spécialement",
+            "singulièrement"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...ychosocial et formation des enseignants.  La ministre a également évoqué le recour...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...rmation des enseignants.  La ministre a également évoqué le recours à l’enseignement à di...",
+          "mot_fautif": "également",
+          "explication": "Ce mot apparaît déjà dans l’une des phrases précédant immédiatement celle-ci. Utilisez un synonyme pour apporter plus de variété à votre texte, excepté si la répétition est intentionnelle.",
+          "suggestions": [
+            "aussi",
+            "par ailleurs",
+            "ainsi"
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...es éducatives à l’évolution des crises, notamment sanitaires, afin d’éviter que les urgen...",
+          "mot_fautif": "notamment",
+          "explication": "Ce mot apparaît déjà dans l’une des phrases précédant immédiatement celle-ci. Utilisez un synonyme pour apporter plus de variété à votre texte, excepté si la répétition est intentionnelle.",
+          "suggestions": [
+            "particulièrement",
+            "spécialement",
+            "singulièrement"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...tent durablement les parcours scolaires.  Des financements pluriannuels et rapidem...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "... pluriannuels et rapidement mobilisables  Sur la question du financement, Raïssa M...",
+          "mot_fautif": "  ",
+          "explication": "Il semblerait qu’une espace surnuméraire s’est glissée entre ces deux mots.",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Faute d'orthographe",
+          "passage": "... Sur la question du financement, Raïssa Malu a plaidé pour un engagement internation...",
+          "mot_fautif": "Malu",
+          "explication": "Faute de frappe possible trouvée.",
+          "suggestions": [
+            "Ma lu",
+            "Mal",
+            "Mâle"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...ment aux nouvelles situations d’urgence.  « Nous avons besoin de financements plur...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...ser très rapidement », a-t-elle déclaré.  Tout en saluant la contribution des bail...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "... que le Gouvernement congolais poursuit également ses efforts de mobilisation des ressour...",
+          "mot_fautif": "également",
+          "explication": "Ce mot apparaît déjà dans l’une des phrases précédant immédiatement celle-ci. Utilisez un synonyme pour apporter plus de variété à votre texte, excepté si la répétition est intentionnelle.",
+          "suggestions": [
+            "aussi",
+            "par ailleurs",
+            "ainsi"
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...entissages et de protection des enfants.  À l’issue de cette conférence de Genève,...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...e Starts Here » (L’espoir commence ici).  Cette mobilisation vise à permettre à 10...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Typographie",
+          "passage": "...éducation de qualité entre 2027 et 2030.  Au-delà de l’école, reconstruire l’être ...",
+          "mot_fautif": "  ",
+          "explication": "Faute de frappe possible : une espace est répétée",
+          "suggestions": [
+            " "
+          ]
+        },
+        {
+          "type": "Erreur linguistique",
+          "passage": "...à de l’école, reconstruire l’être humain  L’un des points marquants de l’intervent...",
+          "mot_fautif": "  ",
+          "explication": "Il semblerait qu’une espace surnuméraire s’est glissée entre ces deux mots.",
+          "suggestions": [
+            " "
           ]
         }
       ],
