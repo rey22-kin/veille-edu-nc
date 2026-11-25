@@ -1,0 +1,20 @@
+{
+  "_aide": "Ce fichier règle la veille. Les clés qui commencent par _ sont des notes et sont ignorées.",
+
+  "mots_surveilles": [],
+
+  "_exemple_mot_surveille": {
+    "mot": "EPST",
+    "type": "Terme à éviter",
+    "message": "Ancien sigle : vérifier que son emploi est voulu.",
+    "correction": "MINEDU-NC"
+  },
+  "_aide_mots": "Pour surveiller un mot, copie l'exemple ci-dessus dans la liste mots_surveilles (entre les crochets). Sépare plusieurs mots par une virgule.",
+
+  "pages_a_surveiller_en_plus": [],
+  "_aide_pages": "Pour surveiller une page en plus du menu, ajoute son chemin, par exemple : \"/documentation-et-reformes\"",
+
+  "pages_a_ignorer": ["/en", "/actualites"],
+
+  "seuil_lenteur_secondes": 6
+}
