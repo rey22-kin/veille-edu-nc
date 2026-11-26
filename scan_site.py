@@ -152,8 +152,30 @@ def normalize(text):
     return " ".join(text.lower().replace("’", "'").split())
 
 
+# Lignes dont la date change toute seule (ex. « Dernière mise à jour : 26/11/2026 ») :
+# un simple changement de date dans ces lignes n'est pas une vraie modification.
+VOLATILE_LINE = re.compile(
+    r"mise à jour|mis à jour|actualis|modifi[ée]+ le|last update|updated|©|copyright|dernière modification",
+    re.IGNORECASE)
+VOLATILE_DATES = re.compile(
+    r"\d{1,2}\s*[/.\-]\s*\d{1,2}\s*[/.\-]\s*\d{2,4}"
+    r"|\d{4}-\d{2}-\d{2}"
+    r"|\d{1,2}(?:er)?\s+(?:janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre)\s+\d{4}"
+    r"|\d{1,2}\s*[h:]\s*\d{2}"
+    r"|\b(?:19|20)\d{2}\b",
+    re.IGNORECASE)
+
+
+def comparable(line):
+    """Version d'une ligne utilisée pour comparer : dates automatiques masquées."""
+    if VOLATILE_LINE.search(line):
+        return VOLATILE_DATES.sub("<date>", line)
+    return line
+
+
 def hash_lines(lines):
-    return hashlib.sha256("\n".join(lines).encode("utf-8")).hexdigest()[:16]
+    text = "\n".join(comparable(l) for l in lines)
+    return hashlib.sha256(text.encode("utf-8")).hexdigest()[:16]
 
 
 def load_config():
@@ -466,7 +488,8 @@ def extract_doc_links(html, base_url):
 
 
 def diff_lines(old, new):
-    sm = difflib.SequenceMatcher(None, old, new, autojunk=False)
+    sm = difflib.SequenceMatcher(None, [comparable(l) for l in old],
+                                 [comparable(l) for l in new], autojunk=False)
     added, removed = [], []
     for tag, i1, i2, j1, j2 in sm.get_opcodes():
         if tag in ("replace", "delete"):
