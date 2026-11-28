@@ -1,62 +1,63 @@
 {
  "seen_urls": [
-  "https://edu-nc.gouv.cd/actualites/rdc-raissa-malu-lance-la-reflexion-strategique-sur-la-mise-en-place-des-instituts-de-formation-aux-metiers-de-l-enseignement",
-  "https://edu-nc.gouv.cd/actualites/budget-2027-devant-le-senat-raissa-malu-sollicite-plus-de-5-118-milliards-de-francs-congolais-pour-l-education-nationale",
-  "https://edu-nc.gouv.cd/actualites/ecw-2026-raissa-malu-defend-une-approche-integree-pour-garantir-la-continuite-de-l-education-en-situation-de-crise",
   "https://edu-nc.gouv.cd/actualites/agora-conference-2026-raissa-malu-mise-sur-le-lien-entre-education-electricite-et-transformation-numerique",
-  "https://edu-nc.gouv.cd/actualites/kongo-central-1-le-directeur-provincial-de-la-dinacope-interpelle-les-banques-sur-les-retenues-salariales-des-enseignants",
-  "https://edu-nc.gouv.cd/actualites/modernisation-de-l-administration-le-sg-juvenal-sanga-lance-le-processus-de-mise-en-uvre-de-la-demarche-qualite-iso-9001",
-  "https://edu-nc.gouv.cd/actualites/sankuru-2-la-dinacope-renforce-les-capacites-de-ses-equipes-sur-le-controle-physique-digitalise",
-  "https://edu-nc.gouv.cd/actualites/education-en-situation-de-crise-a-geneve-raissa-malu-portera-la-voix-des-enfants-affectes-par-les-conflits",
-  "https://edu-nc.gouv.cd/actualites/bonne-gouvernance-le-secretaire-general-mobilise-les-chefs-des-services-centraux-sur-la-gestion-axee-sur-les-resultats",
-  "https://edu-nc.gouv.cd/actualites/semaine-du-climat-le-vice-ministre-theodore-kazadi-renforce-l-engagement-des-eleves-pour-la-protection-de-l-environnement",
-  "https://edu-nc.gouv.cd/actualites/paaf-lancement-du-concours-de-recrutement-de-2500-enseignantes-du-secondaire",
-  "https://edu-nc.gouv.cd/actualites/kongo-central-1-le-diprocope-presente-le-numerique-comme-un-levier-de-la-maitrise-des-effectifs-et-de-la-securisation-de-la-paie-des-enseignants",
-  "https://edu-nc.gouv.cd/actualites/modernisation-de-l-administration-le-sg-juvenal-sanga-kaubo-lance-la-revision-des-descriptifs-de-postes-des-bureaux-gestionnaires",
-  "https://edu-nc.gouv.cd/actualites/ecocitoyennete-kinshasa-mont-amba-lance-une-vaste-campagne-d-assainissement-pour-la-salubrite-dans-les-etablissements-scolaires",
-  "https://edu-nc.gouv.cd/actualites/lycee-mgr-shaumba-felix-tshisekedi-concretise-son-engagement-avec-deux-bus-et-une-centaine-d-ordinateurs",
-  "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative",
-  "https://edu-nc.gouv.cd/actualites/paaf-debut-de-la-campagne-de-recrutement-de-2-500-enseignantes-du-secondaire-fondee-sur-le-merite-et-la-promotion-de-la-representation-feminine",
-  "https://edu-nc.gouv.cd/actualites/kongo-central-le-secretaire-general-a-l-edu-nc-lance-le-dernier-chantier-ecole-du-projet-preace-a-kimpese",
-  "https://edu-nc.gouv.cd/actualites/kalemie-le-secretaire-general-juvenal-sanga-kaubo-a-officiellement-lance-la-distribution-des-fournitures-et-kits-scolaires-aux-eleves-du-tanganyika",
-  "https://edu-nc.gouv.cd/actualites/haut-katanga-1-lancement-des-clubs-de-veille-citoyenne-a-likasi-1",
-  "https://edu-nc.gouv.cd/actualites/alimentation-scolaire-juvenal-sanga-lance-la-formation-des-formateurs-multisectoriels-pour-l-operationnalisation-de-la-phase-pilote-de-78-cantines-scolaires-pilotes",
-  "https://edu-nc.gouv.cd/actualites/rdc-le-peqip-deploie-le-mecanisme-de-gestion-des-plaintes-au-kasai",
-  "https://edu-nc.gouv.cd/actualites/partenariat-le-ministere-de-l-education-nationale-et-l-afd-accelerent-leurs-projets-educatifs-en-vue-d-obtenir-les-resultats-escomptes",
-  "https://edu-nc.gouv.cd/actualites/sankuru-2-le-directeur-provincial-sensibilise-les-eleves-au-role-des-clubs-de-veille-citoyenne",
-  "https://edu-nc.gouv.cd/actualites/epreuves-certificatives-2026-2027-kinshasa-mont-amba-prone-un-controle-rigoureux-et-equitable-des-dossiers-des-candidats-finalistes",
   "https://edu-nc.gouv.cd/actualites/projet-de-loi-des-finances-le-gouvernement-prevoit-d-etendre-la-gratuite-de-l-enseignement-aux-7e-et-8e-annees-des-2027-2028",
-  "https://edu-nc.gouv.cd/actualites/enseignement-technique-et-professionnel-cinq-documents-normatifs-valides-pour-ameliorer-l-organisation-et-la-qualite-de-l-education",
-  "https://edu-nc.gouv.cd/actualites/gouvernement-scolaire-elue-premiere-ministre-a-lestonac-mobokoli-clarissa-siazo-est-l-illustration-parfaite-du-leadership-feminin-a-l-ecole",
+  "https://edu-nc.gouv.cd/actualites/kinshasa-mont-amba-onze-ecoles-s-engagent-dans-les-clubs-de-veille-citoyenne",
+  "https://edu-nc.gouv.cd/actualites/bourses-paaf-le-sg-juvenal-sanga-insiste-sur-l-importance-de-la-maitrise-des-donnees-et-de-la-tracabilite-des-ressources-engagees",
   "https://edu-nc.gouv.cd/actualites/kasai-central-le-paaf-sensibilise-les-autorites-politico-administratives-et-les-leaders-communautaires-a-l-education-et-l-autonomisation-des-filles",
   "https://edu-nc.gouv.cd/actualites/peqip-deploiement-des-formateurs-nationaux-pour-la-formation-de-31-650-acteurs-educatifs-en-prelude-a-la-distribution-des-manuels-scolaires",
-  "https://edu-nc.gouv.cd/actualites/kisantu-le-minedu-nc-lance-un-atelier-strategique-d-elaboration-de-modules-de-formation-sur-l-utilisation-efficace-des-manuels-scolaires-du-domaine-d-apprentissage-des-sciences",
-  "https://edu-nc.gouv.cd/actualites/mathematiques-au-feminin-le-vice-ministre-theodore-kazadi-remet-50-bourses-d-etudes-aux-laureates-de-la-3-edition",
-  "https://edu-nc.gouv.cd/actualites/ituri-1-des-etablissements-scolaires-dotes-des-dispositifs-de-lavage-des-mains-pour-lutter-contre-ebola",
-  "https://edu-nc.gouv.cd/actualites/perse-les-eleves-et-enseignants-de-l-ecole-primaire-st-georges-a-kintambo-sensibilises-aux-violences-basees-sur-le-genre",
-  "https://edu-nc.gouv.cd/actualites/journee-mondiale-de-l-alimentation-la-rdc-entend-etendre-le-programme-de-cantines-scolaires-sur-l-ensemble-du-territoire-d-ici-2029",
-  "https://edu-nc.gouv.cd/actualites/kinshasa-mont-amba-onze-ecoles-s-engagent-dans-les-clubs-de-veille-citoyenne",
-  "https://edu-nc.gouv.cd/actualites/mise-a-la-retraite-des-enseignants-juvenal-sanga-kaubo-fixe-des-orientations-pour-accelerer-le-processus",
   "https://edu-nc.gouv.cd/actualites/peqip-les-experts-evaluent-l-etat-d-avancement-des-chantiers-scolaires-et-d-ouvrages-wash-au-kasai-oriental",
-  "https://edu-nc.gouv.cd/actualites/kisantu-lancement-des-travaux-de-l-elaboration-de-la-strategie-nationale-de-l-enseignement-technique-et-professionnel-2027-2036",
-  "https://edu-nc.gouv.cd/actualites/rdc-20-760-eleves-evalues-dans-le-cadre-de-la-deuxieme-evaluation-nationale-des-acquis-scolaires",
-  "https://edu-nc.gouv.cd/actualites/tshangu-lancement-de-la-campagne-pilote-de-recrutement-des-enseignantes-du-secondaire",
-  "https://edu-nc.gouv.cd/actualites/kasai-central-et-kasai-oriental-le-gouvernement-renforce-la-mise-en-uvre-des-cantines-scolaires-pilotes",
-  "https://edu-nc.gouv.cd/actualites/rentree-scolaire-a-kintambo-la-sous-division-rappelle-aux-chefs-d-etablissements-leurs-responsabilites",
-  "https://edu-nc.gouv.cd/actualites/bourses-paaf-le-sg-juvenal-sanga-insiste-sur-l-importance-de-la-maitrise-des-donnees-et-de-la-tracabilite-des-ressources-engagees",
-  "https://edu-nc.gouv.cd/actualites/genre-et-education-la-devc-renforce-les-capacites-des-acteurs-educatifs-sur-la-planification-et-la-gestion-des-programmes-de-scolarisation-des-filles",
-  "https://edu-nc.gouv.cd/actualites/kwilu-2-elections-et-installation-des-comites-des-clubs-de-veille-citoyenne-dans-des-etablissements-scolaires",
-  "https://edu-nc.gouv.cd/actualites/rdc-a-mbanza-ngungu-les-experts-et-acteurs-du-livre-scolaire-reunis-pour-actualiser-la-politique-nationale-des-manuels-scolaires",
+  "https://edu-nc.gouv.cd/actualites/ecw-2026-raissa-malu-defend-une-approche-integree-pour-garantir-la-continuite-de-l-education-en-situation-de-crise",
+  "https://edu-nc.gouv.cd/actualites/sankuru-2-le-directeur-provincial-sensibilise-les-eleves-au-role-des-clubs-de-veille-citoyenne",
+  "https://edu-nc.gouv.cd/actualites/mathematiques-au-feminin-le-vice-ministre-theodore-kazadi-remet-50-bourses-d-etudes-aux-laureates-de-la-3-edition",
   "https://edu-nc.gouv.cd/actualites/cantines-scolaires-l-edu-nc-se-dote-d-un-noyau-de-formateurs-multisectoriels-pour-accelerer-la-mise-en-uvre-de-la-reforme",
+  "https://edu-nc.gouv.cd/actualites/gouvernement-scolaire-elue-premiere-ministre-a-lestonac-mobokoli-clarissa-siazo-est-l-illustration-parfaite-du-leadership-feminin-a-l-ecole",
+  "https://edu-nc.gouv.cd/actualites/budget-2027-devant-le-senat-raissa-malu-sollicite-plus-de-5-118-milliards-de-francs-congolais-pour-l-education-nationale",
+  "https://edu-nc.gouv.cd/actualites/semaine-du-climat-le-vice-ministre-theodore-kazadi-renforce-l-engagement-des-eleves-pour-la-protection-de-l-environnement",
+  "https://edu-nc.gouv.cd/actualites/kongo-central-le-secretaire-general-a-l-edu-nc-lance-le-dernier-chantier-ecole-du-projet-preace-a-kimpese",
+  "https://edu-nc.gouv.cd/actualites/partenariat-le-ministere-de-l-education-nationale-et-l-afd-accelerent-leurs-projets-educatifs-en-vue-d-obtenir-les-resultats-escomptes",
   "https://edu-nc.gouv.cd/actualites/rdc-le-minedu-nc-mobilise-ses-cadres-autour-de-l-appropriation-institutionnelle-de-l-application-educ-app",
-  "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026-le-reajustement-de-la-prime-de-gratuite-pour-plusieurs-milliers-d-enseignants-parmi-les-realisations-semestrielles",
   "https://edu-nc.gouv.cd/actualites/prescolaire-validation-technique-du-referentiel-des-competences-des-enseignants",
-  "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026",
-  "https://edu-nc.gouv.cd/actualites/mbanza-ngungu-des-experts-de-l-edu-nc-en-atelier-residentiel-afin-de-doter-le-ministere-d-une-politique-de-communication-et-de-plusieurs-outils-strategiques",
+  "https://edu-nc.gouv.cd/actualites/ituri-1-des-etablissements-scolaires-dotes-des-dispositifs-de-lavage-des-mains-pour-lutter-contre-ebola",
+  "https://edu-nc.gouv.cd/actualites/kisantu-lancement-des-travaux-de-l-elaboration-de-la-strategie-nationale-de-l-enseignement-technique-et-professionnel-2027-2036",
   "https://edu-nc.gouv.cd/actualites/kasai-les-autorites-et-les-leaders-communautaires-mobilises-pour-la-reussite-du-projet-paaf",
-  "https://edu-nc.gouv.cd/actualites/gouvernance-des-enseignants-competences-numeriques-et-formation-initiale-au-prescolaire-au-c-ur-des-echanges-entre-le-secretaire-general-juvenal-sanga-kaubo-et-une-delegation-de-rtia"
+  "https://edu-nc.gouv.cd/actualites/epreuves-certificatives-2026-2027-kinshasa-mont-amba-prone-un-controle-rigoureux-et-equitable-des-dossiers-des-candidats-finalistes",
+  "https://edu-nc.gouv.cd/actualites/kalemie-le-secretaire-general-juvenal-sanga-kaubo-a-officiellement-lance-la-distribution-des-fournitures-et-kits-scolaires-aux-eleves-du-tanganyika",
+  "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative",
+  "https://edu-nc.gouv.cd/actualites/modernisation-de-l-administration-le-sg-juvenal-sanga-lance-le-processus-de-mise-en-uvre-de-la-demarche-qualite-iso-9001",
+  "https://edu-nc.gouv.cd/actualites/paaf-lancement-du-concours-de-recrutement-de-2500-enseignantes-du-secondaire",
+  "https://edu-nc.gouv.cd/actualites/rdc-a-mbanza-ngungu-les-experts-et-acteurs-du-livre-scolaire-reunis-pour-actualiser-la-politique-nationale-des-manuels-scolaires",
+  "https://edu-nc.gouv.cd/actualites/education-en-situation-de-crise-a-geneve-raissa-malu-portera-la-voix-des-enfants-affectes-par-les-conflits",
+  "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026",
+  "https://edu-nc.gouv.cd/actualites/enseignement-technique-et-professionnel-cinq-documents-normatifs-valides-pour-ameliorer-l-organisation-et-la-qualite-de-l-education",
+  "https://edu-nc.gouv.cd/actualites/tshangu-lancement-de-la-campagne-pilote-de-recrutement-des-enseignantes-du-secondaire",
+  "https://edu-nc.gouv.cd/actualites/genre-et-education-la-devc-renforce-les-capacites-des-acteurs-educatifs-sur-la-planification-et-la-gestion-des-programmes-de-scolarisation-des-filles",
+  "https://edu-nc.gouv.cd/actualites/rdc-le-peqip-deploie-le-mecanisme-de-gestion-des-plaintes-au-kasai",
+  "https://edu-nc.gouv.cd/actualites/kasai-central-et-kasai-oriental-le-gouvernement-renforce-la-mise-en-uvre-des-cantines-scolaires-pilotes",
+  "https://edu-nc.gouv.cd/actualites/lycee-mgr-shaumba-felix-tshisekedi-concretise-son-engagement-avec-deux-bus-et-une-centaine-d-ordinateurs",
+  "https://edu-nc.gouv.cd/actualites/mbanza-ngungu-des-experts-de-l-edu-nc-en-atelier-residentiel-afin-de-doter-le-ministere-d-une-politique-de-communication-et-de-plusieurs-outils-strategiques",
+  "https://edu-nc.gouv.cd/actualites/paaf-debut-de-la-campagne-de-recrutement-de-2-500-enseignantes-du-secondaire-fondee-sur-le-merite-et-la-promotion-de-la-representation-feminine",
+  "https://edu-nc.gouv.cd/actualites/modernisation-de-l-administration-le-sg-juvenal-sanga-kaubo-lance-la-revision-des-descriptifs-de-postes-des-bureaux-gestionnaires",
+  "https://edu-nc.gouv.cd/actualites/haut-katanga-1-lancement-des-clubs-de-veille-citoyenne-a-likasi-1",
+  "https://edu-nc.gouv.cd/actualites/rapport-semestriel-de-redevabilite-janvier-juin-2026-le-reajustement-de-la-prime-de-gratuite-pour-plusieurs-milliers-d-enseignants-parmi-les-realisations-semestrielles",
+  "https://edu-nc.gouv.cd/actualites/mise-a-la-retraite-des-enseignants-juvenal-sanga-kaubo-fixe-des-orientations-pour-accelerer-le-processus",
+  "https://edu-nc.gouv.cd/actualites/rdc-raissa-malu-lance-la-reflexion-strategique-sur-la-mise-en-place-des-instituts-de-formation-aux-metiers-de-l-enseignement",
+  "https://edu-nc.gouv.cd/actualites/journee-mondiale-de-l-alimentation-la-rdc-entend-etendre-le-programme-de-cantines-scolaires-sur-l-ensemble-du-territoire-d-ici-2029",
+  "https://edu-nc.gouv.cd/actualites/kasai-oriental-2-les-acteurs-educatifs-de-kabeya-kamuanga-1-appeles-au-strict-respect-des-instructions-officielles-sur-les-frais-scolaires-et-les-evaluations-certificatives",
+  "https://edu-nc.gouv.cd/actualites/rdc-20-760-eleves-evalues-dans-le-cadre-de-la-deuxieme-evaluation-nationale-des-acquis-scolaires",
+  "https://edu-nc.gouv.cd/actualites/perse-les-eleves-et-enseignants-de-l-ecole-primaire-st-georges-a-kintambo-sensibilises-aux-violences-basees-sur-le-genre",
+  "https://edu-nc.gouv.cd/actualites/rentree-scolaire-a-kintambo-la-sous-division-rappelle-aux-chefs-d-etablissements-leurs-responsabilites",
+  "https://edu-nc.gouv.cd/actualites/sankuru-2-la-dinacope-renforce-les-capacites-de-ses-equipes-sur-le-controle-physique-digitalise",
+  "https://edu-nc.gouv.cd/actualites/kisantu-le-minedu-nc-lance-un-atelier-strategique-d-elaboration-de-modules-de-formation-sur-l-utilisation-efficace-des-manuels-scolaires-du-domaine-d-apprentissage-des-sciences",
+  "https://edu-nc.gouv.cd/actualites/gouvernance-des-enseignants-competences-numeriques-et-formation-initiale-au-prescolaire-au-c-ur-des-echanges-entre-le-secretaire-general-juvenal-sanga-kaubo-et-une-delegation-de-rtia",
+  "https://edu-nc.gouv.cd/actualites/ecocitoyennete-kinshasa-mont-amba-lance-une-vaste-campagne-d-assainissement-pour-la-salubrite-dans-les-etablissements-scolaires",
+  "https://edu-nc.gouv.cd/actualites/alimentation-scolaire-juvenal-sanga-lance-la-formation-des-formateurs-multisectoriels-pour-l-operationnalisation-de-la-phase-pilote-de-78-cantines-scolaires-pilotes",
+  "https://edu-nc.gouv.cd/actualites/kwilu-2-elections-et-installation-des-comites-des-clubs-de-veille-citoyenne-dans-des-etablissements-scolaires",
+  "https://edu-nc.gouv.cd/actualites/kongo-central-1-le-diprocope-presente-le-numerique-comme-un-levier-de-la-maitrise-des-effectifs-et-de-la-securisation-de-la-paie-des-enseignants",
+  "https://edu-nc.gouv.cd/actualites/bonne-gouvernance-le-secretaire-general-mobilise-les-chefs-des-services-centraux-sur-la-gestion-axee-sur-les-resultats",
+  "https://edu-nc.gouv.cd/actualites/kongo-central-1-le-directeur-provincial-de-la-dinacope-interpelle-les-banques-sur-les-retenues-salariales-des-enseignants"
  ],
- "last_run": "2026-11-28T00:52:06.442117+00:00",
+ "last_run": "2026-11-28T14:47:02.288246+00:00",
  "articles": {
   "https://edu-nc.gouv.cd/actualites/onu-de-l-acces-a-l-ecole-a-la-qualite-des-apprentissages-la-rdc-poursuit-sa-transformation-educative": {
    "title": "MINEDU-NC - ONU : de l’accès à l’école à la qualité des apprentissages, la RDC poursuit sa transformation éducative",
@@ -1606,7 +1607,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:15.261706+00:00",
+   "last_checked": "2026-11-28T14:44:56.520273+00:00",
    "content_hash": "4df1601ccbbd2df1"
   },
   "https://edu-nc.gouv.cd/actualites/kwilu-2-elections-et-installation-des-comites-des-clubs-de-veille-citoyenne-dans-des-etablissements-scolaires": {
@@ -1977,7 +1978,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:17.504830+00:00",
+   "last_checked": "2026-11-28T14:44:57.557278+00:00",
    "content_hash": "26f98f331295e5fe"
   },
   "https://edu-nc.gouv.cd/actualites/kongo-central-1-le-diprocope-presente-le-numerique-comme-un-levier-de-la-maitrise-des-effectifs-et-de-la-securisation-de-la-paie-des-enseignants": {
@@ -1985,23 +1986,28 @@
    "url": "https://edu-nc.gouv.cd/actualites/kongo-central-1-le-diprocope-presente-le-numerique-comme-un-levier-de-la-maitrise-des-effectifs-et-de-la-securisation-de-la-paie-des-enseignants",
    "lastmod": "2026-10-09T00:00:00+00:00",
    "analyzed_at": "2026-10-09T12:07:05.401196+00:00",
+   "last_checked": "2026-11-28T14:45:10.502689+00:00",
    "spelling_errors": [
     {
      "type": "Faute d'orthographe",
-     "passage": "...ariat général Système éducatif Épreuves certificatives Système éducatif Épreuves certificative...",
-     "mot_fautif": "certificatives",
+     "passage": "Kongo central 1 : le Diprocope présente le nu...",
+     "mot_fautif": "Kongo",
      "explication": "Faute de frappe possible trouvée.",
      "suggestions": [
-      "certificat ives"
+      "Congo",
+      "Kong",
+      "Nounou"
      ]
     },
     {
      "type": "Faute d'orthographe",
-     "passage": "...ertificatives Système éducatif Épreuves certificatives Le Directeur provincial de la Direction...",
-     "mot_fautif": "certificatives",
+     "passage": "Kongo central 1 : le Diprocope présente le numérique comme un levier d...",
+     "mot_fautif": "Diprocope",
      "explication": "Faute de frappe possible trouvée.",
      "suggestions": [
-      "certificat ives"
+      "Microscope",
+      "Apocope",
+      "Diascope"
      ]
     },
     {
@@ -2038,35 +2044,18 @@
     },
     {
      "type": "Faute d'orthographe",
-     "passage": "...mation des directeurs provinciaux de la DINACOPE, tenu à Kinshasa au mois d’août dernier...",
-     "mot_fautif": "DINACOPE",
+     "passage": "...ticulier sur la transition numérique, l’assain Dans sa présentation, Felly Lange a par...",
+     "mot_fautif": "assain",
      "explication": "Faute de frappe possible trouvée.",
      "suggestions": [
-      "DIACODE",
-      "DIASCOPE"
-     ]
-    },
-    {
-     "type": "Typographie",
-     "passage": "... tenu à Kinshasa au mois d’août dernier.  Devant les cadres et agents de sa provin...",
-     "mot_fautif": "  ",
-     "explication": "Faute de frappe possible : une espace est répétée",
-     "suggestions": [
-      " "
-     ]
-    },
-    {
-     "type": "Typographie",
-     "passage": "...e des effectifs du personnel enseignant.  Dans sa présentation, Felly Lange a parc...",
-     "mot_fautif": "  ",
-     "explication": "Faute de frappe possible : une espace est répétée",
-     "suggestions": [
-      " "
+      "assène",
+      "assaini",
+      "asséné"
      ]
     },
     {
      "type": "Faute d'orthographe",
-     "passage": "...nnel enseignant.  Dans sa présentation, Felly Lange a parcouru les trois grands axes ...",
+     "passage": "...mérique, l’assain Dans sa présentation, Felly Lange a parcouru les trois grands axes ...",
      "mot_fautif": "Felly",
      "explication": "Faute de frappe possible trouvée.",
      "suggestions": [
@@ -2109,7 +2098,7 @@
     },
     {
      "type": "Faute d'orthographe",
-     "passage": "...l’axe Bas-Fleuve, l’axe Muanda et l’axe Matadi, couvrant les différentes entités relev...",
+     "passage": "...l’axe Bas-Fleuve, l’axe Muanda et l’axe Matadi, couvrant les différentes ent L’objecti...",
      "mot_fautif": "Matadi",
      "explication": "Faute de frappe possible trouvée.",
      "suggestions": [
@@ -2118,21 +2107,14 @@
      ]
     },
     {
-     "type": "Typographie",
-     "passage": "...relevant de cette direction provinciale.  L’objectif poursuivi est notamment de re...",
-     "mot_fautif": "  ",
-     "explication": "Faute de frappe possible : une espace est répétée",
+     "type": "Faute d'orthographe",
+     "passage": "...xe Muanda et l’axe Matadi, couvrant les différentes ent L’objectif poursuivi est notamment de r...",
+     "mot_fautif": "différentes ent",
+     "explication": "Faute de frappe possible trouvée.",
      "suggestions": [
-      " "
-     ]
-    },
-    {
-     "type": "Typographie",
-     "passage": "...able des informations issues du terrain.  Parmi les grandes innovations mises en a...",
-     "mot_fautif": "  ",
-     "explication": "Faute de frappe possible : une espace est répétée",
-     "suggestions": [
-      " "
+      "différente sent",
+      "différentes et",
+      "différentes en"
      ]
     },
     {
@@ -2147,15 +2129,6 @@
      ]
     },
     {
-     "type": "Typographie",
-     "passage": "...s irrégularités dans le fichier de paie.  À cela s’ajoute la mise en perspective d...",
-     "mot_fautif": "  ",
-     "explication": "Faute de frappe possible : une espace est répétée",
-     "suggestions": [
-      " "
-     ]
-    },
-    {
      "type": "Erreur linguistique",
      "passage": "...s à puce multifonctionnelles, destinées notamment à renforcer la sécurisation des opérati...",
      "mot_fautif": "notamment",
@@ -2167,30 +2140,23 @@
      ]
     },
     {
-     "type": "Typographie",
-     "passage": "...risation des opérations liées à la paie.  La transition numérique doit également ê...",
-     "mot_fautif": "  ",
-     "explication": "Faute de frappe possible : une espace est répétée",
+     "type": "Erreur linguistique",
+     "passage": "...es en kits informatiques doit permettre d La maîtrise des effectifs, l’assainisse...",
+     "mot_fautif": "d",
+     "explication": "Cette élision peut sembler familière.",
      "suggestions": [
-      " "
+      "de"
      ]
     },
     {
-     "type": "Typographie",
-     "passage": "...smission des informations en temps réel.  La maîtrise des effectifs, l’assainissem...",
-     "mot_fautif": "  ",
-     "explication": "Faute de frappe possible : une espace est répétée",
+     "type": "Faute d'orthographe",
+     "passage": "...t désormais des leviers importants pour amél Depuis 2024, le ministère de l’Éducatio...",
+     "mot_fautif": "amél",
+     "explication": "Faute de frappe possible trouvée.",
      "suggestions": [
-      " "
-     ]
-    },
-    {
-     "type": "Typographie",
-     "passage": "... la gouvernance du personnel enseignant.  Depuis 2024, le ministère de l’Éducation...",
-     "mot_fautif": "  ",
-     "explication": "Faute de frappe possible : une espace est répétée",
-     "suggestions": [
-      " "
+      "Amel",
+      "a mél",
+      "âme"
      ]
     },
     {
@@ -2216,26 +2182,8 @@
      ]
     },
     {
-     "type": "Typographie",
-     "passage": "...de l’information et de la communication.  Intégrer le numérique dans la gestion du...",
-     "mot_fautif": "  ",
-     "explication": "Faute de frappe possible : une espace est répétée",
-     "suggestions": [
-      " "
-     ]
-    },
-    {
-     "type": "Typographie",
-     "passage": "...r améliorer la gestion administrative ».  Serge Kimbila Mwanantumi Filtrez par str...",
-     "mot_fautif": "  ",
-     "explication": "Faute de frappe possible : une espace est répétée",
-     "suggestions": [
-      " "
-     ]
-    },
-    {
      "type": "Faute d'orthographe",
-     "passage": "...rer la gestion administrative ».  Serge Kimbila Mwanantumi Filtrez par structure ou par...",
+     "passage": "...orer la gestion administrative ». Serge Kimbila Mwanantumi Explorer toutes les publicat...",
      "mot_fautif": "Kimbila",
      "explication": "Faute de frappe possible trouvée.",
      "suggestions": [
@@ -2244,53 +2192,157 @@
     },
     {
      "type": "Faute d'orthographe",
-     "passage": "...estion administrative ».  Serge Kimbila Mwanantumi Filtrez par structure ou par type de do...",
+     "passage": "...gestion administrative ». Serge Kimbila Mwanantumi Explorer toutes les publications Filtre...",
      "mot_fautif": "Mwanantumi",
      "explication": "Faute de frappe possible trouvée.",
      "suggestions": []
     },
     {
      "type": "Faute d'orthographe",
-     "passage": "...8 02, Avenue des Ambassadeurs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministèr...",
-     "mot_fautif": "Gombe",
+     "passage": "...ï-Oriental 2 : les acteurs éducatifs de Kabeya-Kamuanga... Kongo Central : le Secrétai...",
+     "mot_fautif": "Kabeya",
      "explication": "Faute de frappe possible trouvée.",
      "suggestions": [
-      "Tombe",
-      "Bombe",
-      "Tombé"
+      "Kaseya"
      ]
     },
     {
      "type": "Faute d'orthographe",
-     "passage": "...venue des Ambassadeurs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de...",
-     "mot_fautif": "RD",
+     "passage": "...tal 2 : les acteurs éducatifs de Kabeya-Kamuanga... Kongo Central : le Secrétaire généra...",
+     "mot_fautif": "Kamuanga",
      "explication": "Faute de frappe possible trouvée.",
      "suggestions": [
-      "CD",
-      "RDA",
-      "RN"
+      "Katanga",
+      "Kananga"
      ]
     },
     {
      "type": "Faute d'orthographe",
-     "passage": "...rs, Kinshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de l’Éducation National...",
-     "mot_fautif": "KIN",
+     "passage": "...acteurs éducatifs de Kabeya-Kamuanga... Kongo Central : le Secrétaire général à l'EDU...",
+     "mot_fautif": "Kongo",
      "explication": "Faute de frappe possible trouvée.",
      "suggestions": [
-      "FIN",
-      "VIN",
-      "MIN"
+      "Congo",
+      "Kong",
+      "Nounou"
      ]
     },
     {
      "type": "Faute d'orthographe",
-     "passage": "...nshasa-Gombe, RD Congo, B.P. 3163 KIN 1 DGC-Ministère de l’Éducation Nationale et N...",
-     "mot_fautif": "DGC",
+     "passage": "...ngo Central : le Secrétaire général à l'EDU-NC lance le de... Cantines scolaires : ...",
+     "mot_fautif": "EDU",
      "explication": "Faute de frappe possible trouvée.",
      "suggestions": [
-      "DUC",
-      "DEC",
-      "DG"
+      "DU",
+      "ÉLU",
+      "DÛ"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...Central : le Secrétaire général à l'EDU-NC lance le de... Cantines scolaires : l’E...",
+     "mot_fautif": "NC",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "nC",
+      "NE",
+      "NÉ"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...C lance le de... Cantines scolaires : l’Edu-NC se dote d’un noyau de formateu... Ko...",
+     "mot_fautif": "Edu",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "Du",
+      "Élu",
+      "Dû"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...nce le de... Cantines scolaires : l’Edu-NC se dote d’un noyau de formateu... Kongo...",
+     "mot_fautif": "NC",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "nC",
+      "NE",
+      "NÉ"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...laires : l’Edu-NC se dote d’un noyau de formateu... Kongo Central 1 : Le directeur provi...",
+     "mot_fautif": "formateu",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "formateur",
+      "formaté",
+      "formatée"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...du-NC se dote d’un noyau de formateu... Kongo Central 1 : Le directeur provincial de ...",
+     "mot_fautif": "Kongo",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "Congo",
+      "Kong",
+      "Nounou"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...ntral 1 : Le directeur provincial de la DINACOPE int... Kinshasa Mont-Amba : onze écoles...",
+     "mot_fautif": "DINACOPE",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "DIACODE",
+      "DIASCOPE"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "... Le directeur provincial de la DINACOPE int... Kinshasa Mont-Amba : onze écoles s’e...",
+     "mot_fautif": "int",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "ont",
+      "vint",
+      "TNT"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...ial de la DINACOPE int... Kinshasa Mont-Amba : onze écoles s’engagent dans les Clubs...",
+     "mot_fautif": "Amba",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "Samba",
+      "Mamba",
+      "Gamba"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": ".... Budget 2027 : devant le Sénat, Raïssa Malu sollicite plus de... Pour toute dénonci...",
+     "mot_fautif": "Malu",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "Ma lu",
+      "Mal",
+      "Mâle"
+     ]
+    },
+    {
+     "type": "Erreur linguistique",
+     "passage": "...ale et nouvelle citoyenneté, appelez le 178",
+     "mot_fautif": "178",
+     "explication": "Un point est requis pour indiquer la fin de cette phrase.",
+     "suggestions": [
+      "178."
      ]
     }
    ],
@@ -2300,8 +2352,8 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:19.190271+00:00",
-   "content_hash": "c6927ce95a4d4434"
+   "content_hash": "864a4e40592c28fb",
+   "status": "en_ligne"
   },
   "https://edu-nc.gouv.cd/actualites/rdc-le-minedu-nc-mobilise-ses-cadres-autour-de-l-appropriation-institutionnelle-de-l-application-educ-app": {
    "title": "MINEDU-NC - RDC : le MINEDU-NC mobilise ses cadres autour de l’appropriation institutionnelle de l’application «Educ-APP»",
@@ -2665,7 +2717,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:20.888780+00:00",
+   "last_checked": "2026-11-28T14:45:11.564139+00:00",
    "content_hash": "c4b92fd527b596e7"
   },
   "https://edu-nc.gouv.cd/actualites/rdc-le-peqip-deploie-le-mecanisme-de-gestion-des-plaintes-au-kasai": {
@@ -2680,7 +2732,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:21.836930+00:00",
+   "last_checked": "2026-11-28T14:45:12.639634+00:00",
    "content_hash": "ae7a54b77884634b"
   },
   "https://edu-nc.gouv.cd/actualites/rdc-a-mbanza-ngungu-les-experts-et-acteurs-du-livre-scolaire-reunis-pour-actualiser-la-politique-nationale-des-manuels-scolaires": {
@@ -3031,7 +3083,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:22.792792+00:00",
+   "last_checked": "2026-11-28T14:45:13.675229+00:00",
    "content_hash": "d7a7bc9f3cff28a6"
   },
   "https://edu-nc.gouv.cd/actualites/paaf-lancement-du-concours-de-recrutement-de-2500-enseignantes-du-secondaire": {
@@ -3442,7 +3494,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:23.772270+00:00",
+   "last_checked": "2026-11-28T14:45:14.793768+00:00",
    "content_hash": "f97089be3a372b55",
    "snapshot": [
     "PAAF : Lancement du concours de recrutement de 2500 enseignantes du secondaire",
@@ -3751,7 +3803,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:25.369171+00:00",
+   "last_checked": "2026-11-28T14:45:15.851853+00:00",
    "content_hash": "575fdc21e73019f3",
    "snapshot": [
     "Préscolaire : validation technique du Référentiel des compétences des enseignants",
@@ -4183,8 +4235,8 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:26.363876+00:00",
-   "content_hash": "3ad850116816eb8a",
+   "last_checked": "2026-11-28T14:45:16.941846+00:00",
+   "content_hash": "905acefec9ba1ea0",
    "snapshot": [
     "Journée mondiale de l’alimentation : la RDC entend étendre le programme de cantines scolaires sur l’ensemble du territoire d’ici 2029",
     "A l’occasion de la journée mondiale de l’alimentation célébrée le 16 octobre de chaque année, le ministère de l’Education nationale et nouvelle citoyenneté (MINEDUC-NC) rappelle le rôle clé des repas scolaires dans la ré",
@@ -4201,12 +4253,12 @@
     "Célestin Zeula & Willy Kambulu",
     "Explorer toutes les publications",
     "Filtrez par structure ou par type de document pour aller droit au bon contenu.",
+    "Kasaï-Oriental 2 : les acteurs éducatifs de Kabeya-Kamuanga...",
     "Kongo Central : le Secrétaire général à l'EDU-NC lance le de...",
     "Cantines scolaires : l’Edu-NC se dote d’un noyau de formateu...",
     "Kongo Central 1 : Le directeur provincial de la DINACOPE int...",
     "Kinshasa Mont-Amba : onze écoles s’engagent dans les Clubs d...",
     "Budget 2027 : devant le Sénat, Raïssa Malu sollicite plus de...",
-    "Alimentation scolaire : Juvénal Sanga lance la formation des...",
     "Pour toute dénonciation et autre information sur l’éducation nationale et nouvelle citoyenneté, appelez le 178"
    ]
   },
@@ -4617,7 +4669,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:29.589706+00:00",
+   "last_checked": "2026-11-28T14:45:17.996873+00:00",
    "content_hash": "525fc26989dae08e",
    "snapshot": [
     "Gouvernement scolaire : élue Première ministre à Lestonac Mobokoli, Clarissa Siazo est l’illustration parfaite du leadership féminin à l’école",
@@ -5054,7 +5106,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:31.201486+00:00",
+   "last_checked": "2026-11-28T14:45:19.071697+00:00",
    "content_hash": "023ce07eb9c9f603",
    "snapshot": [
     "Kisantu : Lancement des travaux de l'élaboration de la Stratégie nationale de l'Enseignement technique et professionnel 2027-2036",
@@ -5368,7 +5420,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:32.186655+00:00",
+   "last_checked": "2026-11-28T14:45:20.108866+00:00",
    "content_hash": "a0faf67583e253e9",
    "snapshot": [
     "Bonne Gouvernance : le Secrétaire général mobilise les chefs des services centraux sur la gestion axée sur les résultats",
@@ -5795,7 +5847,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:34.444566+00:00",
+   "last_checked": "2026-11-28T14:45:21.453896+00:00",
    "content_hash": "f4cb27fc488f57b8",
    "snapshot": [
     "Kasaï : les autorités et les leaders communautaires mobilisés pour la réussite du projet PAAF",
@@ -6056,7 +6108,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:35.390246+00:00",
+   "last_checked": "2026-11-28T14:45:22.509201+00:00",
    "content_hash": "a2027e8af730bf74",
    "snapshot": [
     "PEQIP : déploiement des formateurs nationaux pour la formation de 31.650 acteurs éducatifs en prélude à la distribution des manuels scolaires",
@@ -6315,7 +6367,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:36.363410+00:00",
+   "last_checked": "2026-11-28T14:45:23.625431+00:00",
    "content_hash": "c8e327685ef3efc8",
    "snapshot": [
     "Modernisation de l’administration : le SG Juvénal Sanga Kaubo lance la révision des descriptifs de postes des bureaux gestionnaires",
@@ -6606,7 +6658,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:37.314694+00:00",
+   "last_checked": "2026-11-28T14:45:24.677409+00:00",
    "content_hash": "714203e616c6b1c1",
    "snapshot": [
     "Partenariat : le ministère de l’Éducation nationale et l’AFD accélèrent leurs projets éducatifs en vue d’obtenir les résultats escomptés",
@@ -6949,7 +7001,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:38.310225+00:00",
+   "last_checked": "2026-11-28T14:45:25.753570+00:00",
    "content_hash": "a098834ac8265bd5",
    "snapshot": [
     "« Mathématiques au féminin » : Le vice-ministre Théodore Kazadi remet 50 bourses d’études aux lauréates de la 3ᵉ édition",
@@ -7380,7 +7432,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:39.262185+00:00",
+   "last_checked": "2026-11-28T14:45:26.792725+00:00",
    "content_hash": "64d70802ec43ad6c",
    "snapshot": [
     "AGORA Conference 2026 : Raïssa Malu mise sur le lien entre éducation, électricité et transformation numérique",
@@ -7693,7 +7745,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:40.887040+00:00",
+   "last_checked": "2026-11-28T14:45:27.883683+00:00",
    "content_hash": "c0f084616ea610b7",
    "snapshot": [
     "Ituri 1 : des établissements scolaires dotés des dispositifs de lavage des mains pour lutter contre Ebola",
@@ -8041,7 +8093,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:42.497384+00:00",
+   "last_checked": "2026-11-28T14:45:28.939650+00:00",
    "content_hash": "9f64cf232cf494fd",
    "snapshot": [
     "Projet de Loi des Finances : le Gouvernement prévoit d’étendre la gratuité de l’enseignement aux 7e et 8e années dès l&#039;année scolaire 2027-2028",
@@ -8243,7 +8295,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:43.471461+00:00",
+   "last_checked": "2026-11-28T14:45:30.028379+00:00",
    "content_hash": "3aed520c8a031f2b",
    "snapshot": [
     "RDC : Raïssa Malu lance la réflexion stratégique sur la mise en place des Instituts de formation aux métiers de l’enseignement",
@@ -8547,7 +8599,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:45.101021+00:00",
+   "last_checked": "2026-11-28T14:45:31.116940+00:00",
    "content_hash": "854278f46b3c549b",
    "snapshot": [
     "Éducation en situation de crise : à Genève, Raïssa Malu portera la voix des enfants affectés par les conflits",
@@ -8868,7 +8920,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:46.054743+00:00",
+   "last_checked": "2026-11-28T14:45:32.188423+00:00",
    "content_hash": "bd8e9ffb2759d8de",
    "snapshot": [
     "Mise à la retraite des enseignants : Juvénal Sanga Kaubo fixe des orientations pour accélérer le processus",
@@ -9181,7 +9233,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:47.052019+00:00",
+   "last_checked": "2026-11-28T14:45:33.223616+00:00",
    "content_hash": "da9c105556d56d07",
    "snapshot": [
     "Semaine du climat : le Vice-ministre Théodore Kazadi renforce l’engagement des élèves pour la protection de l’environnement",
@@ -9604,7 +9656,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:48.011965+00:00",
+   "last_checked": "2026-11-28T14:45:34.315215+00:00",
    "content_hash": "95e4cc3f59c6ad7a",
    "snapshot": [
     "ECW 2026 : Raïssa Malu défend une approche intégrée pour garantir la continuité de l’éducation en situation de crise",
@@ -9870,7 +9922,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:48.937189+00:00",
+   "last_checked": "2026-11-28T14:45:35.373214+00:00",
    "content_hash": "ee771167c3206ebd",
    "snapshot": [
     "Modernisation de l’administration : le SG Juvénal Sanga lance le processus de mise en œuvre de la démarche qualité ISO 9001",
@@ -10173,7 +10225,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:49.855765+00:00",
+   "last_checked": "2026-11-28T14:45:36.460603+00:00",
    "content_hash": "92999d82464e4424",
    "snapshot": [
     "Épreuves certificatives 2026-2027 : Kinshasa-Mont-Amba prône un contrôle rigoureux et équitable des dossiers des candidats finalistes",
@@ -10439,7 +10491,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:50.833392+00:00",
+   "last_checked": "2026-11-28T14:45:37.511951+00:00",
    "content_hash": "3c58b8b5c2a00702",
    "snapshot": [
     "Bourses PAAF : Le SG Juvénal Sanga insiste sur l’importance de la maîtrise des données et de la traçabilité des ressources engagées",
@@ -10857,7 +10909,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:51.784834+00:00",
+   "last_checked": "2026-11-28T14:45:38.613879+00:00",
    "content_hash": "89495f6faedf1291",
    "snapshot": [
     "Gouvernance des enseignants, compétences numériques et formation initiale au préscolaire au cœur des échanges entre le secrétaire général Juvénal Sanga Kaubo et une délégation de RTIA",
@@ -11286,7 +11338,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:53.517283+00:00",
+   "last_checked": "2026-11-28T14:45:39.654623+00:00",
    "content_hash": "13b1826b44a131b2",
    "snapshot": [
     "Écocitoyenneté : Kinshasa Mont-Amba lance une vaste campagne d’assainissement pour la salubrité dans les établissements scolaires",
@@ -11717,7 +11769,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:55.223991+00:00",
+   "last_checked": "2026-11-28T14:45:40.743982+00:00",
    "content_hash": "66ac4ead31e38617",
    "snapshot": [
     "Genre et éducation : la DEVC renforce les capacités des acteurs éducatifs sur la planification et la gestion des programmes de scolarisation des filles",
@@ -12073,7 +12125,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:56.196947+00:00",
+   "last_checked": "2026-11-28T14:45:41.800813+00:00",
    "content_hash": "57705bee7fece66b",
    "snapshot": [
     "RDC : 20.760 élèves évalués dans le cadre de la deuxième évaluation nationale des acquis scolaires",
@@ -12339,7 +12391,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:57.121682+00:00",
+   "last_checked": "2026-11-28T14:45:42.889810+00:00",
    "content_hash": "4a469a7855bd5e5d",
    "snapshot": [
     "Enseignement technique et professionnel : cinq documents normatifs validés pour améliorer l’organisation et la qualité de l’éducation",
@@ -12690,7 +12742,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:58.097054+00:00",
+   "last_checked": "2026-11-28T14:45:43.942540+00:00",
    "content_hash": "dbf31d362c965055",
    "snapshot": [
     "Mbanza Ngungu : des experts de l’Edu-NC en atelier résidentiel afin de doter le ministère d’une politique de communication et de plusieurs outils stratégiques",
@@ -12982,7 +13034,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:59.016271+00:00",
+   "last_checked": "2026-11-28T14:45:45.012784+00:00",
    "content_hash": "d3d17012771b6d6d",
    "snapshot": [
     "Sankuru 2: le directeur provincial sensibilise les élèves au rôle des Clubs de veille citoyenne",
@@ -13232,7 +13284,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:50:59.935555+00:00",
+   "last_checked": "2026-11-28T14:45:46.047762+00:00",
    "content_hash": "2676d2478290daa9",
    "snapshot": [
     "Alimentation scolaire : Juvénal Sanga lance la formation des formateurs multisectoriels pour l’opérationnalisation de la phase pilote de 78 cantines scolaires",
@@ -13599,7 +13651,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:51:00.865416+00:00",
+   "last_checked": "2026-11-28T14:45:47.175882+00:00",
    "content_hash": "7e75fb2240b2f315",
    "snapshot": [
     "Kisantu : le MINEDU-NC lance un atelier stratégique d’élaboration de modules de formation sur l’utilisation efficace des manuels scolaires du Domaine d’Apprentissage des Sciences",
@@ -14042,8 +14094,8 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:51:01.822332+00:00",
-   "content_hash": "108c9b00bcf72476",
+   "last_checked": "2026-11-28T14:45:48.232067+00:00",
+   "content_hash": "42bb512225bc6032",
    "snapshot": [
     "Kinshasa Mont-Amba : onze écoles s’engagent dans les Clubs de veille citoyenne",
     "La province éducationnelle de Kinshasa Mont-Amba a officiellement lancé, le vendredi 20 novembre, les Clubs de veille citoyenne dans onze établissements scolaires, la cérémonie du lancement s’est déroulée au Collège Sain",
@@ -14058,12 +14110,12 @@
     "Deleine Diazolakana",
     "Explorer toutes les publications",
     "Filtrez par structure ou par type de document pour aller droit au bon contenu.",
+    "Kasaï-Oriental 2 : les acteurs éducatifs de Kabeya-Kamuanga...",
     "Kongo Central : le Secrétaire général à l'EDU-NC lance le de...",
     "Cantines scolaires : l’Edu-NC se dote d’un noyau de formateu...",
     "Kongo Central 1 : Le directeur provincial de la DINACOPE int...",
     "Budget 2027 : devant le Sénat, Raïssa Malu sollicite plus de...",
     "Alimentation scolaire : Juvénal Sanga lance la formation des...",
-    "Kisantu : le MINEDU-NC lance un atelier stratégique d’élabor...",
     "Pour toute dénonciation et autre information sur l’éducation nationale et nouvelle citoyenneté, appelez le 178"
    ]
   },
@@ -14298,7 +14350,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:51:02.772466+00:00",
+   "last_checked": "2026-11-28T14:45:49.330733+00:00",
    "content_hash": "2cba0287758aa7c2",
    "snapshot": [
     "Budget 2027 : devant le Sénat, Raïssa Malu sollicite plus de 5 118 milliards de francs congolais pour l'Éducation nationale",
@@ -14729,7 +14781,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:51:03.699939+00:00",
+   "last_checked": "2026-11-28T14:45:50.384749+00:00",
    "content_hash": "d2a8f9cdcfa6102b",
    "snapshot": [
     "Cantines scolaires : l’Edu-NC se dote d’un noyau de formateurs multisectoriels pour accélérer la mise en œuvre de la réforme",
@@ -15074,7 +15126,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:51:04.673723+00:00",
+   "last_checked": "2026-11-28T14:45:51.455598+00:00",
    "content_hash": "c59f876843812ec4",
    "snapshot": [
     "Kongo Central 1 : Le directeur provincial de la DINACOPE interpelle les banques sur les retenues salariales des enseignants",
@@ -15410,7 +15462,7 @@
     "auteur"
    ],
    "error": null,
-   "last_checked": "2026-11-28T00:51:05.624486+00:00",
+   "last_checked": "2026-11-28T14:45:52.490754+00:00",
    "content_hash": "a35e28dc83660c49",
    "snapshot": [
     "Kongo Central : le Secrétaire général à l'EDU-NC lance le dernier chantier-école du projet PREACE à Kimpese",
@@ -15432,6 +15484,460 @@
     "Mbanza Ngungu : des experts de l’Edu-NC en atelier résidenti...",
     "Pour toute dénonciation et autre information sur l’éducation nationale et nouvelle citoyenneté, appelez le 178"
    ]
+  },
+  "https://edu-nc.gouv.cd/actualites/kasai-oriental-2-les-acteurs-educatifs-de-kabeya-kamuanga-1-appeles-au-strict-respect-des-instructions-officielles-sur-les-frais-scolaires-et-les-evaluations-certificatives": {
+   "title": "MINEDU-NC - Kasaï-Oriental 2 : les acteurs éducatifs de Kabeya-Kamuanga 1 appelés au strict respect des instructions officielles sur les frais scolaires et les évaluations certificatives",
+   "url": "https://edu-nc.gouv.cd/actualites/kasai-oriental-2-les-acteurs-educatifs-de-kabeya-kamuanga-1-appeles-au-strict-respect-des-instructions-officielles-sur-les-frais-scolaires-et-les-evaluations-certificatives",
+   "lastmod": "2026-11-28T00:00:00+00:00",
+   "analyzed_at": "2026-11-28T14:44:54.454500+00:00",
+   "last_checked": "2026-11-28T14:44:54.454511+00:00",
+   "spelling_errors": [
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...ï-Oriental 2 : les acteurs éducatifs de Kabeya-Kamuanga 1 appelés au strict respect de...",
+     "mot_fautif": "Kabeya",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "Kaseya"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...tal 2 : les acteurs éducatifs de Kabeya-Kamuanga 1 appelés au strict respect des instruc...",
+     "mot_fautif": "Kamuanga",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "Katanga",
+      "Kananga"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "... les frais scolaires et les évaluations certificatives Pour renforcer la discipline administra...",
+     "mot_fautif": "certificatives",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "certificat ives"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...tion nationale et Nouvelle Citoyenneté (EDUC-NC) Kasaï-Orien Au programme figuraient...",
+     "mot_fautif": "EDUC",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "DUC"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...nationale et Nouvelle Citoyenneté (EDUC-NC) Kasaï-Orien Au programme figuraient le...",
+     "mot_fautif": "NC",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "nC",
+      "NE",
+      "NÉ"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...onale et Nouvelle Citoyenneté (EDUC-NC) Kasaï-Orien Au programme figuraient le respec...",
+     "mot_fautif": "Kasaï",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "Passai",
+      "Basai",
+      "Casai"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...et Nouvelle Citoyenneté (EDUC-NC) Kasaï-Orien Au programme figuraient le respect des ...",
+     "mot_fautif": "Orien",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "Orient",
+      "Rien",
+      "Orienté"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...’amélioration des résultats aux examens certificatifs. À cette occasion, le directeur provinc...",
+     "mot_fautif": "certificatifs",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "certificat ifs"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...ette occasion, le directeur provincial (PROVED) du Kasaï-Oriental 2, Étienne Mulumba M...",
+     "mot_fautif": "PROVED",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "PROJET",
+      "PRIVÉ",
+      "PRIVÉE"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...l (PROVED) du Kasaï-Oriental 2, Étienne Mulumba Mbuyi, a appelé les chefs d’établisseme...",
+     "mot_fautif": "Mulumba",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "Macumba",
+      "Maluma"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...D) du Kasaï-Oriental 2, Étienne Mulumba Mbuyi, a appelé les chefs d’établissements sc...",
+     "mot_fautif": "Mbuyi",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "Muni",
+      "Mûri",
+      "Mouy"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...ements scolaires de la sous-division de Kabeya-Kamuanga 1 à faire preuve de rigueur et...",
+     "mot_fautif": "Kabeya",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "Kaseya"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...scolaires de la sous-division de Kabeya-Kamuanga 1 à faire preuve de rigueur et de respo...",
+     "mot_fautif": "Kamuanga",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "Katanga",
+      "Kananga"
+     ]
+    },
+    {
+     "type": "Majuscule/minuscule",
+     "passage": "...uanga 1 à faire preuve de rigueur et de respon Il a particulièrement insisté sur la vulga...",
+     "mot_fautif": "respon Il",
+     "explication": "La majuscule n’est employée qu’au début d’une phrase ou pour les noms propres (noms, toponymes, etc.).",
+     "suggestions": [
+      "respon. Il",
+      "respon il",
+      "respon, il"
+     ]
+    },
+    {
+     "type": "Erreur linguistique",
+     "passage": "...es frais de scolarité et des frais liés aux évaluation Le PROVED Étienne Mulumba Mbuyi a égale...",
+     "mot_fautif": "aux évaluation",
+     "explication": "Le déterminant s’accorde avec le nom « évaluation ».",
+     "suggestions": [
+      "à l'évaluation",
+      "aux évaluations"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...ité et des frais liés aux évaluation Le PROVED Étienne Mulumba Mbuyi a également rappe...",
+     "mot_fautif": "PROVED",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "PROJET",
+      "PRIVÉ",
+      "PRIVÉE"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...s liés aux évaluation Le PROVED Étienne Mulumba Mbuyi a également rappelé aux chefs d’é...",
+     "mot_fautif": "Mulumba",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "Macumba",
+      "Maluma"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...ux évaluation Le PROVED Étienne Mulumba Mbuyi a également rappelé aux chefs d’établis...",
+     "mot_fautif": "Mbuyi",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "Muni",
+      "Mûri",
+      "Mouy"
+     ]
+    },
+    {
+     "type": "Majuscule/minuscule",
+     "passage": "...à ce que seuls les frais officiellement autor Il est également revenu sur le versement d...",
+     "mot_fautif": "autor Il",
+     "explication": "La majuscule n’est employée qu’au début d’une phrase ou pour les noms propres (noms, toponymes, etc.).",
+     "suggestions": [
+      "autor. Il",
+      "autor il",
+      "autor, il"
+     ]
+    },
+    {
+     "type": "Majuscule/minuscule",
+     "passage": "...t des frais de bulletin et du minerval, r Il a, en outre, accordé une attention part...",
+     "mot_fautif": "r Il",
+     "explication": "La majuscule n’est employée qu’au début d’une phrase ou pour les noms propres (noms, toponymes, etc.).",
+     "suggestions": [
+      "r. Il",
+      "r il",
+      "r, il"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "... par l’inspecteur principal provincial (IPP), Lazare Lutupa Katepe. Selon lui, le t...",
+     "mot_fautif": "IPP",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "IP",
+      "APP",
+      "IOP"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...teur principal provincial (IPP), Lazare Lutupa Katepe. Selon lui, le taux de réussite ...",
+     "mot_fautif": "Lutupa",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "Lutta",
+      "Stupa",
+      "Stûpa"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...incipal provincial (IPP), Lazare Lutupa Katepe. Selon lui, le taux de réussite s’élève...",
+     "mot_fautif": "Katepe",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "Datée",
+      "Kate",
+      "Ratée"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...lièrement des enseignants, en matière d’encadrem Par ailleurs, le lancement du contrôle ...",
+     "mot_fautif": "encadrem",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "encadré",
+      "encadrée",
+      "encadrés"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...e national d’identification des élèves (DIPROSERNIE) a invité les responsables des établiss...",
+     "mot_fautif": "DIPROSERNIE",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "LÉPROSERIE"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...er de ses services afin de procéder à l’authentificat Intervenant sur la question de la paie ...",
+     "mot_fautif": "authentificat",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "authentifiât"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...du contrôle de la paie des enseignants (DIPROCOPE), Clément Mupangilayi Mulombo, a soulig...",
+     "mot_fautif": "DIPROCOPE",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "MICROSCOPE",
+      "APOCOPE",
+      "DIASCOPE"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...ie des enseignants (DIPROCOPE), Clément Mupangilayi Mulombo, a souligné que la bonne gestio...",
+     "mot_fautif": "Mupangilayi",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": []
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...gnants (DIPROCOPE), Clément Mupangilayi Mulombo, a souligné que la bonne gestion admini...",
+     "mot_fautif": "Mulombo",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "Colombo",
+      "Nélombo"
+     ]
+    },
+    {
+     "type": "Erreur linguistique",
+     "passage": "...on, qui s’est achevée par une séance de questions-réponses, a rassemblé les conseillers résidents,...",
+     "mot_fautif": "questions-réponses",
+     "explication": "Vérifiez l’absence de trait d’union et l’accord entre ces mots.",
+     "suggestions": [
+      "questions réponses"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...nels, primaires et secondaires de cette jurid Serge Kimbila Explorer toutes les publi...",
+     "mot_fautif": "jurid",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "juin",
+      "juif",
+      "jury"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...res et secondaires de cette jurid Serge Kimbila Explorer toutes les publications Filtre...",
+     "mot_fautif": "Kimbila",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "Kim bila"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...cument pour aller droit au bon contenu. Kongo Central : le Secrétaire général à l'EDU...",
+     "mot_fautif": "Kongo",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "Congo",
+      "Kong",
+      "Nounou"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...ngo Central : le Secrétaire général à l'EDU-NC lance le de... Cantines scolaires : ...",
+     "mot_fautif": "EDU",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "DU",
+      "ÉLU",
+      "DÛ"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...Central : le Secrétaire général à l'EDU-NC lance le de... Cantines scolaires : l’E...",
+     "mot_fautif": "NC",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "nC",
+      "NE",
+      "NÉ"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...C lance le de... Cantines scolaires : l’Edu-NC se dote d’un noyau de formateu... Ko...",
+     "mot_fautif": "Edu",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "Du",
+      "Élu",
+      "Dû"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...nce le de... Cantines scolaires : l’Edu-NC se dote d’un noyau de formateu... Kongo...",
+     "mot_fautif": "NC",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "nC",
+      "NE",
+      "NÉ"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...laires : l’Edu-NC se dote d’un noyau de formateu... Kongo Central 1 : Le directeur provi...",
+     "mot_fautif": "formateu",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "formateur",
+      "formaté",
+      "formatée"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...du-NC se dote d’un noyau de formateu... Kongo Central 1 : Le directeur provincial de ...",
+     "mot_fautif": "Kongo",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "Congo",
+      "Kong",
+      "Nounou"
+     ]
+    },
+    {
+     "type": "Faute d'orthographe",
+     "passage": "...ntral 1 : Le directeur provincial de la DINACOPE int... Kinshasa Mont-Amba : onze écoles...",
+     "mot_fautif": "DINACOPE",
+     "explication": "Faute de frappe possible trouvée.",
+     "suggestions": [
+      "DIACODE",
+      "DIASCOPE"
+     ]
+    }
+   ],
+   "broken_links": [],
+   "missing_alt_images": [],
+   "missing_metadata": [
+    "auteur"
+   ],
+   "error": null,
+   "content_hash": "614154ce351ab8ed",
+   "snapshot": [
+    "Kasaï-Oriental 2 : les acteurs éducatifs de Kabeya-Kamuanga 1 appelés au strict respect des instructions officielles sur les frais scolaires et les évaluations certificatives",
+    "Pour renforcer la discipline administrative, promouvoir la bonne gouvernance scolaire et améliorer la qualité de l’enseignement Direction provinciale de l’Éducation nationale et Nouvelle Citoyenneté (EDUC-NC) Kasaï-Orien",
+    "Au programme figuraient le respect des instructions officielles, la stricte application des frais scolaires réglementés ainsi que l’amélioration des résultats aux examens certificatifs.",
+    "À cette occasion, le directeur provincial (PROVED) du Kasaï-Oriental 2, Étienne Mulumba Mbuyi, a appelé les chefs d’établissements scolaires de la sous-division de Kabeya-Kamuanga 1 à faire preuve de rigueur et de respon",
+    "Il a particulièrement insisté sur la vulgarisation et l’application rigoureuse de l’arrêté provincial n° 01/0113/CAB.PROGOU/K.OR/MKJ/2026, portant fixation des taux des frais de scolarité et des frais liés aux évaluation",
+    "Le PROVED Étienne Mulumba Mbuyi a également rappelé aux chefs d’établissements scolaires l’obligation de se conformer aux dispositions de cet acte administratif et de veiller à ce que seuls les frais officiellement autor",
+    "Il est également revenu sur le versement des contributions prévues pour les activités sportives et parascolaires, fixées à 200 francs congolais par élève, ainsi que sur le paiement des frais de bulletin et du minerval, r",
+    "Il a, en outre, accordé une attention particulière à l’intégration effective du serment du citoyen dans les établissements scolaires.",
+    "Au cours de cette rencontre, un bilan des résultats de l’Examen d’État, édition 2025-2026, a été présenté par l’inspecteur principal provincial (IPP), Lazare Lutupa Katepe.",
+    "Selon lui, le taux de réussite s’élève à 57 %. Il a qualifié ce résultat de performance appelant à une mobilisation accrue de l’ensemble de la communauté éducative, particulièrement des enseignants, en matière d’encadrem",
+    "Par ailleurs, le lancement du contrôle des dossiers des candidats finalistes a été annoncé, particulièrement ceux de la 8ᵉ année de l’éducation de base et de la 4ᵉ année des humanités. Cette opération vise à prévenir les",
+    "À cet effet, le directeur provincial du Service national d’identification des élèves (DIPROSERNIE) a invité les responsables des établissements concernés à se rapprocher de ses services afin de procéder à l’authentificat",
+    "Intervenant sur la question de la paie des enseignants, le directeur provincial chargé du contrôle de la paie des enseignants (DIPROCOPE), Clément Mupangilayi Mulombo, a souligné que la bonne gestion administrative et le",
+    "La réunion, qui s’est achevée par une séance de questions-réponses, a rassemblé les conseillers résidents, les superviseurs ainsi que les responsables des établissements maternels, primaires et secondaires de cette jurid",
+    "Serge Kimbila",
+    "Explorer toutes les publications",
+    "Filtrez par structure ou par type de document pour aller droit au bon contenu.",
+    "Kongo Central : le Secrétaire général à l'EDU-NC lance le de...",
+    "Cantines scolaires : l’Edu-NC se dote d’un noyau de formateu...",
+    "Kongo Central 1 : Le directeur provincial de la DINACOPE int...",
+    "Kinshasa Mont-Amba : onze écoles s’engagent dans les Clubs d...",
+    "Budget 2027 : devant le Sénat, Raïssa Malu sollicite plus de...",
+    "Alimentation scolaire : Juvénal Sanga lance la formation des...",
+    "Pour toute dénonciation et autre information sur l’éducation nationale et nouvelle citoyenneté, appelez le 178"
+   ],
+   "status": "en_ligne"
   }
  },
  "uptime_log": [
@@ -15474,6 +15980,11 @@
    "ts": "2026-11-28T00:50:07.149857+00:00",
    "status": "ok",
    "seconds": 1.32
+  },
+  {
+   "ts": "2026-11-28T14:44:32.080409+00:00",
+   "status": "ok",
+   "seconds": 1.48
   }
  ],
  "site_status": {
@@ -15488,15 +15999,15 @@
    "status": "ok",
    "label": "GUIDE DES MATHEMATIQUES 7ème ANNEE (1ère Secondaire)",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294234+00:00"
+   "last_seen": "2026-11-28T14:46:04.867193+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/PE7-MATH.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:30.291362+00:00",
+   "last_checked": "2026-11-28T14:46:40.177360+00:00",
    "status": "ok",
    "label": "PROGRAMME DES MATHEMATIQUES 7ème EDUCATION DE BASE (1ère Secondaire)",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294250+00:00"
+   "last_seen": "2026-11-28T14:46:04.867208+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/GUIDE-PE8-MATHs-116062019_DIPROMAD_MEPSP.pdf": {
    "ok": true,
@@ -15504,15 +16015,15 @@
    "status": "ok",
    "label": "GUIDE EN APPUI AU PROGRAMME ÉDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Mathématiques 8ème Année (2ème Secondaire",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294253+00:00"
+   "last_seen": "2026-11-28T14:46:04.867212+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/PE8-MATH-16062019_DIPROMAD_MEPSP.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:31.700618+00:00",
+   "last_checked": "2026-11-28T14:46:42.140255+00:00",
    "status": "ok",
    "label": "PROGRAMME EDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Mathématiques 8ème Année (2ème Secondaire)",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294255+00:00"
+   "last_seen": "2026-11-28T14:46:04.867214+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/MEPST_GUIDE_-PE3_MATH.pdf": {
    "ok": true,
@@ -15520,7 +16031,7 @@
    "status": "ok",
    "label": "GUIDE EN APPUI AU PROGRAMME ÉDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Mathématiques 1ère Année des Humanités Sc",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294257+00:00"
+   "last_seen": "2026-11-28T14:46:04.867217+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/MEPST_Programmes-Educatifs_3e-Sec_1-HS_MATH.pdf": {
    "ok": true,
@@ -15528,7 +16039,7 @@
    "status": "ok",
    "label": "PROGRAMME EDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Mathématiques 1ère Année des Humanités Scientifiques (3ème ",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294259+00:00"
+   "last_seen": "2026-11-28T14:46:04.867219+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/MEPST_GUIDE_PE4_MATH.pdf": {
    "ok": true,
@@ -15536,15 +16047,15 @@
    "status": "ok",
    "label": "GUIDE EN APPUI AU PROGRAMME ÉDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Mathématiques 2ème Année des Humanités Sc",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294261+00:00"
+   "last_seen": "2026-11-28T14:46:04.867221+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/MEPST_Programmes-Educatifs_4e-Sec_2-HS_MATH.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:18.665592+00:00",
+   "last_checked": "2026-11-28T14:46:24.100564+00:00",
    "status": "ok",
    "label": "PROGRAMME EDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Mathématiques 2ème Année des Humanités Scientifiques (4ème ",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294262+00:00"
+   "last_seen": "2026-11-28T14:46:04.867224+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/MEPST_GUIDE_PE5_MATH.pdf": {
    "ok": true,
@@ -15552,15 +16063,15 @@
    "status": "ok",
    "label": "GUIDE EN APPUI AU PROGRAMME ÉDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Mathématiques 3ème Année des Humanités Sc",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294263+00:00"
+   "last_seen": "2026-11-28T14:46:04.867226+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/MEPST_Programmes-Educatifs_5e-Sec_3-HS_MATH.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:20.070815+00:00",
+   "last_checked": "2026-11-28T14:46:26.053941+00:00",
    "status": "ok",
    "label": "PROGRAMME EDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Mathématiques 3ème Année des Humanités Scientifiques (5ème ",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294265+00:00"
+   "last_seen": "2026-11-28T14:46:04.867228+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/MEPST_GUIDE_PE6_MATH.pdf": {
    "ok": true,
@@ -15568,15 +16079,15 @@
    "status": "ok",
    "label": "GUIDE EN APPUI AU PROGRAMME ÉDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Mathématiques 4ème Année des Humanités Sc",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294266+00:00"
+   "last_seen": "2026-11-28T14:46:04.867230+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/MEPST_Programmes-Educatifs_6e-Sec_4-HS_MATH.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:21.496792+00:00",
+   "last_checked": "2026-11-28T14:46:27.996044+00:00",
    "status": "ok",
    "label": "PROGRAMME EDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Mathématiques 4ème Année des Humanités Scientifiques (6ème ",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294268+00:00"
+   "last_seen": "2026-11-28T14:46:04.867233+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/GUIDE-PE7-SVT.pdf": {
    "ok": true,
@@ -15584,15 +16095,15 @@
    "status": "ok",
    "label": "GUIDE DES SCIENCES DE LA VIE ET DE LA TERRE 7ème Année (1ère Secondaire)",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294270+00:00"
+   "last_seen": "2026-11-28T14:46:04.867235+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/PE7-SVT.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:31.230106+00:00",
+   "last_checked": "2026-11-28T14:46:41.502903+00:00",
    "status": "ok",
    "label": "PROGRAMME DES SCIENCES DE LA VIE ET DE LA TERRE 7ème Année (1ère Secondaire)",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294271+00:00"
+   "last_seen": "2026-11-28T14:46:04.867237+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/GUIDE-PE8-SVT-16062019_DIPROMAD_MEPSP.pdf": {
    "ok": true,
@@ -15600,15 +16111,15 @@
    "status": "ok",
    "label": "GUIDE EN APPUI AU PROGRAMME ÉDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Sciences de la Vie et de la Terre 8ème An",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294273+00:00"
+   "last_seen": "2026-11-28T14:46:04.867239+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/PE8-SVT-16062019_DIPROMAD_MEPSP.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:32.652906+00:00",
+   "last_checked": "2026-11-28T14:46:43.442926+00:00",
    "status": "ok",
    "label": "PROGRAMME EDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Sciences de la Vie et de la Terre 8ème Année (2ème Secondai",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294274+00:00"
+   "last_seen": "2026-11-28T14:46:04.867241+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/MEPST_GUIDE_PE3_SVT.pdf": {
    "ok": true,
@@ -15616,15 +16127,15 @@
    "status": "ok",
    "label": "GUIDE EN APPUI AU PROGRAMME ÉDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Sciences de la Vie et de la Terre 1ère An",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294276+00:00"
+   "last_seen": "2026-11-28T14:46:04.867243+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/MEPST_Programmes-Educatifs_3e-Sec_1-HS_SVT.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:18.195306+00:00",
+   "last_checked": "2026-11-28T14:46:23.446202+00:00",
    "status": "ok",
    "label": "PROGRAMME EDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Sciences de la Vie et de la Terre 1ère Année des Humanités ",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294277+00:00"
+   "last_seen": "2026-11-28T14:46:04.867245+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/MEPST_GUIDE_PE4_SVT.pdf": {
    "ok": true,
@@ -15632,15 +16143,15 @@
    "status": "ok",
    "label": "GUIDE EN APPUI AU PROGRAMME ÉDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Sciences de la Vie et de la Terre 2ème An",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294278+00:00"
+   "last_seen": "2026-11-28T14:46:04.867247+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/MEPST_Programmes-Educatifs_4e-Sec_2-HS_SVT.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:19.600490+00:00",
+   "last_checked": "2026-11-28T14:46:25.424786+00:00",
    "status": "ok",
    "label": "PROGRAMME EDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Sciences de la Vie et de la Terre 2ème Année des Humanités ",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294280+00:00"
+   "last_seen": "2026-11-28T14:46:04.867249+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/MEPST_GUIDE_PE5_SVT.pdf": {
    "ok": true,
@@ -15648,15 +16159,15 @@
    "status": "ok",
    "label": "GUIDE EN APPUI AU PROGRAMME ÉDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Sciences de la Vie et de la Terre 3ème An",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294281+00:00"
+   "last_seen": "2026-11-28T14:46:04.867251+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/MEPST_Programmes-Educatifs_5e-Sec_3-HS_SVT.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:21.031189+00:00",
+   "last_checked": "2026-11-28T14:46:27.331304+00:00",
    "status": "ok",
    "label": "PROGRAMME EDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Sciences de la Vie et de la Terre 3ème Année des Humanités ",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294282+00:00"
+   "last_seen": "2026-11-28T14:46:04.867253+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/MEPST_GUIDE_PE6_SVT.pdf": {
    "ok": true,
@@ -15664,15 +16175,15 @@
    "status": "ok",
    "label": "GUIDE EN APPUI AU PROGRAMME ÉDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Sciences de la Vie et de la Terre 4ème An",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294284+00:00"
+   "last_seen": "2026-11-28T14:46:04.867255+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/MEPST_Programmes-Educatifs_6e-Sec_4-HS_SVT.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:22.432402+00:00",
+   "last_checked": "2026-11-28T14:46:29.289730+00:00",
    "status": "ok",
    "label": "PROGRAMME EDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Sciences de la Vie et de la Terre 4ème Année des Humanités ",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294285+00:00"
+   "last_seen": "2026-11-28T14:46:04.867257+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/GUIDE-PE7-SPTTIC.pdf": {
    "ok": true,
@@ -15680,15 +16191,15 @@
    "status": "ok",
    "label": "GUIDE DES SCIENCES PHYSIQUES, TECHNOLOGIE ET TECHNOLOGIE DE L’INFORMATION ET DE LA COMMUNICATION 7ème Année (1ère Second",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294287+00:00"
+   "last_seen": "2026-11-28T14:46:04.867258+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/PE7-SPTTIC.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:30.760030+00:00",
+   "last_checked": "2026-11-28T14:46:40.846437+00:00",
    "status": "ok",
    "label": "PROGRAMME DES SCIENCES PHYSIQUES, TECHNOLOGIE ET TECHNOLOGIE DE L’INFORMATION ET DE LA COMMUNICATION 7ème Année (1ère Se",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294288+00:00"
+   "last_seen": "2026-11-28T14:46:04.867260+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/GUIDE-PE8-SPTTIC-16062019_DIPROMAD_MEPSP.pdf": {
    "ok": true,
@@ -15696,15 +16207,15 @@
    "status": "ok",
    "label": "GUIDE EN APPUI AU PROGRAMME ÉDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Sciences Physiques, Technologie, et Techn",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294290+00:00"
+   "last_seen": "2026-11-28T14:46:04.867262+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/PE8-SPTTIC-16062019_DIPROMAD_MEPSP.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:32.183136+00:00",
+   "last_checked": "2026-11-28T14:46:42.793158+00:00",
    "status": "ok",
    "label": "PROGRAMME EDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Sciences Physiques, Technologie, et Technologies de l’Infor",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294291+00:00"
+   "last_seen": "2026-11-28T14:46:04.867264+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/MEPST_GUIDE_PE3_SPTIC.pdf": {
    "ok": true,
@@ -15712,15 +16223,15 @@
    "status": "ok",
    "label": "GUIDE EN APPUI AU PROGRAMME ÉDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Sciences Physiques, Technologie, et Techn",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294292+00:00"
+   "last_seen": "2026-11-28T14:46:04.867266+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/MEPST_Programmes-Educatifs_3e-Sec_1-HS_SPTIC.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:17.709894+00:00",
+   "last_checked": "2026-11-28T14:46:22.804591+00:00",
    "status": "ok",
    "label": "PROGRAMME EDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Sciences Physiques, Technologie, et Technologies de l’Infor",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294294+00:00"
+   "last_seen": "2026-11-28T14:46:04.867268+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/MEPST_GUIDE_PE4_SPTIC.pdf": {
    "ok": true,
@@ -15728,15 +16239,15 @@
    "status": "ok",
    "label": "GUIDE EN APPUI AU PROGRAMME ÉDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Sciences Physiques, Technologie, et Techn",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294295+00:00"
+   "last_seen": "2026-11-28T14:46:04.867269+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/MEPST_Programmes-Educatifs_4e-Sec_2-HS_SPTIC.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:19.135058+00:00",
+   "last_checked": "2026-11-28T14:46:24.755882+00:00",
    "status": "ok",
    "label": "PROGRAMME EDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Sciences Physiques, Technologie, et Technologies de l’Infor",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294296+00:00"
+   "last_seen": "2026-11-28T14:46:04.867271+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/MEPST_GUIDE_PE5_SPTIC.pdf": {
    "ok": true,
@@ -15744,15 +16255,15 @@
    "status": "ok",
    "label": "GUIDE EN APPUI AU PROGRAMME ÉDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Sciences Physiques, Technologie, et Techn",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294298+00:00"
+   "last_seen": "2026-11-28T14:46:04.867273+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/MEPST_Programmes-Educatifs_5e-Sec_3-HS_SPTIC.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:20.550522+00:00",
+   "last_checked": "2026-11-28T14:46:26.689251+00:00",
    "status": "ok",
    "label": "PROGRAMME EDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Sciences Physiques, Technologie, et Technologies de l’Infor",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294299+00:00"
+   "last_seen": "2026-11-28T14:46:04.867274+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/MEPST_GUIDE_PE6_SPTIC.pdf": {
    "ok": true,
@@ -15760,15 +16271,15 @@
    "status": "ok",
    "label": "GUIDE EN APPUI AU PROGRAMME ÉDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Sciences Physiques, Technologie, et Techn",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294300+00:00"
+   "last_seen": "2026-11-28T14:46:04.867276+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/MEPST_Programmes-Educatifs_6e-Sec_4-HS_SPTIC.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:21.962035+00:00",
+   "last_checked": "2026-11-28T14:46:28.654695+00:00",
    "status": "ok",
    "label": "PROGRAMME EDUCATIF DU DOMAINE D’APPRENTISSAGE DES SCIENCES : Sciences Physiques, Technologie, et Technologies de l’Infor",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294302+00:00"
+   "last_seen": "2026-11-28T14:46:04.867278+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Guide-de-leducateur-_-Alphabetisation-fonctionnelle.pdf": {
    "ok": true,
@@ -15776,15 +16287,15 @@
    "status": "ok",
    "label": "GUIDE DE L’EDUCATEUR CILUBA",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294303+00:00"
+   "last_seen": "2026-11-28T14:46:04.867279+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Manuel-de-leleve_Alphabetisation-fonctionnelle-2.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:29.350592+00:00",
+   "last_checked": "2026-11-28T14:46:38.897249+00:00",
    "status": "ok",
    "label": "LIVRET DE L’APPRENANT CILUBA",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294305+00:00"
+   "last_seen": "2026-11-28T14:46:04.867281+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Guide-de-leducateur-_-Alphabetisation-initiale.pdf": {
    "ok": true,
@@ -15792,15 +16303,15 @@
    "status": "ok",
    "label": "GUIDE DE L’EDUCATEUR: ALPHABETISATION INITIALE",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294306+00:00"
+   "last_seen": "2026-11-28T14:46:04.867283+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Manuel-de-leleve_Alphabetisation-initiale-1.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:29.818368+00:00",
+   "last_checked": "2026-11-28T14:46:39.534465+00:00",
    "status": "ok",
    "label": "MANUEL DE L’ELEVE_ALPHABETISATION INITIALE 1",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294307+00:00"
+   "last_seen": "2026-11-28T14:46:04.867285+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Cahier-de-lapprenant-_-Ciluba-CRS-N1.pdf": {
    "ok": true,
@@ -15808,7 +16319,7 @@
    "status": "ok",
    "label": "CAHIER DE L’APPRENANT CILUBA",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294309+00:00"
+   "last_seen": "2026-11-28T14:46:04.867286+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Cahier-de-lapprenant-_-Kiswahili-CRS-N1.pdf": {
    "ok": true,
@@ -15816,7 +16327,7 @@
    "status": "ok",
    "label": "CAHIER DE L’APPRENANT KISWAHILI",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294310+00:00"
+   "last_seen": "2026-11-28T14:46:04.867288+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Guide-de-leducateur-_-Kiswahili-CRS-N1.pdf": {
    "ok": true,
@@ -15824,7 +16335,7 @@
    "status": "ok",
    "label": "GUIDE DE L’EDUCATEUR KISWAHILI",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294311+00:00"
+   "last_seen": "2026-11-28T14:46:04.867290+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Livret-de-lapprenant-_-Kiswahili-CRS-N1.pdf": {
    "ok": true,
@@ -15832,7 +16343,7 @@
    "status": "ok",
    "label": "LIVRET DE L’APPRENANT KISWAHILI",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294313+00:00"
+   "last_seen": "2026-11-28T14:46:04.867291+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Guide-de-leducateur-_-Francais-oral-CRS-N1.pdf": {
    "ok": true,
@@ -15840,7 +16351,7 @@
    "status": "ok",
    "label": "GUIDE DE L’EDUCATEUR FRANCAIS",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294314+00:00"
+   "last_seen": "2026-11-28T14:46:04.867293+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Cahier-de-lapprenant-_-Lingala-CRS-N1.pdf": {
    "ok": true,
@@ -15848,7 +16359,7 @@
    "status": "ok",
    "label": "CAHIER DE L’APPRENANT LINGALA",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294315+00:00"
+   "last_seen": "2026-11-28T14:46:04.867295+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Guide-de-leducateur-_-Lingala-CRS-N1.pdf": {
    "ok": true,
@@ -15856,7 +16367,7 @@
    "status": "ok",
    "label": "GUIDE DE L’EDUCATEUR LINGALA",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294317+00:00"
+   "last_seen": "2026-11-28T14:46:04.867297+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Livret-de-lapprenant-_-Lingala-CRS-N1.pdf": {
    "ok": true,
@@ -15864,7 +16375,7 @@
    "status": "ok",
    "label": "LIVRET DE L’APPRENANT LINGALA",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294318+00:00"
+   "last_seen": "2026-11-28T14:46:04.867298+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Cahier-de-lapprenant-_-Ciluba-CRS-N2.pdf": {
    "ok": true,
@@ -15872,7 +16383,7 @@
    "status": "ok",
    "label": "CAHIER DE L’APPRENANT CILUBA",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294319+00:00"
+   "last_seen": "2026-11-28T14:46:04.867300+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Guide-de-leducateur-_-Ciluba-CRS-N2.pdf": {
    "ok": true,
@@ -15880,15 +16391,15 @@
    "status": "ok",
    "label": "GUIDE DE L’EDUCATEUR CILUBA",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294321+00:00"
+   "last_seen": "2026-11-28T14:46:04.867302+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Manuel-de-lapprenant-_-Ciluba-CRS-N2.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:22.900444+00:00",
+   "last_checked": "2026-11-28T14:46:29.933212+00:00",
    "status": "ok",
    "label": "LIVRET DE L’APPRENANT CILUBA",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294322+00:00"
+   "last_seen": "2026-11-28T14:46:04.867303+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Cahier-de-lapprenant-_-Francais-CRS-N2.pdf": {
    "ok": true,
@@ -15896,7 +16407,7 @@
    "status": "ok",
    "label": "CAHIER DE L’APPRENANT FRANCAIS",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294324+00:00"
+   "last_seen": "2026-11-28T14:46:04.867305+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Guide-de-leducateur-_-Francais-CRS-N2.pdf": {
    "ok": true,
@@ -15904,15 +16415,15 @@
    "status": "ok",
    "label": "GUIDE DE L’EDUCATEUR FRANCAIS",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294326+00:00"
+   "last_seen": "2026-11-28T14:46:04.867307+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Manuel-de-lapprenant-_-Francais-CRS-N2.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:23.367903+00:00",
+   "last_checked": "2026-11-28T14:46:30.588340+00:00",
    "status": "ok",
    "label": "LIVRET DE L’APPRENANT FRANCAIS",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294327+00:00"
+   "last_seen": "2026-11-28T14:46:04.867308+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Cahier-de-lapprenant-_-Kiswahili-CRS-N2.pdf": {
    "ok": true,
@@ -15920,7 +16431,7 @@
    "status": "ok",
    "label": "CAHIER DE L’APPRENANT KISWAHILI",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294328+00:00"
+   "last_seen": "2026-11-28T14:46:04.867310+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Guide-de-leducateur-_-Kiswahili-CRS-N2.pdf": {
    "ok": true,
@@ -15928,15 +16439,15 @@
    "status": "ok",
    "label": "GUIDE DE L’EDUCATEUR KISWAHILI",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294330+00:00"
+   "last_seen": "2026-11-28T14:46:04.867311+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Manuel-de-lapprenant-_-Kiswahili-CRS-N2.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:23.836449+00:00",
+   "last_checked": "2026-11-28T14:46:31.244258+00:00",
    "status": "ok",
    "label": "LIVRET DE L’APPRENANT KISWAHILI",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294331+00:00"
+   "last_seen": "2026-11-28T14:46:04.867313+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Cahier-de-lapprenant-_-Lingala-CRS-N2.pdf": {
    "ok": true,
@@ -15944,7 +16455,7 @@
    "status": "ok",
    "label": "CAHIER DE L’APPRENANT LINGALA",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294332+00:00"
+   "last_seen": "2026-11-28T14:46:04.867315+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Guide-de-leducateur-_-Lingala-CRS-N2.pdf": {
    "ok": true,
@@ -15952,15 +16463,15 @@
    "status": "ok",
    "label": "GUIDE DE L’EDUCATEUR LINGALA",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294333+00:00"
+   "last_seen": "2026-11-28T14:46:04.867316+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Manuel-de-lapprenant-_-Lingala-CRS-N2.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:24.301379+00:00",
+   "last_checked": "2026-11-28T14:46:31.911104+00:00",
    "status": "ok",
    "label": "LIVRET DE L’APPRENANT LINGALA",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294335+00:00"
+   "last_seen": "2026-11-28T14:46:04.867318+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Cahier-de-leleve-_-1e-Annee-Ciluba.pdf": {
    "ok": true,
@@ -15968,7 +16479,7 @@
    "status": "ok",
    "label": "Cahier de l’élève : 1ère Année Ciluba",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294336+00:00"
+   "last_seen": "2026-11-28T14:46:04.867319+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Guide-de-lenseignant-_1e-Annee-Ciluba.pdf": {
    "ok": true,
@@ -15976,15 +16487,15 @@
    "status": "ok",
    "label": "Guide de l’enseignant: 1ère Année Ciluba",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294337+00:00"
+   "last_seen": "2026-11-28T14:46:04.867321+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Manuel-de-leleve-_-1e-Annee-Ciluba.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:24.766148+00:00",
+   "last_checked": "2026-11-28T14:46:32.537793+00:00",
    "status": "ok",
    "label": "Manuel de l’élève: 1ère Année Kiswahili",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294338+00:00"
+   "last_seen": "2026-11-28T14:46:04.867323+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Guide-de-lenseignant-_1e-Annee-Francais-oral.pdf": {
    "ok": true,
@@ -15992,7 +16503,7 @@
    "status": "ok",
    "label": "Guide de l’enseignant : 1ère Année Français",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294340+00:00"
+   "last_seen": "2026-11-28T14:46:04.867325+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Cahier-de-leleve-_-1e-Annee-Kiswahili.pdf": {
    "ok": true,
@@ -16000,7 +16511,7 @@
    "status": "ok",
    "label": "Cahier de l’élève : 1ère Année Kiswahili",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294341+00:00"
+   "last_seen": "2026-11-28T14:46:04.867326+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Guide-de-lenseignant-_1e-Annee-Kiswahili.pdf": {
    "ok": true,
@@ -16008,7 +16519,7 @@
    "status": "ok",
    "label": "Guide de l’enseignant: 1ère Année Kiswahili",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294343+00:00"
+   "last_seen": "2026-11-28T14:46:04.867328+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Cahier-de-leleve-_-1e-Annee-Lingala.pdf": {
    "ok": true,
@@ -16016,7 +16527,7 @@
    "status": "ok",
    "label": "Cahier de l’élève : 1ère Année Lingala",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294344+00:00"
+   "last_seen": "2026-11-28T14:46:04.867330+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Guide-de-lenseignant-_1e-Annee-Lingala.pdf": {
    "ok": true,
@@ -16024,15 +16535,15 @@
    "status": "ok",
    "label": "Guide de l’enseignant: 1ère Année Lingala",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294345+00:00"
+   "last_seen": "2026-11-28T14:46:04.867331+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Manuel-de-leleve-_-1e-Annee-Lingala.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:25.232465+00:00",
+   "last_checked": "2026-11-28T14:46:33.173562+00:00",
    "status": "ok",
    "label": "Manuel de l’élève: 1ère Année Lingala",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294347+00:00"
+   "last_seen": "2026-11-28T14:46:04.867333+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Cahier-de-leleve-_-2e-Annee-Ciluba.pdf": {
    "ok": true,
@@ -16040,7 +16551,7 @@
    "status": "ok",
    "label": "Cahier de l’élève : 2ème Année Ciluba",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294348+00:00"
+   "last_seen": "2026-11-28T14:46:04.867335+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Guide-de-lenseignant-_2e-Annee-Ciluba.pdf": {
    "ok": true,
@@ -16048,15 +16559,15 @@
    "status": "ok",
    "label": "Guide de l’enseignant: 2ème Année Ciluba",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294349+00:00"
+   "last_seen": "2026-11-28T14:46:04.867336+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Manuel-de-leleve-_-2e-Annee-Ciluba.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:25.703346+00:00",
+   "last_checked": "2026-11-28T14:46:33.814860+00:00",
    "status": "ok",
    "label": "Manuel de l’élève: 2ème Année Ciluba",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294351+00:00"
+   "last_seen": "2026-11-28T14:46:04.867338+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Guide-de-lenseignant-_2e-Annee-Francais-oral.pdf": {
    "ok": true,
@@ -16064,7 +16575,7 @@
    "status": "ok",
    "label": "Guide de l’enseignant: 2ème Année Français",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294352+00:00"
+   "last_seen": "2026-11-28T14:46:04.867340+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Cahier-de-leleve-_-2e-Annee-Kiswahili.pdf": {
    "ok": true,
@@ -16072,7 +16583,7 @@
    "status": "ok",
    "label": "Cahier de l’élève : 2ème Année Kiswahili",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294353+00:00"
+   "last_seen": "2026-11-28T14:46:04.867341+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Guide-de-lenseignant-_2e-Annee-Kiswahili.pdf": {
    "ok": true,
@@ -16080,15 +16591,15 @@
    "status": "ok",
    "label": "Guide de l’enseignant: 2ème Année Kiswahili",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294355+00:00"
+   "last_seen": "2026-11-28T14:46:04.867343+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Manuel-de-leleve-_-2e-Annee-Kiswahili.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:26.170277+00:00",
+   "last_checked": "2026-11-28T14:46:34.481986+00:00",
    "status": "ok",
    "label": "Manuel de l’élève: 2ème Année Kiswahili",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294356+00:00"
+   "last_seen": "2026-11-28T14:46:04.867344+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Cahier-de-leleve-_-2e-Annee-Lingala.pdf": {
    "ok": true,
@@ -16096,7 +16607,7 @@
    "status": "ok",
    "label": "Cahier de l’élève : 2ème Année Lingala",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294358+00:00"
+   "last_seen": "2026-11-28T14:46:04.867346+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Guide-de-lenseignant-_2e-Annee-Lingala.pdf": {
    "ok": true,
@@ -16104,15 +16615,15 @@
    "status": "ok",
    "label": "Guide de l’enseignant: 2ème Année Lingala",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294359+00:00"
+   "last_seen": "2026-11-28T14:46:04.867348+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Manuel-de-leleve-_-2e-Annee-Lingala.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:26.640270+00:00",
+   "last_checked": "2026-11-28T14:46:35.138143+00:00",
    "status": "ok",
    "label": "Manuel de l’élève: 2ème Année Lingala",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294360+00:00"
+   "last_seen": "2026-11-28T14:46:04.867349+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Cahier-de-leleve-_-3e-Annee-Ciluba.pdf": {
    "ok": true,
@@ -16120,7 +16631,7 @@
    "status": "ok",
    "label": "Cahier de l’élève : 3ème Année Ciluba",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294361+00:00"
+   "last_seen": "2026-11-28T14:46:04.867351+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Guide-de-lenseignant-_3e-Annee-Ciluba.pdf": {
    "ok": true,
@@ -16128,15 +16639,15 @@
    "status": "ok",
    "label": "Guide de l’enseignant: 3ème Année Ciluba",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294363+00:00"
+   "last_seen": "2026-11-28T14:46:04.867353+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Manuel-de-leleve-_-3e-Annee-Ciluba.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:27.122203+00:00",
+   "last_checked": "2026-11-28T14:46:35.773154+00:00",
    "status": "ok",
    "label": "Manuel de l’élève: 3ème Année Ciluba",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294364+00:00"
+   "last_seen": "2026-11-28T14:46:04.867354+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Cahier-de-leleve-_-3e-Annee-Francais.pdf": {
    "ok": true,
@@ -16144,7 +16655,7 @@
    "status": "ok",
    "label": "Cahier l’élève: 3ème Année Français",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294365+00:00"
+   "last_seen": "2026-11-28T14:46:04.867356+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Guide-de-lenseignant-_3e-Annee-Francais.pdf": {
    "ok": true,
@@ -16152,15 +16663,15 @@
    "status": "ok",
    "label": "Guide de l’enseignant: 3ème Année Français",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294366+00:00"
+   "last_seen": "2026-11-28T14:46:04.867357+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Manuel-de-leleve-_-3e-Annee-Francais.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:27.590907+00:00",
+   "last_checked": "2026-11-28T14:46:36.424813+00:00",
    "status": "ok",
    "label": "Manuel de l’élève: 3ème Année Français",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294368+00:00"
+   "last_seen": "2026-11-28T14:46:04.867359+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Cahier-de-leleve-_-3e-Annee-Kiswahili.pdf": {
    "ok": true,
@@ -16168,7 +16679,7 @@
    "status": "ok",
    "label": "Cahier de l’élève : 3ème Année Kiswahili",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294369+00:00"
+   "last_seen": "2026-11-28T14:46:04.867361+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Guide-de-lenseignant-_3e-Annee-Kiswahili.pdf": {
    "ok": true,
@@ -16176,15 +16687,15 @@
    "status": "ok",
    "label": "Guide de l’enseignant: 3ème Année Kiswahili",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294370+00:00"
+   "last_seen": "2026-11-28T14:46:04.867363+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Manuel-de-leleve-_-3e-Annee-Kiswahili.pdf": {
    "ok": false,
-   "last_checked": "2026-11-27T01:18:28.417109+00:00",
+   "last_checked": "2026-11-28T14:46:37.599822+00:00",
    "status": "erreur 404 (fichier introuvable ou accès refusé)",
    "label": "Manuel de l’élève: 3ème Année Kiswahili",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294372+00:00"
+   "last_seen": "2026-11-28T14:46:04.867364+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Cahier-de-leleve-_-3e-Annee-Lingala.pdf": {
    "ok": true,
@@ -16192,7 +16703,7 @@
    "status": "ok",
    "label": "Cahier de l’élève : 3ème Année Lingala",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294373+00:00"
+   "last_seen": "2026-11-28T14:46:04.867366+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Guide-de-lenseignant-_3e-Annee-Lingala.pdf": {
    "ok": true,
@@ -16200,223 +16711,223 @@
    "status": "ok",
    "label": "Guide de l’enseignant: 3ème Année Lingala",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294374+00:00"
+   "last_seen": "2026-11-28T14:46:04.867367+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2022/09/Manuel-de-leleve-_-3e-Annee-Lingala.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:28.883248+00:00",
+   "last_checked": "2026-11-28T14:46:38.268101+00:00",
    "status": "ok",
    "label": "Manuel de l’élève: 3ème Année Lingala",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294376+00:00"
+   "last_seen": "2026-11-28T14:46:04.867369+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2023/06/CURRICULUM-LIVRABLE-SECRETARIAT-ADMINISTRATION.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:33.135451+00:00",
+   "last_checked": "2026-11-28T14:46:44.098756+00:00",
    "status": "ok",
    "label": "CURRICULUM NATIONAL DES HUMANITES TECHNIQUES COMMERCIALES : SECRETARIAT ADMINISTRATION",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294377+00:00"
+   "last_seen": "2026-11-28T14:46:04.867371+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2023/06/EDUCATION-CIVIQUE-ET-MORALE-PRIMAIRE.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:34.085555+00:00",
+   "last_checked": "2026-11-28T14:46:45.397443+00:00",
    "status": "ok",
    "label": "EDUCATION CIVIQUE ET MORALE PRIMAIRE",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294378+00:00"
+   "last_seen": "2026-11-28T14:46:04.867373+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2023/06/EDUCATION-CIVIQUE-ET-MORALE-SECONDAIRE.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:34.567072+00:00",
+   "last_checked": "2026-11-28T14:46:46.052925+00:00",
    "status": "ok",
    "label": "EDUCATION CIVIQUE ET MORALE SECONDAIRE",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294380+00:00"
+   "last_seen": "2026-11-28T14:46:04.867374+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2023/06/ELECTRICITE.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:35.030548+00:00",
+   "last_checked": "2026-11-28T14:46:46.688782+00:00",
    "status": "ok",
    "label": "ELECTRICITE",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294381+00:00"
+   "last_seen": "2026-11-28T14:46:04.867376+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2023/06/ELECTRONIQUE.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:35.498005+00:00",
+   "last_checked": "2026-11-28T14:46:47.330576+00:00",
    "status": "ok",
    "label": "ELECTRONIQUE",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294383+00:00"
+   "last_seen": "2026-11-28T14:46:04.867378+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2023/06/GEOGRAPHIE.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:35.980527+00:00",
+   "last_checked": "2026-11-28T14:46:47.985171+00:00",
    "status": "ok",
    "label": "GEOGRAPHIE",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294384+00:00"
+   "last_seen": "2026-11-28T14:46:04.867380+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2023/06/HISTOIRE.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:36.450007+00:00",
+   "last_checked": "2026-11-28T14:46:48.621164+00:00",
    "status": "ok",
    "label": "HISTOIRE",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294386+00:00"
+   "last_seen": "2026-11-28T14:46:04.867382+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2023/06/INFORMATIQUE-ENSEIGEMENT-PRIMAIRE.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:39.275995+00:00",
+   "last_checked": "2026-11-28T14:46:52.549589+00:00",
    "status": "ok",
    "label": "INFORMATIQUE ENSEIGEMENT PRIMAIRE",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294387+00:00"
+   "last_seen": "2026-11-28T14:46:04.867384+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2023/06/INFORMATIQUE-ENSEIGNEMENT-SECONDAIRE.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:39.745970+00:00",
+   "last_checked": "2026-11-28T14:46:53.185545+00:00",
    "status": "ok",
    "label": "INFORMATIQUE ENSEIGNEMENT SECONDAIRE",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294389+00:00"
+   "last_seen": "2026-11-28T14:46:04.867385+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2023/06/PETROCHIMIE.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:40.701911+00:00",
+   "last_checked": "2026-11-28T14:46:54.482276+00:00",
    "status": "ok",
    "label": "PETROCHIMIE",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294390+00:00"
+   "last_seen": "2026-11-28T14:46:04.867387+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2023/06/POLITIQUE-MANUELS-SCOLAIRES-VALIDEE-28.02.2017.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:41.182373+00:00",
+   "last_checked": "2026-11-28T14:46:55.118120+00:00",
    "status": "ok",
    "label": "POLITIQUE MANUELS SCOLAIRES",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294392+00:00"
+   "last_seen": "2026-11-28T14:46:04.867389+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2023/06/PSYCHOPEDAGOGIE.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:41.647163+00:00",
+   "last_checked": "2026-11-28T14:46:55.784126+00:00",
    "status": "ok",
    "label": "PSYCHOPEDAGOGIE",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294393+00:00"
+   "last_seen": "2026-11-28T14:46:04.867391+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2023/06/RECUEIL-DE-NORMES-DE-LENSEIGNEMENT-PRESCOLAIRE-EN-REPUBLIQUE-DEMOCRATIQUE-DU-CONGO-06.06.2022-FINAL.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:42.131373+00:00",
+   "last_checked": "2026-11-28T14:46:56.436573+00:00",
    "status": "ok",
    "label": "RECUEIL DE NORMES DE L’ENSEIGNEMENT PRESCOLAIRE EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO (Final)",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294395+00:00"
+   "last_seen": "2026-11-28T14:46:04.867393+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2023/06/Curriculum-Commerciale-et-Gestion.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:33.618277+00:00",
+   "last_checked": "2026-11-28T14:46:44.765980+00:00",
    "status": "ok",
    "label": "CURRICULUM – COMMERCIALE ET GESTION",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294396+00:00"
+   "last_seen": "2026-11-28T14:46:04.867395+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2023/06/Normes-architecturales-et-de-fonctionnement-dun-resume_rapport_final_2017.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:40.230759+00:00",
+   "last_checked": "2026-11-28T14:46:53.827959+00:00",
    "status": "ok",
    "label": "NORMES ARCHITECTURALES ET DE FONCTIONNEMENT (Résumé Rapport Final_2017)",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294398+00:00"
+   "last_seen": "2026-11-28T14:46:04.867397+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2023/06/IFADEM_RDC-Kinshasa-livret_No-1_Enseigner-la-Langue-Nationale.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:38.802442+00:00",
+   "last_checked": "2026-11-28T14:46:51.892431+00:00",
    "status": "ok",
    "label": "IFADEM-RDC-Livret_No 1_Enseigner la Langue Nationale",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294399+00:00"
+   "last_seen": "2026-11-28T14:46:04.867399+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2023/06/IFADEM_RDC-Kinshasa-Livret_No-2_BILINGUISME.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:38.331110+00:00",
+   "last_checked": "2026-11-28T14:46:51.263322+00:00",
    "status": "ok",
    "label": "IFADEM-RDC-Livret_No 2_BILINGUISME",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294401+00:00"
+   "last_seen": "2026-11-28T14:46:04.867401+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2023/06/IFADEM_RDC-Kinshasa-Livret_2-Competences-Production-Orales.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:36.918198+00:00",
+   "last_checked": "2026-11-28T14:46:49.287859+00:00",
    "status": "ok",
    "label": "IFADEM-RDC-Livret 2: Competences-Production-Orales",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294402+00:00"
+   "last_seen": "2026-11-28T14:46:04.867403+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2023/06/IFADEM_RDC-Kinshasa-Livret_3-Competences-Comprehension-Production-Ecrites.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:37.382569+00:00",
+   "last_checked": "2026-11-28T14:46:49.941108+00:00",
    "status": "ok",
    "label": "IFADEM-RDC-Livret 3: Competences-Comprehension-Production-Ecrites",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294403+00:00"
+   "last_seen": "2026-11-28T14:46:04.867405+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2023/06/IFADEM_RDC-Kinshasa-Livret_4-Nouveau-Programme-Enseignement-Primaire.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:37.850129+00:00",
+   "last_checked": "2026-11-28T14:46:50.596205+00:00",
    "status": "ok",
    "label": "IFADEM-RDC-Livret 4-Nouveau Programme Enseignement Primaire",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294405+00:00"
+   "last_seen": "2026-11-28T14:46:04.867406+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2024/01/ARRETE-DE-CREATION-HPR.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:42.600513+00:00",
+   "last_checked": "2026-11-28T14:46:57.096435+00:00",
    "status": "ok",
    "label": "ARRETE DE CREATION DES HUMANITES PEDAGOGIQUES RENOVEES",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294406+00:00"
+   "last_seen": "2026-11-28T14:46:04.867408+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2024/01/ARRETE-DE-MISE-EN-OEUVRE-HPR.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:43.538198+00:00",
+   "last_checked": "2026-11-28T14:46:58.390771+00:00",
    "status": "ok",
    "label": "ARRETE DE MISE EN OEUVRE DES HUMANITES PEDAGOGIQUES RENOVEES",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294407+00:00"
+   "last_seen": "2026-11-28T14:46:04.867410+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2024/01/PROGRAMME-HPR.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:44.471325+00:00",
+   "last_checked": "2026-11-28T14:46:59.681863+00:00",
    "status": "ok",
    "label": "​Programme de formation de l’option transitoire pour la formation initiale des Enseignant (e)s des six premières années ",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294409+00:00"
+   "last_seen": "2026-11-28T14:46:04.867412+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2024/01/ARRETE-DE-CREATION-IFME.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:43.068451+00:00",
+   "last_checked": "2026-11-28T14:46:57.764195+00:00",
    "status": "ok",
    "label": "ARRETE DE CREATION DES INSTITUTS DE FORMATION AUX METIERS DE L’ENSEIGNEMENT EN RD CONGO",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294410+00:00"
+   "last_seen": "2026-11-28T14:46:04.867413+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2024/01/ARRETE-DE-MISE-EN-OEUVRE-IFME.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:44.002775+00:00",
+   "last_checked": "2026-11-28T14:46:59.046086+00:00",
    "status": "ok",
    "label": "ARRETE DE MISE EN OEUVRE DES INSTITUTS DE FORMATION AUX METIERS DE L’ENSEIGNEMENT EN RD CONGO",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294411+00:00"
+   "last_seen": "2026-11-28T14:46:04.867415+00:00"
   },
   "https://edu-nc.gouv.cd/wp-content/uploads/2024/01/PROGRAMME-IFME-VF.pdf": {
    "ok": true,
-   "last_checked": "2026-11-27T01:18:44.942167+00:00",
+   "last_checked": "2026-11-28T14:47:00.332577+00:00",
    "status": "ok",
    "label": "Programme de formation initiale des Enseignant(e)s des six premières années de l’Education de Base dans les Instituts de",
    "found_on": "https://edu-nc.gouv.cd/programmes-nationaux",
-   "last_seen": "2026-11-28T00:51:16.294413+00:00"
+   "last_seen": "2026-11-28T14:46:04.867417+00:00"
   },
   "https://edu-nc.gouv.cd/docs/1784539953_CALENDRIER SCOLAIRE 2026 – 2027 F-2_copy.pdf": {
    "ok": true,
@@ -16424,7 +16935,7 @@
    "status": "ok",
    "label": "Télécharger",
    "found_on": "https://edu-nc.gouv.cd/calendrier-scolaire",
-   "last_seen": "2026-11-28T00:51:20.770259+00:00"
+   "last_seen": "2026-11-28T14:46:09.889988+00:00"
   }
  },
  "menu_vide": false,
@@ -16622,7 +17133,7 @@
     "RAISSA MALU DINANGA"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:06.598544+00:00",
+   "last_checked": "2026-11-28T14:45:53.694167+00:00",
    "last_changed": "2026-11-25T11:15:40.279497+00:00"
   },
   "https://edu-nc.gouv.cd/ministere": {
@@ -16656,7 +17167,7 @@
     "Pour toute dénonciation et autre information sur l’éducation nationale et nouvelle citoyenneté, appelez le 178"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:07.435630+00:00",
+   "last_checked": "2026-11-28T14:45:54.632076+00:00",
    "last_changed": "2026-11-25T11:15:41.605799+00:00"
   },
   "https://edu-nc.gouv.cd/secretariat-general": {
@@ -16724,7 +17235,7 @@
     "Pour toute dénonciation et autre information sur l’éducation nationale et nouvelle citoyenneté, appelez le 178"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:08.426654+00:00",
+   "last_checked": "2026-11-28T14:45:55.735245+00:00",
    "last_changed": "2026-11-25T11:15:42.458232+00:00"
   },
   "https://edu-nc.gouv.cd/directions-et-services": {
@@ -16933,7 +17444,7 @@
     "Il est important de noter que la Direction de l’Administration Scolaire fonctionne sur base d’un plan d’actions opérationnel (PAO), évalué à la fin de chaque année. Pour l’année 2022-2023, 60% des objectifs fixés ont été"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:09.514096+00:00",
+   "last_checked": "2026-11-28T14:45:57.018752+00:00",
    "last_changed": "2026-11-25T11:15:43.535987+00:00"
   },
   "https://edu-nc.gouv.cd/provinces-educationnelles": {
@@ -17142,7 +17653,7 @@
     "SUD BANGA, (Lieu d'implantation : BANGA CENTRE)"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:10.711561+00:00",
+   "last_checked": "2026-11-28T14:45:58.449214+00:00",
    "last_changed": "2026-11-25T11:15:44.674246+00:00"
   },
   "https://edu-nc.gouv.cd/inspection-generale": {
@@ -17346,7 +17857,7 @@
     "Pour toute dénonciation et autre information sur l’éducation nationale et nouvelle citoyenneté, appelez le 178"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:11.662713+00:00",
+   "last_checked": "2026-11-28T14:45:59.537686+00:00",
    "last_changed": "2026-11-25T11:15:45.731655+00:00"
   },
   "https://edu-nc.gouv.cd/cieas": {
@@ -17427,7 +17938,7 @@
     "Pour toute dénonciation et autre information sur l’éducation nationale et nouvelle citoyenneté, appelez le 178"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:12.608745+00:00",
+   "last_checked": "2026-11-28T14:46:00.619876+00:00",
    "last_changed": "2026-11-25T11:15:46.593828+00:00"
   },
   "https://edu-nc.gouv.cd/documentation": {
@@ -17450,7 +17961,7 @@
     "Pour toute dénonciation et autre information sur l’éducation nationale et nouvelle citoyenneté, appelez le 178"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:13.533732+00:00",
+   "last_checked": "2026-11-28T14:46:01.676276+00:00",
    "last_changed": "2026-11-25T11:15:47.471617+00:00"
   },
   "https://edu-nc.gouv.cd/systeme-educatif": {
@@ -17473,7 +17984,7 @@
     "Pour toute dénonciation et autre information sur l’éducation nationale et nouvelle citoyenneté, appelez le 178"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:14.375194+00:00",
+   "last_checked": "2026-11-28T14:46:02.664427+00:00",
    "last_changed": "2026-11-25T11:15:48.270899+00:00"
   },
   "https://edu-nc.gouv.cd/niveaux": {
@@ -17506,7 +18017,7 @@
     "Pour toute dénonciation et autre information sur l’éducation nationale et nouvelle citoyenneté, appelez le 178"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:15.326271+00:00",
+   "last_checked": "2026-11-28T14:46:03.756597+00:00",
    "last_changed": "2026-11-25T11:15:49.109182+00:00"
   },
   "https://edu-nc.gouv.cd/programmes-nationaux": {
@@ -17592,7 +18103,7 @@
     "Pour toute dénonciation et autre information sur l’éducation nationale et nouvelle citoyenneté, appelez le 178"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:16.422649+00:00",
+   "last_checked": "2026-11-28T14:46:04.989817+00:00",
    "last_changed": "2026-11-25T11:15:50.073815+00:00"
   },
   "https://edu-nc.gouv.cd/valeurs-vision": {
@@ -17615,7 +18126,7 @@
     "Pour toute dénonciation et autre information sur l’éducation nationale et nouvelle citoyenneté, appelez le 178"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:17.255299+00:00",
+   "last_checked": "2026-11-28T14:46:05.912122+00:00",
    "last_changed": "2026-11-25T11:15:50.821205+00:00"
   },
   "https://edu-nc.gouv.cd/epreuves-certificatives": {
@@ -17653,7 +18164,7 @@
     "Pour toute dénonciation et autre information sur l’éducation nationale et nouvelle citoyenneté, appelez le 178"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:18.094383+00:00",
+   "last_checked": "2026-11-28T14:46:06.891330+00:00",
    "last_changed": "2026-11-25T11:15:51.619010+00:00"
   },
   "https://edu-nc.gouv.cd/tenasosp-enafep": {
@@ -17750,7 +18261,7 @@
     "Pour toute dénonciation et autre information sur l’éducation nationale et nouvelle citoyenneté, appelez le 178"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:19.010410+00:00",
+   "last_checked": "2026-11-28T14:46:07.932438+00:00",
    "last_changed": "2026-11-25T11:15:53.006780+00:00"
   },
   "https://edu-nc.gouv.cd/exetat": {
@@ -17822,7 +18333,7 @@
     "Pour toute dénonciation et autre information sur l’éducation nationale et nouvelle citoyenneté, appelez le 178"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:19.956184+00:00",
+   "last_checked": "2026-11-28T14:46:08.982720+00:00",
    "last_changed": "2026-11-25T11:15:53.900182+00:00"
   },
   "https://edu-nc.gouv.cd/calendrier-scolaire": {
@@ -17834,7 +18345,7 @@
     "Pour toute dénonciation et autre information sur l’éducation nationale et nouvelle citoyenneté, appelez le 178"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:20.788922+00:00",
+   "last_checked": "2026-11-28T14:46:09.922664+00:00",
    "last_changed": "2026-11-25T11:15:54.683484+00:00"
   },
   "https://edu-nc.gouv.cd/bourses": {
@@ -17849,7 +18360,7 @@
     "Pour toute dénonciation et autre information sur l’éducation nationale et nouvelle citoyenneté, appelez le 178"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:21.620647+00:00",
+   "last_checked": "2026-11-28T14:46:10.912224+00:00",
    "last_changed": "2026-11-25T11:15:55.450211+00:00"
   },
   "https://edu-nc.gouv.cd/orientation-scolaire": {
@@ -17922,7 +18433,7 @@
     "Pour toute dénonciation et autre information sur l’éducation nationale et nouvelle citoyenneté, appelez le 178"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:22.541513+00:00",
+   "last_checked": "2026-11-28T14:46:11.979091+00:00",
    "last_changed": "2026-11-25T11:15:56.260967+00:00"
   },
   "https://edu-nc.gouv.cd/discipline-scolaire": {
@@ -18010,7 +18521,7 @@
     "Pour toute dénonciation et autre information sur l’éducation nationale et nouvelle citoyenneté, appelez le 178"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:23.457199+00:00",
+   "last_checked": "2026-11-28T14:46:13.011754+00:00",
    "last_changed": "2026-11-25T11:15:57.076921+00:00"
   },
   "https://edu-nc.gouv.cd/bien-etre-protection": {
@@ -18096,7 +18607,7 @@
     "Pour toute dénonciation et autre information sur l’éducation nationale et nouvelle citoyenneté, appelez le 178"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:24.445887+00:00",
+   "last_checked": "2026-11-28T14:46:14.097300+00:00",
    "last_changed": "2026-11-25T11:15:57.931064+00:00"
   },
   "https://edu-nc.gouv.cd/prevention-violences": {
@@ -18201,7 +18712,7 @@
     "Pour toute dénonciation et autre information sur l’éducation nationale et nouvelle citoyenneté, appelez le 178"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:25.398230+00:00",
+   "last_checked": "2026-11-28T14:46:15.142546+00:00",
    "last_changed": "2026-11-25T11:15:58.802273+00:00"
   },
   "https://edu-nc.gouv.cd/communiques": {
@@ -18227,7 +18738,7 @@
     "Pour toute dénonciation et autre information sur l’éducation nationale et nouvelle citoyenneté, appelez le 178"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:26.326431+00:00",
+   "last_checked": "2026-11-28T14:46:16.222368+00:00",
    "last_changed": "2026-11-25T11:15:59.651748+00:00"
   },
   "https://edu-nc.gouv.cd/locale/fr": {
@@ -18289,7 +18800,7 @@
     "Pour toute dénonciation et autre information sur l’éducation nationale et nouvelle citoyenneté, appelez le 178"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:27.678761+00:00",
+   "last_checked": "2026-11-28T14:46:17.723913+00:00",
    "last_changed": "2026-11-25T11:16:01.017264+00:00"
   },
   "https://edu-nc.gouv.cd/locale/en": {
@@ -18351,7 +18862,7 @@
     "For any report or information related to national education and new citizenship, call 178"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:28.972964+00:00",
+   "last_checked": "2026-11-28T14:46:19.304693+00:00",
    "last_changed": "2026-11-25T11:16:03.072122+00:00"
   },
   "https://edu-nc.gouv.cd/contactez-nous": {
@@ -18381,7 +18892,7 @@
     "Pour toute dénonciation et autre information sur l’éducation nationale et nouvelle citoyenneté, appelez le 178"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:29.921081+00:00",
+   "last_checked": "2026-11-28T14:46:20.348579+00:00",
    "last_changed": "2026-11-25T11:16:03.882829+00:00"
   },
   "https://edu-nc.gouv.cd/politique-de-confidentialite": {
@@ -18448,7 +18959,7 @@
     "Email : contact@minepst.gouv.cd"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:30.753538+00:00",
+   "last_checked": "2026-11-28T14:46:21.313280+00:00",
    "last_changed": "2026-11-26T01:20:14.723661+00:00"
   },
   "https://edu-nc.gouv.cd/conditions-d-utilisation": {
@@ -18510,7 +19021,7 @@
     "Email : contact@minepst.gouv.cd"
    ],
    "broken": false,
-   "last_checked": "2026-11-28T00:51:31.614371+00:00",
+   "last_checked": "2026-11-28T14:46:22.370284+00:00",
    "last_changed": "2026-11-26T01:20:16.033063+00:00"
   }
  },
@@ -18551,6 +19062,23 @@
     "   + Dernière mise à jour : 26/11/2026",
     "Texte retiré (1 ligne(s)) :",
     "   - Dernière mise à jour : 25/11/2026"
+   ],
+   "count": 1
+  },
+  {
+   "ts": "2026-11-28T14:44:58.629457+00:00",
+   "kind": "article_modifie",
+   "title": "Article modifié : MINEDU-NC - Kongo central 1 : le Diprocope présente le numérique comme un levier de la maîtrise des effectifs et de la sécurisation de la paie des enseignants",
+   "url": "https://edu-nc.gouv.cd/actualites/kongo-central-1-le-diprocope-presente-le-numerique-comme-un-levier-de-la-maitrise-des-effectifs-et-de-la-securisation-de-la-paie-des-enseignants",
+   "details": [
+    "Texte ajouté ou modifié (14 ligne(s)) :",
+    "   + Le Directeur provincial de la Direction nationale de contrôle, de la préparation et de l’exécution de la paie (DINACOPE) du Kongo Central 1, Felly Lange, a procédé à la restitution d’un grand séminaire de formation des d",
+    "   + Devant les cadres et agents de sa province éducationnelle, il a rappelé les principales orientations et innovations présentées au cours de cette formation, avec un accent particulier sur la transition numérique, l’assain",
+    "   + Dans sa présentation, Felly Lange a parcouru les trois grands axes qui constituent les champs d’action de la DINACOPE Kongo Central 1, à savoir l’axe Bas-Fleuve, l’axe Muanda et l’axe Matadi, couvrant les différentes ent",
+    "   + L’objectif poursuivi est notamment de renforcer le contrôle des effectifs, d’améliorer la qualité des données et de permettre une remontée rapide et fiable des informations issues du terrain.",
+    "   + Parmi les grandes innovations mises en avant figure notamment l’identification biométrique des enseignants, considérée comme un outil essentiel dans la lutte contre les irrégularités dans le fichier de paie.",
+    "   + À cela s’ajoute la mise en perspective de cartes à puce multifonctionnelles, destinées notamment à renforcer la sécurisation des opérations liées à la paie.",
+    "   … et 8 autre(s) ligne(s)"
    ],
    "count": 1
   }
